@@ -1,5 +1,5 @@
 {
- "atualizado_em": "12/11/2026 13:26",
+ "atualizado_em": "12/11/2026 13:38",
  "total_base": 500,
  "itens": [
   {
@@ -2841,9 +2841,9 @@
    "hora": "09:15",
    "objeto": "Contratação de empresa do ramo da construção civil, pelo regime de empreitada global, para execução da obra de Pavimentação asfáltica e implantação de sistema de drenagem pluvial da Perimetral Lauro Grein (Acesso Norte) e da Estrada Geral Passa Quatro, localizadas no município de Monte Castelo/SC.",
    "modalidade": "Concorrência   Órgão:  MUNICIPIO DE MONTE CASTELO",
-   "valor_estimado": null,
-   "fonte_valor": null,
-   "valor_obs": "valor não informado na fonte",
+   "valor_estimado": 6420163.42,
+   "fonte_valor": "página pública do portal BLL",
+   "valor_obs": null,
    "classe": "SIM",
    "justificativa": "Pavimentação asfáltica com drenagem pluvial",
    "link_pncp": null,
@@ -2869,7 +2869,7 @@
       "uf": "SC",
       "lat": -26.461,
       "lon": -50.2327,
-      "valor": null,
+      "valor": 6420163.42,
       "origem": "sede"
      }
     ],
@@ -3384,8 +3384,8 @@
    "hora": "10:00",
    "objeto": "Contratação de empresa especializada de engenharia para a execução de recapeamento asfáltico de vias urbanas em Concreto Betuminoso Usinado a Quente (CBUQ), com área pavimentada de 39.173,05 m², na sede do Município de Atalaia/PR, incluindo serviços preliminares, demolição de calçadas, revestimento, sinalização de trânsito, ensaios tecnológicos e placa de obra, com fornecimento de materiais, mão de obra e equipamentos necessários à completa execução e entrega da obra em pleno funcionamento.",
    "modalidade": "Concorrência",
-   "valor_estimado": 3123392.0,
-   "fonte_valor": "PNCP",
+   "valor_estimado": 1366106.31,
+   "fonte_valor": "página pública do portal BNC",
    "valor_obs": null,
    "classe": "SIM",
    "justificativa": "Recapeamento asfáltico em CBUQ de vias urbanas",
@@ -3416,7 +3416,7 @@
       "uf": "PR",
       "lat": -23.1517,
       "lon": -52.0551,
-      "valor": 3123392.0,
+      "valor": 1366106.31,
       "origem": "sede"
      }
     ],
@@ -4144,26 +4144,22 @@
    "hora": "13:00",
    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA, NA MODALIDADE CONCORRÊNCIA ELETRÔNICA, PARA EXECUÇÃO DE PAVIMENTAÇÃO ASFÁLTICA E SINALIZAÇÃO VIÁRIA DA RUA JOSÉ ADELINO DA SILVA (RUA TERERÊ - TRECHO 1), COMPREENDENDO O FORNECIMENTO DE MATERIAIS, MÃO DE OBRA, EQUIPAMENTOS E DEMAIS INSUMOS NECESSÁRIOS À PERFEITA EXECUÇÃO DO OBJETO, CONFORME ESTUDO TÉCNICO PRELIMINAR E TERMO DE REFERÊNCIA.",
    "modalidade": "Concorrência - Eletrônica",
-   "valor_estimado": 7589701.13,
-   "fonte_valor": "PNCP",
+   "valor_estimado": 1731988.84,
+   "fonte_valor": "página pública do portal BNC",
    "valor_obs": null,
    "classe": "SIM",
    "justificativa": "Pavimentação asfáltica com sinalização viária",
-   "link_pncp": "https://pncp.gov.br/app/editais/10459525000143/2026/125",
+   "link_pncp": null,
    "link_origem": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5DJVQeW8cb7nmcendiEo3s9gtBzFwFBWUJ_jE2N0wrDg3uJAfY3qfKlCTMbU8TA%2FG8ndUH8qisecOYlhT8x0v9zcxCHS3Sw0KtcFFHgX4IVys%3D",
    "links_extra": [
     "https://bnccompras.com/Process/ProcessView?param1=[gkz]0QiH8DgyeAw/r77HAgeBNxaexLisWcXTQAFQ7kWntMUHj/D9uBxFlr8Ni1wKyOD0bzAYToHN2xJTK_VpDZh8l9AOf3xt0VmUvLgwMbOuTl8="
    ],
-   "situacao": "Divulgada no PNCP",
+   "situacao": null,
    "observacao": null,
    "link_edital": null,
    "lat": -26.9926,
    "lon": -48.6352,
    "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/10459525000143/2026/125"
-    },
     {
      "tipo": "Portal de compras",
      "url": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5DJVQeW8cb7nmcendiEo3s9gtBzFwFBWUJ_jE2N0wrDg3uJAfY3qfKlCTMbU8TA%2FG8ndUH8qisecOYlhT8x0v9zcxCHS3Sw0KtcFFHgX4IVys%3D"
@@ -4182,7 +4178,7 @@
       "uf": "SC",
       "lat": -26.9926,
       "lon": -48.6352,
-      "valor": 7589701.13,
+      "valor": 1731988.84,
       "origem": "sede"
      }
     ],
@@ -6049,9 +6045,9 @@
    "hora": "13:30",
    "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM OBRAS DE ENGENHARIA, PARA A EXECUÇÃO DE PAVIMENTAÇÃO ASFÁLTICA EM VIAS DO BAIRRO ZILLIO FASCINELLI, CONVÊNIO ESTADUAL Nº 101389/2024, COM FORNECIMENTO DE MATERIAIS, MÃO DE OBRA E EQUIPAMENTOS NECESSÁRIOS.",
    "modalidade": "Concorrência",
-   "valor_estimado": null,
-   "fonte_valor": null,
-   "valor_obs": "valor não informado na fonte",
+   "valor_estimado": 999917.32,
+   "fonte_valor": "página pública do portal BLL",
+   "valor_obs": null,
    "classe": "SIM",
    "justificativa": "Pavimentação asfáltica de vias de bairro",
    "link_pncp": null,
@@ -6077,7 +6073,7 @@
       "uf": "SP",
       "lat": -21.5103,
       "lon": -48.1538,
-      "valor": null,
+      "valor": 999917.32,
       "origem": "sede"
      }
     ],
@@ -6641,7 +6637,7 @@
    "objeto": "Pavimentação sobre pedras irregulares de vias urbanas em concreto betuminoso usinado a quente (CBUQ), área de 28.485,92 m², compreendendo: serviços preliminares; terraplenagem; drenagem; base e sub-base; revestimento; meio-fio e sarjeta; serviços de urbanização; sinalização de trânsito; serviços diversos; e ensaios de controle tecnológico.",
    "modalidade": "Concorrência - Eletrônica",
    "valor_estimado": 5820689.75,
-   "fonte_valor": "PNCP",
+   "fonte_valor": "soma dos itens no PNCP",
    "valor_obs": null,
    "classe": "SIM",
    "justificativa": "Pavimentação em CBUQ sobre pedras irregulares",
