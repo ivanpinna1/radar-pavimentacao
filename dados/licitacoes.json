@@ -1,5 +1,5 @@
 {
- "atualizado_em": "12/11/2026 12:54",
+ "atualizado_em": "12/11/2026 13:03",
  "total_base": 500,
  "itens": [
   {
@@ -24,7 +24,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -28.2681,
-   "lon": -49.1701
+   "lon": -49.1701,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82926551000145/2026/175"
+    }
+   ]
   },
   {
    "id": "PNCP-18094847000148-1-000128-2026",
@@ -48,7 +54,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.0642,
-   "lon": -43.7598
+   "lon": -43.7598,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18094847000148/2026/128"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "www.gov.br/compras"
+    }
+   ]
   },
   {
    "id": "PNCP-76105535000199-1-000367-2026",
@@ -67,15 +83,26 @@
    "justificativa": "itens da compra no PNCP: itens=5 asfalto=5 bloco/concreto=0",
    "link_pncp": "https://pncp.gov.br/app/editais/76105535000199/2026/367",
    "link_origem": null,
-   "links_extra": [
-    "https://pncp.gov.br/app/editais/76105535000199/2026/365",
-    "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92553203000432026"
-   ],
+   "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -25.5859,
-   "lon": -49.4047
+   "lon": -49.4047,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76105535000199/2026/367"
+    },
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76105535000199/2026/365"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92553203000432026"
+    }
+   ]
   },
   {
    "id": "PNCP-83169623000110-1-000570-2026",
@@ -99,7 +126,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.3045,
-   "lon": -48.8487
+   "lon": -48.8487,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/83169623000110/2026/570"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45323003000712026"
+    }
+   ]
   },
   {
    "id": "PNCP-01609843000152-1-000621-2026",
@@ -123,7 +160,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.6735,
-   "lon": -48.5111
+   "lon": -48.5111,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01609843000152/2026/620"
+    }
+   ]
   },
   {
    "id": "PNCP-76205640000108-1-000383-2026",
@@ -147,7 +190,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.7407,
-   "lon": -53.057
+   "lon": -53.057,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76205640000108/2026/383"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98754103005832026"
+    }
+   ]
   },
   {
    "id": "PNCP-46634242000138-1-000189-2026",
@@ -167,13 +220,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/46634242000138/2026/189",
    "link_origem": null,
    "links_extra": [
-    "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmO_3qVwSEoFfxzy6_cgybI1267LYw9GqI3y2crsDs8YttM5bNnaaYImUat7lTtSAAax4JygYaFKhLOj9AFVSr7efCGQJQbzXetdmvDY4vz0%3D"
+    "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmO_3qVwSEoFfxzy6_cgybI1267LYw9GqI3y2crsDs8YttM5bNnaaYImUat7lTtSAAax4JygYaFKhLOj9AFVSr7efCGQJQbzXetdmvDY4vz0%3D",
+    "https://pncp.gov.br/app/editais/46634242000138/2026/189"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -24.5108,
-   "lon": -48.8443
+   "lon": -48.8443,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634242000138/2026/189"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmO_3qVwSEoFfxzy6_cgybI1267LYw9GqI3y2crsDs8YttM5bNnaaYImUat7lTtSAAax4JygYaFKhLOj9AFVSr7efCGQJQbzXetdmvDY4vz0%3D"
+    }
+   ]
   },
   {
    "id": "PNCP-17695008000112-1-000146-2026",
@@ -193,13 +257,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/17695008000112/2026/146",
    "link_origem": "https://app2.licitardigital.com.br/pesquisa/115703",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-736651433"
+    "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-736651433",
+    "https://app2.licitardigital.com.br/pesquisa/115703",
+    "https://pncp.gov.br/app/editais/17695008000112/2026/146"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -18.2048,
-   "lon": -45.2473
+   "lon": -45.2473,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/17695008000112/2026/146"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.licitardigital.com.br/pesquisa/115703"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-736651433"
+    }
+   ]
   },
   {
    "id": "PNCP-43052497000102-1-000508-2026",
@@ -223,7 +303,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.5329,
-   "lon": -46.6395
+   "lon": -46.6395,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/43052497000102/2026/508"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=26220103006552026"
+    }
+   ]
   },
   {
    "id": "PNCP-76995430000152-1-000190-2026",
@@ -242,16 +332,34 @@
    "justificativa": "Pavimentação de vias urbanas em CBUQ",
    "link_pncp": "https://pncp.gov.br/app/editais/76995430000152/2026/190",
    "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45437003000432026",
-   "links_extra": [
-    "https://pncp.gov.br/app/editais/76995430000152/2026/196",
-    " ",
-    "https://www.itapejaradoeste.pr.gov.br/licitacoes/aviso-de-concorrencia-eletronica-019-2026-data-de-abertura-13-11-2026/"
-   ],
+   "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -25.9619,
-   "lon": -52.8152
+   "lon": -52.8152,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76995430000152/2026/190"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45437003000432026"
+    },
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76995430000152/2026/196"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": " "
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.itapejaradoeste.pr.gov.br/licitacoes/aviso-de-concorrencia-eletronica-019-2026-data-de-abertura-13-11-2026/"
+    }
+   ]
   },
   {
    "id": "PNCP-18602037000155-1-000375-2026",
@@ -270,16 +378,30 @@
    "justificativa": "Pavimentação asfáltica em CBUQ de diversas ruas",
    "link_pncp": "https://pncp.gov.br/app/editais/18602037000155/2026/375",
    "link_origem": null,
-   "links_extra": [
-    "https://pncp.gov.br/app/editais/18602037000155/2026/376",
-    "https://licitanet.com.br/sessao/206434",
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741142968"
-   ],
+   "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -19.3087,
-   "lon": -46.0465
+   "lon": -46.0465,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18602037000155/2026/375"
+    },
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18602037000155/2026/376"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://licitanet.com.br/sessao/206434"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741142968"
+    }
+   ]
   },
   {
    "id": "PNCP-82821174000180-1-000489-2026",
@@ -303,7 +425,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.7242,
-   "lon": -53.5163
+   "lon": -53.5163,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82821174000180/2026/511"
+    }
+   ]
   },
   {
    "id": "MRDF-MG-10-112026",
@@ -327,7 +455,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.3044,
-   "lon": -45.3773
+   "lon": -45.3773,
+   "links": [
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.mariadafe.mg.gov.br/licitacao/detalhe/2664/pspan-stylecolorblackcontratacao-de-empresa-especializada-para-servicos-de-pavimentacao-asfaltica-no-trecho-de-estrada-vicinal-no-distrito-cafundo-no-municipio-de-maria-da-fe-atraves-de-licitacao-compartilhada-adesao-a-arp-n0052024-do-processo-n0132024-conc"
+    }
+   ]
   },
   {
    "id": "PIDD-SP-17-152026-61902025",
@@ -346,12 +480,28 @@
    "justificativa": "edital lido: 44 menções a asfalto/CBUQ × 1 a bloco/concreto",
    "link_pncp": "https://pncp.gov.br/app/editais/46634457000159/2026/219",
    "link_origem": "https://www.piedade.sp.gov.br/portal/editais/0/1/3312/",
-   "links_extra": [],
+   "links_extra": [
+    "https://bllcompras.com/Process/ProcessView?param1=[gkz]CQxiW3Y/qgt063xqomvmTCGdzqzInMyXfRgXoM6F1ipUJmL7UBHwPtGLcVYNXWfZUAbqDq82H0LKToesT4rkoEQogJ9BDWw2xt14W0Wiw0s="
+   ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -23.7139,
-   "lon": -47.4256
+   "lon": -47.4256,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634457000159/2026/219"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.piedade.sp.gov.br/portal/editais/0/1/3312/"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]CQxiW3Y/qgt063xqomvmTCGdzqzInMyXfRgXoM6F1ipUJmL7UBHwPtGLcVYNXWfZUAbqDq82H0LKToesT4rkoEQogJ9BDWw2xt14W0Wiw0s="
+    }
+   ]
   },
   {
    "id": "MN-3149804-2-202026",
@@ -371,13 +521,31 @@
    "link_pncp": "https://pncp.gov.br/app/editais/18140772000194/2026/103",
    "link_origem": "https://transparencia.perdizes.mg.gov.br/#/licitacoes",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740220303"
+    "https://licitanet.com.br/sessao/199826"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -19.3434,
-   "lon": -47.2963
+   "lon": -47.2963,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18140772000194/2026/103"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://transparencia.perdizes.mg.gov.br/#/licitacoes"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://licitanet.com.br/sessao/199826"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740220303"
+    }
+   ]
   },
   {
    "id": "PNCP-01594009000130-1-000083-2026",
@@ -401,7 +569,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.6927,
-   "lon": -53.0967
+   "lon": -53.0967,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01594009000130/2026/83"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]6pc84NZ1Qlp6WVqG_9C3SujnaHmq204XT_aqhyvMx7FjV4jH8BphmFhXhPIOXjEYacohdm5HUBwWWaqP8mKi/YPdSXIXztssU_yYFYDg_B4="
+    }
+   ]
   },
   {
    "id": "DOU-aa0089e474693d892056",
@@ -425,7 +603,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.4077,
-   "lon": -52.4109
+   "lon": -52.4109,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76205970000195/2026/146"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740228050"
+    }
+   ]
   },
   {
    "id": "PNCP-83102467000170-1-000080-2026",
@@ -449,7 +637,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.4246,
-   "lon": -49.246
+   "lon": -49.246,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/83102467000170/2026/80"
+    }
+   ]
   },
   {
    "id": "PNCP-18392548000190-1-000063-2026",
@@ -473,7 +667,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.0453,
-   "lon": -41.6897
+   "lon": -41.6897,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18392548000190/2026/63"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]uAeKHvkUnFfenAJOyDC0KF1qW8Ysxx9KX9g0MHQjHqqHXQim1O1hcko04BoOUu7N0MvAqmT6gO_Tc7Enok/b4qvD4I7Ab3IQEd1T4mCTnVc="
+    }
+   ]
   },
   {
    "id": "ADDN-SP-17-32026-1032026",
@@ -497,7 +701,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.8948,
-   "lon": -51.3786
+   "lon": -51.3786,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44428506000171/2026/414"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.andradina.sp.gov.br/portal/editais/0/1/1783/"
+    }
+   ]
   },
   {
    "id": "PNCP-75654566000136-1-000155-2026",
@@ -521,7 +735,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.8806,
-   "lon": -50.8173
+   "lon": -50.8173,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/75654566000136/2026/155"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ffXPv5/3CTO3w6N/5cc3L7vtkNpNaBmft0AunFOtx0DyisbHOHM76VppbHsjTil8u3NdwORXNjKHDGYruB_2qnlSXVh5K6i41PHiaOJevh8="
+    }
+   ]
   },
   {
    "id": "PNCP-76282649000104-1-000146-2026",
@@ -545,7 +769,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.4336,
-   "lon": -52.2929
+   "lon": -52.2929,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76282649000104/2026/146"
+    }
+   ]
   },
   {
    "id": "PNCP-76205715000142-1-000185-2026",
@@ -569,7 +799,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.8217,
-   "lon": -53.4801
+   "lon": -53.4801,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76205715000142/2026/185"
+    }
+   ]
   },
   {
    "id": "PRLO-PR-2-MV8xNjI1",
@@ -593,7 +829,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.8278,
-   "lon": -53.7433
+   "lon": -53.7433,
+   "links": [
+    {
+     "tipo": "Site do órgão",
+     "url": "https://transparencia.e-publica.net/epublica-portal/#/perola_oeste/portal/compras/licitacaoView?params=%7B%22id%22:MV8xNjI1,%22mode%22:%22INFO%22%7D"
+    }
+   ]
   },
   {
    "id": "PNCP-75461442000134-1-000060-2026",
@@ -617,7 +859,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.0101,
-   "lon": -52.9162
+   "lon": -52.9162,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/75461442000134/2026/60"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]/AW5pSYQl1sY/FhfMajIhcTV3fz6Kli_XM2b7Gj1c3pTa6z3e4vBXL_BXMrMi4oIm7tdBsHCMvZG/58kATVcx/NYAagiAYIz_J_713Ba/Nk="
+    }
+   ]
   },
   {
    "id": "PNCP-76968627000100-1-000327-2026",
@@ -641,7 +893,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.2959,
-   "lon": -50.0815
+   "lon": -50.0815,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76968627000100/2026/327"
+    }
+   ]
   },
   {
    "id": "PNCP-18313825000121-1-000135-2026",
@@ -665,7 +923,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -19.9476,
-   "lon": -44.7063
+   "lon": -44.7063,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18313825000121/2026/135"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.licitardigital.com.br/pesquisa/118020"
+    }
+   ]
   },
   {
    "id": "PNCP-48031918000124-1-003134-2026",
@@ -689,7 +957,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.4326,
-   "lon": -51.3426
+   "lon": -51.3426,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/48031918000124/2026/3134"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=10231805002512026"
+    }
+   ]
   },
   {
    "id": "DOU-c28b55458afc9e055cf4",
@@ -708,12 +986,28 @@
    "justificativa": "edital conferido: TR tabela: recapeamento asfaltico CBUQ R$1.850.322 de R$1.965.915 total; sarjetoes R$115.593 (~6%)",
    "link_pncp": "https://pncp.gov.br/app/editais/45126851000113/2026/106",
    "link_origem": "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-740104263",
-   "links_extra": [],
+   "links_extra": [
+    "https://www.itajobi.sp.gov.br/licitacoes"
+   ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -21.3123,
-   "lon": -49.0629
+   "lon": -49.0629,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45126851000113/2026/106"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-740104263"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.itajobi.sp.gov.br/licitacoes"
+    }
+   ]
   },
   {
    "id": "PNCP-81044984000104-1-000120-2026",
@@ -737,7 +1031,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.7639,
-   "lon": -52.9868
+   "lon": -52.9868,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/81044984000104/2026/120"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]/mVrP1octvvgmuh1ExwpSE8u9zBmOKCT7kb2YeDSjooIP88WyWiAJB0U9W8exVeJCk2VUogI2vhAyrT2grKLHbzTK2Bca7MbZWJDokAMU_0="
+    }
+   ]
   },
   {
    "id": "PNCP-01603719000180-1-000133-2026",
@@ -761,7 +1065,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.7371,
-   "lon": -52.1188
+   "lon": -52.1188,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01603719000180/2026/133"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]GDpYplUzqd0w3FoJfh_7MBGSxDfl7X66OH6jvmpedTLQQ1FoG0MT65tRthvF8_utaVjudli/YwVWd8R1a7FWnK1ifv1n7cITRWC4meePMZ0="
+    }
+   ]
   },
   {
    "id": "PNCP-18338848000190-1-000068-2026",
@@ -781,13 +1095,28 @@
    "link_pncp": "https://pncp.gov.br/app/editais/18338848000190/2026/68",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737127119"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737127119",
+    "https://pncp.gov.br/app/editais/18338848000190/2026/71"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -19.3384,
-   "lon": -42.1575
+   "lon": -42.1575,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18338848000190/2026/68"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737127119"
+    },
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18338848000190/2026/71"
+    }
+   ]
   },
   {
    "id": "PNCP-01603719000180-1-000132-2026",
@@ -811,7 +1140,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.7371,
-   "lon": -52.1188
+   "lon": -52.1188,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01603719000180/2026/134"
+    }
+   ]
   },
   {
    "id": "PNCP-83102582000144-1-000199-2026",
@@ -835,7 +1170,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.4087,
-   "lon": -49.822
+   "lon": -49.822,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/83102582000144/2026/203"
+    }
+   ]
   },
   {
    "id": "PNCP-44951515000142-1-000167-2026",
@@ -859,7 +1200,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.5299,
-   "lon": -52.1682
+   "lon": -52.1682,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44951515000142/2026/167"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": " "
+    }
+   ]
   },
   {
    "id": "PNCP-70946009000175-1-000426-2026",
@@ -879,13 +1230,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/70946009000175/2026/426",
    "link_origem": " ",
    "links_extra": [
-    "https://www.saoroque.sp.gov.br/portal/editais/0/1/3048/"
+    "https://www.saoroque.sp.gov.br/portal/editais/0/1/3048/",
+    " ",
+    "https://pncp.gov.br/app/editais/70946009000175/2026/426"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -23.5226,
-   "lon": -47.1357
+   "lon": -47.1357,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/70946009000175/2026/426"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": " "
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.saoroque.sp.gov.br/portal/editais/0/1/3048/"
+    }
+   ]
   },
   {
    "id": "PNCP-01612478000135-1-000059-2026",
@@ -904,16 +1271,34 @@
    "justificativa": "Término de pavimentação asfáltica com drenagem e meio-fio",
    "link_pncp": "https://pncp.gov.br/app/editais/01612478000135/2026/59",
    "link_origem": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Patis-2932/CPMP-001-2026-2026-521576",
-   "links_extra": [
-    "https://pncp.gov.br/app/editais/01612478000135/2026/60",
-    "https://www.portaldecompraspublicas.com.br/",
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740719144"
-   ],
+   "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -16.0773,
-   "lon": -44.0787
+   "lon": -44.0787,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01612478000135/2026/59"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Patis-2932/CPMP-001-2026-2026-521576"
+    },
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01612478000135/2026/60"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://www.portaldecompraspublicas.com.br/"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740719144"
+    }
+   ]
   },
   {
    "id": "PNCP-45332095000189-1-000168-2026",
@@ -937,7 +1322,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.4332,
-   "lon": -46.9532
+   "lon": -46.9532,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45332095000189/2026/168"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98671703001242026"
+    }
+   ]
   },
   {
    "id": "PNCP-66232547000120-1-000093-2026",
@@ -961,7 +1356,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.2058,
-   "lon": -41.7977
+   "lon": -41.7977,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/66232547000120/2026/93"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.ammlicita.org.br/pesquisa/118088"
+    }
+   ]
   },
   {
    "id": "PNCP-18306670000104-1-000027-2026",
@@ -985,7 +1390,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.249,
-   "lon": -46.3639
+   "lon": -46.3639,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18306670000104/2026/27"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.ammlicita.org.br/pesquisa/115399"
+    }
+   ]
   },
   {
    "id": "PNCP-95951323000177-1-000106-2026",
@@ -1009,7 +1424,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.7813,
-   "lon": -50.009
+   "lon": -50.009,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/95951323000177/2026/106"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49308"
+    }
+   ]
   },
   {
    "id": "PNCP-46578530000112-1-000075-2026",
@@ -1033,7 +1458,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -24.2764,
-   "lon": -47.2354
+   "lon": -47.2354,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46578530000112/2026/75"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]JDNIugbJcmb82yjgfKGh7guNnBlVOPmRRWmB8Er/mOk6tAMzeoyNEqJBgqSttM0Zm61ZRrVd9ZYAJNWD3CpdyEM9nPez8/nLUs3Y6RL8TWg="
+    }
+   ]
   },
   {
    "id": "PNPL-SP-17-202026-276012026",
@@ -1052,12 +1487,28 @@
    "justificativa": "Recapeamento asfáltico em CBUQ com fresagem e binder",
    "link_pncp": "https://pncp.gov.br/app/editais/49576416000141/2026/285",
    "link_origem": "https://www.penapolis.sp.gov.br/portal/editais/0/1/3436/",
-   "links_extra": [],
+   "links_extra": [
+    "https://bllcompras.com/Process/ProcessView?param1=[gkz]v/Cm6vMvvPH_MRcFJ43odUBDF7QP_Msh_gxMDhGkMdS8LoSqinoc8LkPtaKbC2_WT8dUQ7mlIMXfPhBJjH96zGIxqwAjVb1jvIaWGEXaST0="
+   ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -21.4148,
-   "lon": -50.0769
+   "lon": -50.0769,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/49576416000141/2026/285"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.penapolis.sp.gov.br/portal/editais/0/1/3436/"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]v/Cm6vMvvPH_MRcFJ43odUBDF7QP_Msh_gxMDhGkMdS8LoSqinoc8LkPtaKbC2_WT8dUQ7mlIMXfPhBJjH96zGIxqwAjVb1jvIaWGEXaST0="
+    }
+   ]
   },
   {
    "id": "PNCP-95641916000137-1-000062-2026",
@@ -1081,7 +1532,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.108,
-   "lon": -53.1103
+   "lon": -53.1103,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/95641916000137/2026/62"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]zXaUSOl6OoTBtzOu8SaAQEZqEL6Gpr0SYuKj5OkfCBk5gDxbzArzHU1vLpDlJ3U_/eo_CksHP/j9sdM32/ScQkojncfOE7rrbrxAYQ/ZuoY="
+    }
+   ]
   },
   {
    "id": "PNCP-45550167000164-1-000814-2026",
@@ -1101,13 +1562,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/45550167000164/2026/814",
    "link_origem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]j5kWHCRY37JWcCvkG5bCqnco5N_OtcbNb9jA7lV3UHfQjDCXOnPblkYJvaa_pssdnJkQwDzfHe6CKUbqIYm0tMa8qzsesty/1USYQeNB55A=",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741803252"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741803252",
+    "https://bllcompras.com/Process/ProcessView?param1=[gkz]j5kWHCRY37JWcCvkG5bCqnco5N_OtcbNb9jA7lV3UHfQjDCXOnPblkYJvaa_pssdnJkQwDzfHe6CKUbqIYm0tMa8qzsesty/1USYQeNB55A=",
+    "https://pncp.gov.br/app/editais/45550167000164/2026/814"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -24.699,
-   "lon": -47.5537
+   "lon": -47.5537,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45550167000164/2026/814"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]j5kWHCRY37JWcCvkG5bCqnco5N_OtcbNb9jA7lV3UHfQjDCXOnPblkYJvaa_pssdnJkQwDzfHe6CKUbqIYm0tMa8qzsesty/1USYQeNB55A="
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741803252"
+    }
+   ]
   },
   {
    "id": "PNCP-01611007000102-1-000026-2026",
@@ -1131,7 +1608,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.2951,
-   "lon": -47.4304
+   "lon": -47.4304,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01611007000102/2026/26"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]23O6vd6xmNyvXtUueAvXi7yHUNU8h_KQBwpZ8Bpn8EgHSS4aT3uuXUt8OyZYXsQQwBIUBtNXYhlQlx8M5ytc3F5pksCoD1bOC8S5CfqmF7k="
+    }
+   ]
   },
   {
    "id": "PNCP-82892365000132-1-000129-2026",
@@ -1155,7 +1642,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.9607,
-   "lon": -48.6864
+   "lon": -48.6864,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82892365000132/2026/129"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Paulo-Lopes-811/CPMP-CE17-2026-2026-522028"
+    }
+   ]
   },
   {
    "id": "PNCP-44881449000181-1-000153-2026",
@@ -1175,13 +1672,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/44881449000181/2026/153",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-739642465"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-739642465",
+    "https://pncp.gov.br/app/editais/44881449000181/2026/153"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -21.5103,
-   "lon": -51.4342
+   "lon": -51.4342,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44881449000181/2026/153"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-739642465"
+    }
+   ]
   },
   {
    "id": "PNCP-44531788000138-1-000219-2026",
@@ -1201,13 +1709,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/44531788000138/2026/219",
    "link_origem": null,
    "links_extra": [
-    "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzcgGpYAXAQbdN9rBFlLvo2PcD1CurXOwP7BUljf2RpeoHPLL1VgJ01MlfxMOyNmAz532mAq_gmbVRplU8hyY50h0eWq4fqENniLsvftpsDM%3D"
+    "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzcgGpYAXAQbdN9rBFlLvo2PcD1CurXOwP7BUljf2RpeoHPLL1VgJ01MlfxMOyNmAz532mAq_gmbVRplU8hyY50h0eWq4fqENniLsvftpsDM%3D",
+    "https://pncp.gov.br/app/editais/44531788000138/2026/219"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -21.6718,
-   "lon": -49.7526
+   "lon": -49.7526,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44531788000138/2026/219"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzcgGpYAXAQbdN9rBFlLvo2PcD1CurXOwP7BUljf2RpeoHPLL1VgJ01MlfxMOyNmAz532mAq_gmbVRplU8hyY50h0eWq4fqENniLsvftpsDM%3D"
+    }
+   ]
   },
   {
    "id": "PNCP-75972760000160-1-000268-2026",
@@ -1227,13 +1746,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/75972760000160/2026/268",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741508063"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741508063",
+    "https://pncp.gov.br/app/editais/75972760000160/2026/268"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -25.6691,
-   "lon": -53.8055
+   "lon": -53.8055,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/75972760000160/2026/268"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741508063"
+    }
+   ]
   },
   {
    "id": "PNCP-20356762000132-1-000060-2026",
@@ -1253,13 +1783,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/20356762000132/2026/60",
    "link_origem": "https://desterrodeentrerios.licitapp.com.br//processos",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741833059"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741833059",
+    "https://desterrodeentrerios.licitapp.com.br//processos",
+    "https://pncp.gov.br/app/editais/20356762000132/2026/60"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -20.665,
-   "lon": -44.3334
+   "lon": -44.3334,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/20356762000132/2026/60"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://desterrodeentrerios.licitapp.com.br//processos"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741833059"
+    }
+   ]
   },
   {
    "id": "PNCP-95684536000180-1-000053-2026",
@@ -1283,7 +1829,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -24.8862,
-   "lon": -52.47
+   "lon": -52.47,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/95684536000180/2026/53"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]FIcIrRZSVK/vFQ5YCPzPIhmhITblL9kgxqqXLrXVu2Fp2tAt_NfwyWCr4VAmRiBQPVlJzlchsyStFLKzIKLHAX64SkgMRHMsWrwL/91xvpo="
+    }
+   ]
   },
   {
    "id": "PNCP-76285345000109-1-000276-2026",
@@ -1303,13 +1859,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/76285345000109/2026/276",
    "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98767703000312026",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737592784"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737592784",
+    "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98767703000312026",
+    "https://pncp.gov.br/app/editais/76285345000109/2026/276"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -23.5446,
-   "lon": -51.671
+   "lon": -51.671,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76285345000109/2026/276"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98767703000312026"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737592784"
+    }
+   ]
   },
   {
    "id": "PNCP-44780609000104-1-000396-2026",
@@ -1333,7 +1905,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.5531,
-   "lon": -48.5698
+   "lon": -48.5698,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44780609000104/2026/396"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://licitamaisbrasil.com.br/detalhes-do-edital/2lQM21jXzAQNH1ED"
+    }
+   ]
   },
   {
    "id": "PNCP-46319000000150-1-000424-2026",
@@ -1357,7 +1939,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.4538,
-   "lon": -46.5333
+   "lon": -46.5333,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46319000000150/2026/424"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98647703010792026"
+    }
+   ]
   },
   {
    "id": "BLL-C-4211108-6f0c-0152026",
@@ -1381,7 +1973,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.461,
-   "lon": -50.2327
+   "lon": -50.2327,
+   "links": [
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjyzwWx310I2YwXgtGqRfLYuppN9_0vegPawyQSPe7dGNijGjnOmxW%2FVsiT8vTYxaE5RxjgFFEgKgo5QtbstUVj%2FaCgs2IO3vrWkthS8o_FQ%3D"
+    }
+   ]
   },
   {
    "id": "DOU-00d68dc4ebb5ef776725",
@@ -1400,12 +1998,28 @@
    "justificativa": "Recapeamento asfáltico em CBUQ de ruas",
    "link_pncp": "https://pncp.gov.br/app/editais/18349951000136/2026/22",
    "link_origem": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742367739",
-   "links_extra": [],
+   "links_extra": [
+    "https://app2.licitardigital.com.br/pesquisa/117978"
+   ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -16.5332,
-   "lon": -40.1817
+   "lon": -40.1817,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18349951000136/2026/22"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742367739"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.licitardigital.com.br/pesquisa/117978"
+    }
+   ]
   },
   {
    "id": "PNCP-95640553000115-1-000057-2026",
@@ -1429,7 +2043,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.4072,
-   "lon": -53.3687
+   "lon": -53.3687,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/95640553000115/2026/57"
+    }
+   ]
   },
   {
    "id": "DMSC-8890754",
@@ -1453,7 +2073,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.8215,
-   "lon": -53.2767
+   "lon": -53.2767,
+   "links": [
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.diariomunicipal.sc.gov.br/?r=site/autopublicacaoAssinado&id=8890754"
+    }
+   ]
   },
   {
    "id": "PNCP-18315226000147-1-000044-2026",
@@ -1477,7 +2103,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -19.6741,
-   "lon": -44.8964
+   "lon": -44.8964,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18315226000147/2026/44"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.ammlicita.org.br/pesquisa/118346"
+    }
+   ]
   },
   {
    "id": "PNCP-77817054000179-1-000119-2026",
@@ -1501,7 +2137,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.9168,
-   "lon": -53.4686
+   "lon": -53.4686,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/77817054000179/2026/119"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98741703000222026"
+    }
+   ]
   },
   {
    "id": "PNCP-95990206000112-1-000111-2026",
@@ -1521,13 +2167,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/95990206000112/2026/115",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741822191"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741822191",
+    "https://pncp.gov.br/app/editais/95990206000112/2026/115"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -27.1341,
-   "lon": -52.7887
+   "lon": -52.7887,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/95990206000112/2026/115"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741822191"
+    }
+   ]
   },
   {
    "id": "PNCP-45371820000128-1-000317-2026",
@@ -1551,7 +2208,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.1316,
-   "lon": -47.9875
+   "lon": -47.9875,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45371820000128/2026/317"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]pvcl654NH5bNABT8bmxab22UtRUAUTH43W3QenKWCZexcPbRisDYTAERnSeF2W0dNkAVp6Lablf_GuNXu8weXsNvvh321jP8QSE5yHcMlAc="
+    }
+   ]
   },
   {
    "id": "PNCP-18178400000157-1-000220-2026",
@@ -1575,7 +2242,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.7079,
-   "lon": -46.2381
+   "lon": -46.2381,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18178400000157/2026/220"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.ammlicita.org.br/pesquisa/118105"
+    }
+   ]
   },
   {
    "id": "PNCP-76208479000118-1-000187-2026",
@@ -1599,7 +2276,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -24.4168,
-   "lon": -53.5213
+   "lon": -53.5213,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76208479000118/2026/187"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98795303000072026"
+    }
+   ]
   },
   {
    "id": "PNCP-76002666000140-1-000285-2026",
@@ -1623,7 +2310,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.0965,
-   "lon": -49.4336
+   "lon": -49.4336,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76002666000140/2026/285"
+    }
+   ]
   },
   {
    "id": "BLL-C-4102208-35e1-072026",
@@ -1647,7 +2340,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.1517,
-   "lon": -52.0551
+   "lon": -52.0551,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/75731018000162/2026/53"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5D11RcJTyTsei0CqAx7VPJkI2euGSWUAqtFOVY31KXk7YgiqKTsrtfwAtRvfZrPazbLGt4HyXAM7bjbnsvdGKR9nEbAiI12cexlP1%2FbjDPkgI%3D"
+    }
+   ]
   },
   {
    "id": "PNCP-18244368000160-1-000105-2026",
@@ -1673,7 +2376,21 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.0329,
-   "lon": -44.7537
+   "lon": -44.7537,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18244368000160/2026/105"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.licitardigital.com.br/pesquisa/115417"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737905254"
+    }
+   ]
   },
   {
    "id": "PNCP-17935206000106-1-000109-2026",
@@ -1697,7 +2414,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.928,
-   "lon": -45.9297
+   "lon": -45.9297,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/17935206000106/2026/109"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Sao-Joao-da-Mata-3492/CPMP-5-2026-2026-522805"
+    }
+   ]
   },
   {
    "id": "PNCP-44556207000112-1-000055-2026",
@@ -1721,7 +2448,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.7866,
-   "lon": -49.2848
+   "lon": -49.2848,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44556207000112/2026/55"
+    }
+   ]
   },
   {
    "id": "PNCP-19718394000146-1-000066-2026",
@@ -1741,13 +2474,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/19718394000146/2026/66",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742069041"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742069041",
+    "https://pncp.gov.br/app/editais/19718394000146/2026/66"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -20.7868,
-   "lon": -43.6949
+   "lon": -43.6949,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/19718394000146/2026/66"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742069041"
+    }
+   ]
   },
   {
    "id": "PNCP-46582185000190-1-000066-2026",
@@ -1768,13 +2512,29 @@
    "link_origem": null,
    "links_extra": [
     "https://www.jacupiranga.sp.gov.br/licitacao/detalhe/5276/pstrongcontratacao-de-empresa-especializada-para-execucao-de-implantacao-de-pavimentacao-asfaltica-e-obras-complementares-em-ruas-do-municipio-de-jacupirangastrongp/",
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741515439"
+    "https://pncp.gov.br/app/editais/46582185000190/2026/66",
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741515439",
+    "https://pncp.gov.br/app/editais/46582185000190/2026/66"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -24.6963,
-   "lon": -48.0064
+   "lon": -48.0064,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46582185000190/2026/66"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.jacupiranga.sp.gov.br/licitacao/detalhe/5276/pstrongcontratacao-de-empresa-especializada-para-execucao-de-implantacao-de-pavimentacao-asfaltica-e-obras-complementares-em-ruas-do-municipio-de-jacupirangastrongp/"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741515439"
+    }
+   ]
   },
   {
    "id": "PNCP-18349894000195-1-000075-2026",
@@ -1798,7 +2558,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -16.1785,
-   "lon": -40.6942
+   "lon": -40.6942,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18349894000195/2026/75"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]wILqBx/nCD7AZCAqZ7zVkpd2ahLNJJ2rclbDM5oINNZ6Qa8Ozh5KsA1aJsY1BIpLIY1sJAeYvwnb15A45QjLtk5FsBzA_HIRV4YPFLPefTI="
+    }
+   ]
   },
   {
    "id": "PNCP-44919066000155-1-000099-2026",
@@ -1822,7 +2592,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.3495,
-   "lon": -51.7564
+   "lon": -51.7564,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44919066000155/2026/99"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "http://186.208.139.32:5656/comprasedital/"
+    }
+   ]
   },
   {
    "id": "PNCP-83039842000184-1-000342-2026",
@@ -1846,7 +2626,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.0086,
-   "lon": -51.1543
+   "lon": -51.1543,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/83039842000184/2026/342"
+    }
+   ]
   },
   {
    "id": "PNCP-45728326000178-1-000112-2026",
@@ -1870,7 +2656,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.7959,
-   "lon": -49.2172
+   "lon": -49.2172,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45728326000178/2026/112"
+    }
+   ]
   },
   {
    "id": "PNCP-18715508000131-1-000177-2026",
@@ -1894,7 +2686,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -19.9321,
-   "lon": -44.0539
+   "lon": -44.0539,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18715508000131/2026/177"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Contagem-3731/CPMD-020-2026-2026-517421"
+    }
+   ]
   },
   {
    "id": "PNCP-46634465000103-1-000073-2026",
@@ -1918,7 +2720,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.9612,
-   "lon": -47.5062
+   "lon": -47.5062,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634465000103/2026/73"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98717103000242026"
+    }
+   ]
   },
   {
    "id": "PNCP-76208867000107-1-000632-2026",
@@ -1944,7 +2756,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -24.9573,
-   "lon": -53.459
+   "lon": -53.459,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76208867000107/2026/632"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742354008"
+    }
+   ]
   },
   {
    "id": "DOU-b331537b4e32ab6b8f9d",
@@ -1963,12 +2785,28 @@
    "justificativa": "Recapeamento asfáltico CBUQ em diversas vias",
    "link_pncp": "https://pncp.gov.br/app/editais/44918712000160/2026/44",
    "link_origem": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741687962",
-   "links_extra": [],
+   "links_extra": [
+    "https://www.panorama.sp.gov.br/?pag=T0RZPU9EYz1PR009T1RrPU9EWT1PVEE9T1dFPQ==&view=LIST-LICIT&modalidade=&ano=2026&situacao=&notIn=&covid=&id=1243"
+   ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -21.354,
-   "lon": -51.8562
+   "lon": -51.8562,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44918712000160/2026/44"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741687962"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.panorama.sp.gov.br/?pag=T0RZPU9EYz1PR009T1RrPU9EWT1PVEE9T1dFPQ==&view=LIST-LICIT&modalidade=&ano=2026&situacao=&notIn=&covid=&id=1243"
+    }
+   ]
   },
   {
    "id": "PNCP-83102293000145-1-000428-2026",
@@ -1992,7 +2830,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.0241,
-   "lon": -48.6503
+   "lon": -48.6503,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/83102293000145/2026/428"
+    }
+   ]
   },
   {
    "id": "BLL-C-4202008-39a1-0272026",
@@ -2011,12 +2855,28 @@
    "justificativa": "Pavimentação asfáltica com sinalização viária",
    "link_pncp": "https://pncp.gov.br/app/editais/10459525000143/2026/125",
    "link_origem": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5DJVQeW8cb7nmcendiEo3s9gtBzFwFBWUJ_jE2N0wrDg3uJAfY3qfKlCTMbU8TA%2FG8ndUH8qisecOYlhT8x0v9zcxCHS3Sw0KtcFFHgX4IVys%3D",
-   "links_extra": [],
+   "links_extra": [
+    "https://bnccompras.com/Process/ProcessView?param1=[gkz]0QiH8DgyeAw/r77HAgeBNxaexLisWcXTQAFQ7kWntMUHj/D9uBxFlr8Ni1wKyOD0bzAYToHN2xJTK_VpDZh8l9AOf3xt0VmUvLgwMbOuTl8="
+   ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -26.9926,
-   "lon": -48.6352
+   "lon": -48.6352,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/10459525000143/2026/125"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5DJVQeW8cb7nmcendiEo3s9gtBzFwFBWUJ_jE2N0wrDg3uJAfY3qfKlCTMbU8TA%2FG8ndUH8qisecOYlhT8x0v9zcxCHS3Sw0KtcFFHgX4IVys%3D"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]0QiH8DgyeAw/r77HAgeBNxaexLisWcXTQAFQ7kWntMUHj/D9uBxFlr8Ni1wKyOD0bzAYToHN2xJTK_VpDZh8l9AOf3xt0VmUvLgwMbOuTl8="
+    }
+   ]
   },
   {
    "id": "PNCP-18712174000142-1-000162-2026",
@@ -2040,7 +2900,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.836,
-   "lon": -45.4004
+   "lon": -45.4004,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18712174000142/2026/162"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-da-Campanha-3182/CPMP-3-2026-2026-515050"
+    }
+   ]
   },
   {
    "id": "PNCP-76205715000142-1-000189-2026",
@@ -2064,7 +2934,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.8217,
-   "lon": -53.4801
+   "lon": -53.4801,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76205715000142/2026/189"
+    }
+   ]
   },
   {
    "id": "TRP-3530409-17-00004226",
@@ -2088,7 +2964,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.6179,
-   "lon": -49.4617
+   "lon": -49.4617,
+   "links": [
+    {
+     "tipo": "Site do órgão",
+     "url": "http://186.227.16.54:5656/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes"
+    }
+   ]
   },
   {
    "id": "PNCP-45780079000159-1-000317-2026",
@@ -2112,7 +2994,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.1039,
-   "lon": -46.728
+   "lon": -46.728,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45780079000159/2026/317"
+    }
+   ]
   },
   {
    "id": "PNCP-76175918000133-1-000046-2026",
@@ -2136,7 +3024,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.0067,
-   "lon": -50.857
+   "lon": -50.857,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76175918000133/2026/46"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]zKMLs1DqQSr_HlM6NGzSQOcj6jx6pld3WmV9xvwmtlDLrZesBHGEuB3twI7gCL6czrzc6m01xmZyINuTi4awt66C/iXf8qzqQC05s9q6pW4="
+    }
+   ]
   },
   {
    "id": "PNCP-83024257000100-1-000502-2026",
@@ -2160,7 +3058,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.2335,
-   "lon": -52.026
+   "lon": -52.026,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/83024257000100/2026/502"
+    }
+   ]
   },
   {
    "id": "PNCP-76205814000124-1-000299-2026",
@@ -2184,7 +3088,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -24.557,
-   "lon": -54.0571
+   "lon": -54.0571,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76205814000124/2026/299"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98768303000372026"
+    }
+   ]
   },
   {
    "id": "PNCP-45728326000178-1-000114-2026",
@@ -2208,7 +3122,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.7959,
-   "lon": -49.2172
+   "lon": -49.2172,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45728326000178/2026/114"
+    }
+   ]
   },
   {
    "id": "BST-SP-6-102026",
@@ -2227,12 +3147,28 @@
    "justificativa": "Recapeamento asfáltico com sinalização viária",
    "link_pncp": "https://pncp.gov.br/app/editais/45547403000193/2026/98",
    "link_origem": "https://www.bastos.sp.gov.br/licitacao/detalhe/1154/pcontratacao-de-empresa-para-execucao-de-recapeamento-asfaltico-e-sinalizacao-viaria-nas-ruas-bem-te-vi-presidente-vargas-campos-sales-e-osvaldo-cruz-contrato-de-repasse-n-9991782026mcidadescaixap/",
-   "links_extra": [],
+   "links_extra": [
+    "https://bllcompras.com/Process/ProcessView?param1=[gkz]hI_AAZPbSVDpmiHJ4o_hX0ZRZBxnG7Vyo3xA/d8xBvjF_769Uy0/7B2/SncsJn60rvjTqe5a9ubk2YmxMAGjAbBvAN_tuMrevnr6sWjuaSA="
+   ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -21.921,
-   "lon": -50.7357
+   "lon": -50.7357,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45547403000193/2026/98"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.bastos.sp.gov.br/licitacao/detalhe/1154/pcontratacao-de-empresa-para-execucao-de-recapeamento-asfaltico-e-sinalizacao-viaria-nas-ruas-bem-te-vi-presidente-vargas-campos-sales-e-osvaldo-cruz-contrato-de-repasse-n-9991782026mcidadescaixap/"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]hI_AAZPbSVDpmiHJ4o_hX0ZRZBxnG7Vyo3xA/d8xBvjF_769Uy0/7B2/SncsJn60rvjTqe5a9ubk2YmxMAGjAbBvAN_tuMrevnr6sWjuaSA="
+    }
+   ]
   },
   {
    "id": "PNCP-82892308000153-1-000232-2026",
@@ -2256,7 +3192,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.496,
-   "lon": -48.6598
+   "lon": -48.6598,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82892308000153/2026/232"
+    }
+   ]
   },
   {
    "id": "PNCP-82892308000153-1-000233-2026",
@@ -2276,13 +3218,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/82892308000153/2026/233",
    "link_origem": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49483",
    "links_extra": [
-    "https://www.diariomunicipal.sc.gov.br/atos/8886501"
+    "https://www.diariomunicipal.sc.gov.br/atos/8886501",
+    "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49483",
+    "https://pncp.gov.br/app/editais/82892308000153/2026/233"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -27.496,
-   "lon": -48.6598
+   "lon": -48.6598,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82892308000153/2026/233"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49483"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.diariomunicipal.sc.gov.br/atos/8886501"
+    }
+   ]
   },
   {
    "id": "PNCP-46634523000190-1-000257-2026",
@@ -2306,7 +3264,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.7321,
-   "lon": -48.5723
+   "lon": -48.5723,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634523000190/2026/257"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98710303000292026"
+    }
+   ]
   },
   {
    "id": "PNCP-76282680000145-1-000272-2026",
@@ -2330,7 +3298,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.4843,
-   "lon": -51.7928
+   "lon": -51.7928,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76282680000145/2026/272"
+    }
+   ]
   },
   {
    "id": "PNCP-46634473000141-1-000225-2026",
@@ -2354,7 +3328,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.8077,
-   "lon": -47.7222
+   "lon": -47.7222,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634473000141/2026/225"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.pilardosul.sp.gov.br/licitacao/detalhe/1449/pdestinada-a-contratacao-de-empresa-para-execucao-de-obra-de-infraestrutura-urbana-com-recapeamento-asfaltico-em-ruas-do-bairro-jardim-bonanza-centro-e-campo-grande-neste-municipio-de-pilar-do-sul-spp/"
+    }
+   ]
   },
   {
    "id": "PNCP-49345911000140-1-000038-2026",
@@ -2375,13 +3359,35 @@
    "link_origem": "https://www.iepe.sp.gov.br/portal/editais/1",
    "links_extra": [
     "https://www.iepe.sp.gov.br/portal/editais/0/1/657/",
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743532124"
+    "https://www.iepe.sp.gov.br/portal/editais/1",
+    "https://pncp.gov.br/app/editais/49345911000140/2026/38",
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743532124",
+    "https://www.iepe.sp.gov.br/portal/editais/1",
+    "https://pncp.gov.br/app/editais/49345911000140/2026/38"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -22.6602,
-   "lon": -51.0779
+   "lon": -51.0779,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/49345911000140/2026/38"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.iepe.sp.gov.br/portal/editais/1"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.iepe.sp.gov.br/portal/editais/0/1/657/"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743532124"
+    }
+   ]
   },
   {
    "id": "DOU-3f36c814265af175357d",
@@ -2405,7 +3411,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.932,
-   "lon": -52.6906
+   "lon": -52.6906,
+   "links": [
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742098410"
+    }
+   ]
   },
   {
    "id": "PNCP-18602029000109-1-000071-2026",
@@ -2429,7 +3441,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -18.991,
-   "lon": -46.3167
+   "lon": -46.3167,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18602029000109/2026/71"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://licitanet.com.br/sessao/205035"
+    }
+   ]
   },
   {
    "id": "PNCP-45787678000102-1-000381-2026",
@@ -2453,7 +3475,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.9698,
-   "lon": -46.9974
+   "lon": -46.9974,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45787678000102/2026/381"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98722503000802026"
+    }
+   ]
   },
   {
    "id": "PNCP-49582441000138-1-000035-2026",
@@ -2477,7 +3509,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.9129,
-   "lon": -43.2003
+   "lon": -43.2003,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/49582441000138/2026/35"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=39900803000252026"
+    }
+   ]
   },
   {
    "id": "PNCP-18301044000117-1-000012-2026",
@@ -2497,13 +3539,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/18301044000117/2026/12",
    "link_origem": "https://app2.ammlicita.org.br/pesquisa/118772",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743403219"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743403219",
+    "https://app2.ammlicita.org.br/pesquisa/118772",
+    "https://pncp.gov.br/app/editais/18301044000117/2026/12"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -19.8387,
-   "lon": -45.4127
+   "lon": -45.4127,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18301044000117/2026/12"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.ammlicita.org.br/pesquisa/118772"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743403219"
+    }
+   ]
   },
   {
    "id": "TRP-3545605-5-00012126",
@@ -2527,7 +3585,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.2427,
-   "lon": -48.8063
+   "lon": -48.8063,
+   "links": [
+    {
+     "tipo": "Site do órgão",
+     "url": "https://spsantaadelia.dcfiorilli.com.br:879/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes"
+    }
+   ]
   },
   {
    "id": "PNCP-49979255000137-1-000117-2026",
@@ -2551,7 +3615,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.5942,
-   "lon": -48.8149
+   "lon": -48.8149,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/49979255000137/2026/117"
+    }
+   ]
   },
   {
    "id": "PNCP-85361863000147-1-000157-2026",
@@ -2575,7 +3645,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.0702,
-   "lon": -53.1586
+   "lon": -53.1586,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/85361863000147/2026/157"
+    }
+   ]
   },
   {
    "id": "PNCP-18338285000130-1-000098-2026",
@@ -2599,7 +3675,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.5983,
-   "lon": -44.105
+   "lon": -44.105,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18338285000130/2026/98"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.ammlicita.org.br/pesquisa/116910"
+    }
+   ]
   },
   {
    "id": "PNCP-44438968000170-1-000070-2026",
@@ -2623,7 +3709,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.1313,
-   "lon": -51.1035
+   "lon": -51.1035,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44438968000170/2026/70"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]5UupM63rHIQUYtd75QFEafWspXWFtG8/ak3EywV1Z1/ZdJM8e/lmNefSCBGORKisDRK9Op/xGp6d8rmF4evuxDVWPtHcyDjf/z0jS09Evbk="
+    }
+   ]
   },
   {
    "id": "PNCP-78121985000109-1-000117-2026",
@@ -2647,7 +3743,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.4308,
-   "lon": -53.4117
+   "lon": -53.4117,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/78121985000109/2026/117"
+    }
+   ]
   },
   {
    "id": "PNCP-46634572000123-1-000131-2026",
@@ -2671,7 +3773,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.226,
-   "lon": -47.9545
+   "lon": -47.9545,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634572000123/2026/131"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VmZOBzN7t6hzaTRZyc2ASzEkzWC84VOPVNDBczgyPlJQ01yWOQGRh3aogbihX5pm8O35gVMan7k9PYTNELuMQgHLqjqc/U_ONaVDOpRCHOE="
+    }
+   ]
   },
   {
    "id": "PNCP-28909604000174-1-000120-2026",
@@ -2695,7 +3807,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.8429,
-   "lon": -42.1026
+   "lon": -42.1026,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/28909604000174/2026/120"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98590303005362026"
+    }
+   ]
   },
   {
    "id": "PNCP-45780079000159-1-000313-2026",
@@ -2715,13 +3837,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/45780079000159/2026/313",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741791616"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741791616",
+    "https://pncp.gov.br/app/editais/45780079000159/2026/313"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -23.1039,
-   "lon": -46.728
+   "lon": -46.728,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45780079000159/2026/313"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741791616"
+    }
+   ]
   },
   {
    "id": "DMSC-8899547",
@@ -2740,14 +3873,26 @@
    "justificativa": "Pavimentação asfáltica CBUQ de ruas e estrada",
    "link_pncp": "https://pncp.gov.br/app/editais/82928680000172/2026/69",
    "link_origem": "https://www.diariomunicipal.sc.gov.br/atos/8899547",
-   "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743413150"
-   ],
+   "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -28.4339,
-   "lon": -49.1949
+   "lon": -49.1949,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82928680000172/2026/69"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.diariomunicipal.sc.gov.br/atos/8899547"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743413150"
+    }
+   ]
   },
   {
    "id": "PNCP-82916800000111-1-000348-2026",
@@ -2767,13 +3912,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/82916800000111/2026/348",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741514236"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741514236",
+    "https://pncp.gov.br/app/editais/82916800000111/2026/348"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -28.7132,
-   "lon": -49.3087
+   "lon": -49.3087,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82916800000111/2026/348"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741514236"
+    }
+   ]
   },
   {
    "id": "PGB-SP-17-42026-3272026",
@@ -2797,7 +3953,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.1761,
-   "lon": -48.1195
+   "lon": -48.1195,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634580000170/2026/95"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.porangaba.sp.gov.br/portal/editais/0/1/936/"
+    }
+   ]
   },
   {
    "id": "PNCP-45226214000119-1-000491-2026",
@@ -2817,13 +3983,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/45226214000119/2026/491",
    "link_origem": "http://www.licitacaopindamonhangaba.com.br",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743761599"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743761599",
+    "http://www.licitacaopindamonhangaba.com.br",
+    "https://pncp.gov.br/app/editais/45226214000119/2026/491"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -22.9246,
-   "lon": -45.4613
+   "lon": -45.4613,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45226214000119/2026/491"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "http://www.licitacaopindamonhangaba.com.br"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743761599"
+    }
+   ]
   },
   {
    "id": "PNCP-81648859000103-1-000966-2026",
@@ -2847,7 +4029,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.1607,
-   "lon": -51.5518
+   "lon": -51.5518,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/81648859000103/2026/966"
+    }
+   ]
   },
   {
    "id": "PNCP-46754388000117-1-000022-2026",
@@ -2871,7 +4059,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.7296,
-   "lon": -47.7429
+   "lon": -47.7429,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46754388000117/2026/22"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.licitardigital.com.br/pesquisa/116739"
+    }
+   ]
   },
   {
    "id": "PNCP-82928680000172-1-000068-2026",
@@ -2895,7 +4093,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -28.4339,
-   "lon": -49.1949
+   "lon": -49.1949,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82928680000172/2026/68"
+    }
+   ]
   },
   {
    "id": "PNCP-01612509000158-1-000214-2026",
@@ -2919,7 +4123,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.0367,
-   "lon": -44.1446
+   "lon": -44.1446,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01612509000158/2026/214"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.licitardigital.com.br/pesquisa/116875"
+    }
+   ]
   },
   {
    "id": "BLL-C-3532058-a2b8-00006026",
@@ -2943,7 +4157,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.5103,
-   "lon": -48.1538
+   "lon": -48.1538,
+   "links": [
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D378_Q97oOHKzfYi9xSMhh6STIcKpyl%2FtzXuk%2Ffz18dxr_2nIMKoJAoyPuIV0ZxtjUTxIykgofT%2FwWq3FOkGl5SJtP8Llqoj5zHig1sLzkiM%3D"
+    }
+   ]
   },
   {
    "id": "PNCP-46634150000158-1-000100-2026",
@@ -2967,7 +4187,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.0841,
-   "lon": -48.3679
+   "lon": -48.3679,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634150000158/2026/100"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": " "
+    }
+   ]
   },
   {
    "id": "PNCP-46634150000158-1-000101-2026",
@@ -2991,7 +4221,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.0841,
-   "lon": -48.3679
+   "lon": -48.3679,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634150000158/2026/101"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]Tg_KLqf83ILP82b_RajXS5qoeLyITJsYr/hARNs4JYFx6wbDGCRUpukQkBcoLIKoV/5H9MO10VIaxwzpfLyiTuUGafOzeFYhybfNqrHdx4I="
+    }
+   ]
   },
   {
    "id": "PNCP-21325226000132-1-000025-2026",
@@ -3015,7 +4255,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -19.8126,
-   "lon": -43.1735
+   "lon": -43.1735,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/21325226000132/2026/25"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.licitardigital.com.br/pesquisa/115481"
+    }
+   ]
   },
   {
    "id": "PNCP-83102392000127-1-000211-2026",
@@ -3039,7 +4289,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.3709,
-   "lon": -50.3266
+   "lon": -50.3266,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/83102392000127/2026/211"
+    }
+   ]
   },
   {
    "id": "PNCP-83024257000100-1-000510-2026",
@@ -3063,7 +4319,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.2335,
-   "lon": -52.026
+   "lon": -52.026,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/83024257000100/2026/510"
+    }
+   ]
   },
   {
    "id": "PNCP-01613167000190-1-000175-2026",
@@ -3087,7 +4349,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.7204,
-   "lon": -51.0991
+   "lon": -51.0991,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01613167000190/2026/175"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]MA/bfRfAqgB9hDssPP9mKiaNVsBAyQMXOfURx5bKSOKOopmBePH3iYdDEgVtPKSbIfduStC6QhLmks478XCRRJ3fTEXwVF6I5zBhrldmHjE="
+    }
+   ]
   },
   {
    "id": "PNCP-45227337000174-1-000084-2026",
@@ -3107,13 +4379,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/45227337000174/2026/84",
    "link_origem": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49517",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-741999198"
+    "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-741999198",
+    "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49517",
+    "https://pncp.gov.br/app/editais/45227337000174/2026/84"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -21.2749,
-   "lon": -47.303
+   "lon": -47.303,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45227337000174/2026/84"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49517"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-741999198"
+    }
+   ]
   },
   {
    "id": "PNCP-18241349000180-1-000178-2026",
@@ -3137,7 +4425,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.9167,
-   "lon": -46.9837
+   "lon": -46.9837,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18241349000180/2026/178"
+    }
+   ]
   },
   {
    "id": "PNCP-76995448000154-1-000192-2026",
@@ -3161,7 +4455,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.2292,
-   "lon": -52.6706
+   "lon": -52.6706,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76995448000154/2026/192"
+    }
+   ]
   },
   {
    "id": "PNCP-46200853000178-1-000082-2026",
@@ -3181,13 +4481,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/46200853000178/2026/82",
    "link_origem": null,
    "links_extra": [
-    "https://www.macatuba.sp.gov.br/portal/editais/0/1/3856/"
+    "https://www.macatuba.sp.gov.br/portal/editais/0/1/3856/",
+    "https://pncp.gov.br/app/editais/46200853000178/2026/82"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -22.5002,
-   "lon": -48.7102
+   "lon": -48.7102,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46200853000178/2026/82"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.macatuba.sp.gov.br/portal/editais/0/1/3856/"
+    }
+   ]
   },
   {
    "id": "PNCP-76245059000101-1-000191-2026",
@@ -3211,7 +4522,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.8517,
-   "lon": -51.0293
+   "lon": -51.0293,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76245059000101/2026/191"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778903000862026"
+    }
+   ]
   },
   {
    "id": "PNCP-75666131000101-1-000076-2026",
@@ -3237,7 +4558,21 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.2502,
-   "lon": -53.6324
+   "lon": -53.6324,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/75666131000101/2026/76"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98744903000132026"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-739347657"
+    }
+   ]
   },
   {
    "id": "PNCP-76972074000151-1-000260-2026",
@@ -3261,7 +4596,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.9232,
-   "lon": -53.1362
+   "lon": -53.1362,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76972074000151/2026/260"
+    }
+   ]
   },
   {
    "id": "PNCP-18715383000140-1-000860-2026",
@@ -3281,13 +4622,37 @@
    "link_pncp": "https://pncp.gov.br/app/editais/18715383000140/2026/860",
    "link_origem": "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2026/17/8100003",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743745162"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743745162",
+    "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2026/18/8100003",
+    "https://pncp.gov.br/app/editais/18715383000140/2026/845"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -19.9102,
-   "lon": -43.9266
+   "lon": -43.9266,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18715383000140/2026/860"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2026/17/8100003"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743745162"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www1.compras.mg.gov.br/n/procedimentolei14133/consulta/eletronico/visualizar/2026/18/8100003"
+    },
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18715383000140/2026/845"
+    }
+   ]
   },
   {
    "id": "PNCP-76669324000189-1-000079-2026",
@@ -3311,7 +4676,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.4195,
-   "lon": -49.2646
+   "lon": -49.2646,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76669324000189/2026/79"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=46339003900802026"
+    }
+   ]
   },
   {
    "id": "PNCP-81648859000103-1-000968-2026",
@@ -3335,7 +4710,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.1607,
-   "lon": -51.5518
+   "lon": -51.5518,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/81648859000103/2026/968"
+    }
+   ]
   },
   {
    "id": "PNCP-76282680000145-1-000287-2026",
@@ -3355,13 +4736,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/76282680000145/2026/287",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740044313"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740044313",
+    "https://pncp.gov.br/app/editais/76282680000145/2026/287"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -23.4843,
-   "lon": -51.7928
+   "lon": -51.7928,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76282680000145/2026/287"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740044313"
+    }
+   ]
   },
   {
    "id": "PNCP-18186056000148-1-000075-2026",
@@ -3385,7 +4777,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.0137,
-   "lon": -46.7359
+   "lon": -46.7359,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18186056000148/2026/75"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.ammlicita.org.br/pesquisa/117664"
+    }
+   ]
   },
   {
    "id": "PNCP-18591149000158-1-000094-2026",
@@ -3405,13 +4807,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/18591149000158/2026/94",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740123926"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740123926",
+    "https://pncp.gov.br/app/editais/18591149000158/2026/94"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -18.4734,
-   "lon": -47.1933
+   "lon": -47.1933,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18591149000158/2026/94"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740123926"
+    }
+   ]
   },
   {
    "id": "PNCP-82939232000174-1-000393-2026",
@@ -3435,7 +4848,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.4002,
-   "lon": -51.2276
+   "lon": -51.2276,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82939232000174/2026/393"
+    }
+   ]
   },
   {
    "id": "PNCP-95815379000102-1-000051-2026",
@@ -3459,7 +4878,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.1382,
-   "lon": -48.5146
+   "lon": -48.5146,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/95815379000102/2026/51"
+    }
+   ]
   },
   {
    "id": "PNCP-82939422000191-1-000148-2026",
@@ -3479,13 +4904,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/82939422000191/2026/148",
    "link_origem": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Erval-Velho-1796/CPMP-CE7-2026-2026-521555",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741514155"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741514155",
+    "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Erval-Velho-1796/CPMP-CE7-2026-2026-521555",
+    "https://pncp.gov.br/app/editais/82939422000191/2026/148"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -27.2743,
-   "lon": -51.443
+   "lon": -51.443,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82939422000191/2026/148"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Erval-Velho-1796/CPMP-CE7-2026-2026-521555"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741514155"
+    }
+   ]
   },
   {
    "id": "PNCP-78121985000109-1-000124-2026",
@@ -3509,7 +4950,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.4308,
-   "lon": -53.4117
+   "lon": -53.4117,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/78121985000109/2026/124"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45657803000232026"
+    }
+   ]
   },
   {
    "id": "PNCP-63025530000104-1-004267-2026",
@@ -3533,7 +4984,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.5329,
-   "lon": -46.6395
+   "lon": -46.6395,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/63025530000104/2026/4267"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=10211003002462026"
+    }
+   ]
   },
   {
    "id": "PNCP-01612888000186-1-000074-2026",
@@ -3557,7 +5018,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.2746,
-   "lon": -50.4664
+   "lon": -50.4664,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01612888000186/2026/74"
+    }
+   ]
   },
   {
    "id": "PNCP-32147670000121-1-000196-2026",
@@ -3581,7 +5048,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.9292,
-   "lon": -42.5099
+   "lon": -42.5099,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/32147670000121/2026/196"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://licitanet.com.br/sessao/206427"
+    }
+   ]
   },
   {
    "id": "PNCP-18186056000148-1-000076-2026",
@@ -3605,7 +5082,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -21.0137,
-   "lon": -46.7359
+   "lon": -46.7359,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18186056000148/2026/76"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.ammlicita.org.br/pesquisa/117806"
+    }
+   ]
   },
   {
    "id": "PNCP-32147670000121-1-000195-2026",
@@ -3629,7 +5116,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.9292,
-   "lon": -42.5099
+   "lon": -42.5099,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/32147670000121/2026/195"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://licitanet.com.br/sessao/206412"
+    }
+   ]
   },
   {
    "id": "PNCP-76235753000148-1-000137-2026",
@@ -3653,7 +5150,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -23.1078,
-   "lon": -50.3704
+   "lon": -50.3704,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76235753000148/2026/137"
+    }
+   ]
   },
   {
    "id": "PNCP-44477909000100-1-000974-2026",
@@ -3672,15 +5175,26 @@
    "justificativa": "itens da compra no PNCP: itens=1 asfalto=1 bloco/concreto=0",
    "link_pncp": "https://pncp.gov.br/app/editais/44477909000100/2026/974",
    "link_origem": null,
-   "links_extra": [
-    "https://pncp.gov.br/app/editais/44477909000100/2026/969",
-    "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98668103000412026"
-   ],
+   "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -22.2171,
-   "lon": -49.9501
+   "lon": -49.9501,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44477909000100/2026/974"
+    },
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44477909000100/2026/969"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98668103000412026"
+    }
+   ]
   },
   {
    "id": "PNCP-18318618000160-1-000372-2026",
@@ -3704,7 +5218,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.0237,
-   "lon": -45.5401
+   "lon": -45.5401,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18318618000160/2026/372"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://app2.licitardigital.com.br/pesquisa/118532"
+    }
+   ]
   },
   {
    "id": "PNCP-80869621000145-1-000063-2026",
@@ -3728,7 +5252,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -25.0294,
-   "lon": -52.9939
+   "lon": -52.9939,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/80869621000145/2026/63"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": " "
+    }
+   ]
   },
   {
    "id": "PNCP-01566620000155-1-000052-2026",
@@ -3752,7 +5286,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -26.6876,
-   "lon": -53.1545
+   "lon": -53.1545,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01566620000155/2026/52"
+    }
+   ]
   },
   {
    "id": "PNCP-75476556000158-1-000184-2026",
@@ -3772,13 +5312,29 @@
    "link_pncp": "https://pncp.gov.br/app/editais/75476556000158/2026/184",
    "link_origem": "https://licitanet.com.br/sessao/207533",
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743762093"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743762093",
+    "https://licitanet.com.br/sessao/207533",
+    "https://pncp.gov.br/app/editais/75476556000158/2026/184"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -23.2824,
-   "lon": -52.6054
+   "lon": -52.6054,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/75476556000158/2026/184"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://licitanet.com.br/sessao/207533"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743762093"
+    }
+   ]
   },
   {
    "id": "PNCP-82892274000105-1-000101-2026",
@@ -3798,13 +5354,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/82892274000105/2026/110",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740985700"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740985700",
+    "https://pncp.gov.br/app/editais/82892274000105/2026/110"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -27.6136,
-   "lon": -48.6366
+   "lon": -48.6366,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82892274000105/2026/110"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740985700"
+    }
+   ]
   },
   {
    "id": "PNCP-82892274000105-1-000098-2026",
@@ -3828,7 +5395,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -27.6136,
-   "lon": -48.6366
+   "lon": -48.6366,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82892274000105/2026/120"
+    }
+   ]
   },
   {
    "id": "PNCP-27150549000119-1-000234-2026",
@@ -3848,13 +5421,24 @@
    "link_pncp": "https://pncp.gov.br/app/editais/27150549000119/2026/234",
    "link_origem": null,
    "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741040653"
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741040653",
+    "https://pncp.gov.br/app/editais/27150549000119/2026/234"
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "link_edital": null,
    "lat": -20.2632,
-   "lon": -40.4165
+   "lon": -40.4165,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/27150549000119/2026/234"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741040653"
+    }
+   ]
   },
   {
    "id": "SJDB-MG-81404",
@@ -3878,7 +5462,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -20.048,
-   "lon": -44.2749
+   "lon": -44.2749,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/01612516000150/2026/346"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.saojoaquimdebicas.mg.gov.br/detalhe-da-licitacao/info/co-10-2024/81404"
+    }
+   ]
   },
   {
    "id": "CBRPL-SP-11-12026",
@@ -3902,7 +5496,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -22.4576,
-   "lon": -49.3393
+   "lon": -49.3393,
+   "links": [
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.cabralia.sp.gov.br/licitacao/detalhe/543/pcontratacao-de-empresa-especializada-para-execucao-de-recapeamento-asfaltico-de-trecho-das-vias-publicas-rua-matheus-riga-de-oliveira-e-rua-jose-madrigal-galhardop/"
+    }
+   ]
   },
   {
    "id": "PNCP-18278069000147-1-000125-2026",
@@ -3926,7 +5526,17 @@
    "observacao": null,
    "link_edital": null,
    "lat": -17.9827,
-   "lon": -46.9088
+   "lon": -46.9088,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18278069000147/2026/125"
+    },
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais?pagina=1&q=VAZANTE&status=todos"
+    }
+   ]
   },
   {
    "id": "IROO-PR-13-0232026",
@@ -3950,7 +5560,13 @@
    "observacao": null,
    "link_edital": null,
    "lat": -24.4262,
-   "lon": -53.3528
+   "lon": -53.3528,
+   "links": [
+    {
+     "tipo": "Site do órgão",
+     "url": "http://www.iracemadooeste.pr.gov.br//index.php?sessao=b054603368ldb0&id=23453341"
+    }
+   ]
   }
  ]
 }
