@@ -1,6 +1,6 @@
 {
- "atualizado_em": "12/11/2026 16:23",
- "total_base": 501,
+ "atualizado_em": "12/11/2026 17:04",
+ "total_base": 550,
  "itens": [
   {
    "id": "PNCP-82926551000145-1-000175-2026",
@@ -762,6 +762,63 @@
    }
   },
   {
+   "id": "MRDF-MG-10-112026",
+   "titulo": "Registro de Preço 11/2026",
+   "orgao": "Prefeitura de Maria da Fé (PR)",
+   "municipio": "Maria da Fé",
+   "uf": "MG",
+   "data": "15/11/2026",
+   "hora": "00:00",
+   "objeto": "Contratação de empresa especializada para serviços de pavimentação asfáltica no trecho de estrada vicinal no distrito Cafundó no município de Maria da Fé, através de Licitação Compartilhada - Adesão a ARP nº005/2024 do Processo nº013/2024, Concorrência Eletrônica nº0...",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": true,
+   "valor_estimado": 981321.0,
+   "fonte_valor": "texto do aviso",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Pavimentação asfáltica de estrada vicinal",
+   "link_pncp": null,
+   "link_origem": "https://www.mariadafe.mg.gov.br/licitacao/detalhe/2664/pspan-stylecolorblackcontratacao-de-empresa-especializada-para-servicos-de-pavimentacao-asfaltica-no-trecho-de-estrada-vicinal-no-distrito-cafundo-no-municipio-de-maria-da-fe-atraves-de-licitacao-compartilhada-adesao-a-arp-n0052024-do-processo-n0132024-conc",
+   "links_extra": [],
+   "situacao": null,
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "11/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -22.3044,
+   "lon": -45.3773,
+   "links": [
+    {
+     "tipo": "Site do órgão",
+     "url": "https://www.mariadafe.mg.gov.br/licitacao/detalhe/2664/pspan-stylecolorblackcontratacao-de-empresa-especializada-para-servicos-de-pavimentacao-asfaltica-no-trecho-de-estrada-vicinal-no-distrito-cafundo-no-municipio-de-maria-da-fe-atraves-de-licitacao-compartilhada-adesao-a-arp-n0052024-do-processo-n0132024-conc"
+    }
+   ],
+   "link_licitacao": "https://www.mariadafe.mg.gov.br/licitacao/detalhe/2664/pspan-stylecolorblackcontratacao-de-empresa-especializada-para-servicos-de-pavimentacao-asfaltica-no-trecho-de-estrada-vicinal-no-distrito-cafundo-no-municipio-de-maria-da-fe-atraves-de-licitacao-compartilhada-adesao-a-arp-n0052024-do-processo-n0132024-conc",
+   "portal": "Site do órgão",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Maria da Fé",
+      "uf": "MG",
+      "lat": -22.3044,
+      "lon": -45.3773,
+      "valor": 981321.0,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
    "id": "PIDD-SP-17-152026-61902025",
    "titulo": "Concorrência Eletrônica 15/2026",
    "orgao": "Prefeitura de Piedade (SP)",
@@ -829,71 +886,14 @@
    }
   },
   {
-   "id": "MRDF-MG-10-112026",
-   "titulo": "Registro de Preço 11/2026",
-   "orgao": "Prefeitura de Maria da Fé (PR)",
-   "municipio": "Maria da Fé",
-   "uf": "MG",
-   "data": "15/11/2026",
-   "hora": "00:00",
-   "objeto": "Contratação de empresa especializada para serviços de pavimentação asfáltica no trecho de estrada vicinal no distrito Cafundó no município de Maria da Fé, através de Licitação Compartilhada - Adesão a ARP nº005/2024 do Processo nº013/2024, Concorrência Eletrônica nº0...",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": true,
-   "valor_estimado": 981321.0,
-   "fonte_valor": "texto do aviso",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "Pavimentação asfáltica de estrada vicinal",
-   "link_pncp": null,
-   "link_origem": "https://www.mariadafe.mg.gov.br/licitacao/detalhe/2664/pspan-stylecolorblackcontratacao-de-empresa-especializada-para-servicos-de-pavimentacao-asfaltica-no-trecho-de-estrada-vicinal-no-distrito-cafundo-no-municipio-de-maria-da-fe-atraves-de-licitacao-compartilhada-adesao-a-arp-n0052024-do-processo-n0132024-conc",
-   "links_extra": [],
-   "situacao": null,
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": null,
-   "docs_antecipados": null,
-   "edital_sigla": "11/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -22.3044,
-   "lon": -45.3773,
-   "links": [
-    {
-     "tipo": "Site do órgão",
-     "url": "https://www.mariadafe.mg.gov.br/licitacao/detalhe/2664/pspan-stylecolorblackcontratacao-de-empresa-especializada-para-servicos-de-pavimentacao-asfaltica-no-trecho-de-estrada-vicinal-no-distrito-cafundo-no-municipio-de-maria-da-fe-atraves-de-licitacao-compartilhada-adesao-a-arp-n0052024-do-processo-n0132024-conc"
-    }
-   ],
-   "link_licitacao": "https://www.mariadafe.mg.gov.br/licitacao/detalhe/2664/pspan-stylecolorblackcontratacao-de-empresa-especializada-para-servicos-de-pavimentacao-asfaltica-no-trecho-de-estrada-vicinal-no-distrito-cafundo-no-municipio-de-maria-da-fe-atraves-de-licitacao-compartilhada-adesao-a-arp-n0052024-do-processo-n0132024-conc",
-   "portal": "Site do órgão",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Maria da Fé",
-      "uf": "MG",
-      "lat": -22.3044,
-      "lon": -45.3773,
-      "valor": 981321.0,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
-   "id": "MN-3149804-2-202026",
-   "titulo": "Concorrência 20/2026",
-   "orgao": "Prefeitura de Perdizes",
+   "id": "DOU-7a79797d73055847901c",
+   "titulo": "AVISO DE LICITAÇÃO",
+   "orgao": "Prefeitura Municipal de Perdizes",
    "municipio": "Perdizes",
    "uf": "MG",
    "data": "16/11/2026",
    "hora": "00:00",
-   "objeto": "Contratação de empresa, para execução de Pavimentação Asfáltica da Estrada Vicinal Prefeito Alcides Flausino Dias, através do CONVÊNIO n 1301000813/2026, destinada a melhoria de acesso a malha viária do município. A prestadora de serviços será responsável pelo fornecimento integral de materiais e mão de obra, que tem por finalidade atender a demanda necessária do município de Perdizes-MG, de acordo com as especificações mínimas indicadas neste Projeto Básico - Anexo I do Edital.",
+   "objeto": "Contratação de empresa para execução de Pavimentação Asfáltica da Estrada Vicinal Prefeito Alcides Flausino Dias, através do CONVÊNIO n° 1301000813/2026, destinada a melhoria de acesso a malha viária do município. A prestadora de serviços será responsável pelo fornecimento integral de materiais e mão de obra, que tem por finalidade atender a demanda necessária do município de Perdizes-MG, de acordo com as especificações mínimas indicadas neste Projeto Básico - Anexo I do Edital.",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
    "valor_estimado": 124834.37,
@@ -902,7 +902,7 @@
    "classe": "SIM",
    "justificativa": "Pavimentação asfáltica de estrada vicinal",
    "link_pncp": "https://pncp.gov.br/app/editais/18140772000194/2026/103",
-   "link_origem": "https://transparencia.perdizes.mg.gov.br/#/licitacoes",
+   "link_origem": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740220303",
    "links_extra": [
     "https://licitanet.com.br/sessao/199826"
    ],
@@ -911,9 +911,9 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "docs_antecipados": null,
-   "edital_sigla": "CE 18/2026",
+   "edital_sigla": "CE 18",
    "link_sistema": "https://licitanet.com.br/sessao/199826",
    "link_edital": null,
    "lat": -19.3434,
@@ -928,12 +928,12 @@
      "url": "https://licitanet.com.br/sessao/199826"
     },
     {
-     "tipo": "Site do órgão",
-     "url": "https://transparencia.perdizes.mg.gov.br/#/licitacoes"
-    },
-    {
      "tipo": "Diário Oficial",
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740220303"
+    },
+    {
+     "tipo": "Site do órgão",
+     "url": "https://transparencia.perdizes.mg.gov.br/#/licitacoes"
     }
    ],
    "link_licitacao": "https://licitanet.com.br/sessao/199826",
@@ -949,67 +949,6 @@
       "lat": -19.3434,
       "lon": -47.2963,
       "valor": 124834.37,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
-   "id": "DOU-aa0089e474693d892056",
-   "titulo": "AVISO DE LICITAÇÃO",
-   "orgao": "Prefeitura Municipal de Laranjeiras do Sul",
-   "municipio": "Laranjeiras do Sul",
-   "uf": "PR",
-   "data": "16/11/2026",
-   "hora": "08:00",
-   "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE PAVIMENTAÇÃO SOBRE PEDRAS IRREGULARES, PROGRAMA TRANSFERÊNCIAS VOLUNTÁRIAS, CONFORME TERMO DE CONVÊNIO N° 1045/2026-SECID E E-PROTOCOLO 25.374.133-3",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 11149901.37,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "edital lido: 32 menções a asfalto/CBUQ × 2 a bloco/concreto",
-   "link_pncp": "https://pncp.gov.br/app/editais/76205970000195/2026/146",
-   "link_origem": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740228050",
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 11/2056",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -25.4077,
-   "lon": -52.4109,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/76205970000195/2026/146"
-    },
-    {
-     "tipo": "Diário Oficial",
-     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740228050"
-    }
-   ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/76205970000195/2026/146",
-   "portal": "PNCP",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Laranjeiras do Sul",
-      "uf": "PR",
-      "lat": -25.4077,
-      "lon": -52.4109,
-      "valor": 11149901.37,
       "origem": "sede"
      }
     ],
@@ -1079,23 +1018,23 @@
    }
   },
   {
-   "id": "PNCP-75654566000136-1-000155-2026",
-   "titulo": "Edital 016/2026",
-   "orgao": "MUNICIPIO DE MALLET",
-   "municipio": "Mallet",
+   "id": "DOU-aa0089e474693d892056",
+   "titulo": "AVISO DE LICITAÇÃO",
+   "orgao": "Prefeitura Municipal de Laranjeiras do Sul",
+   "municipio": "Laranjeiras do Sul",
    "uf": "PR",
    "data": "16/11/2026",
-   "hora": "09:00",
-   "objeto": "Contratação de empresa especializada para realizar obra de pavimentação de via urbana em concreto betuminoso usinado a quente (CBUQ), área de 6.873,92 m², em trecho da Avenida Barão do Rio Branco - Sul (entre a Rodovia BR-153 e o final do perímetro urbano).",
+   "hora": "08:00",
+   "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA EXECUÇÃO DE PAVIMENTAÇÃO SOBRE PEDRAS IRREGULARES, PROGRAMA TRANSFERÊNCIAS VOLUNTÁRIAS, CONFORME TERMO DE CONVÊNIO N° 1045/2026-SECID E E-PROTOCOLO 25.374.133-3",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
-   "valor_estimado": 2255240.31,
-   "fonte_valor": "página pública do portal BLL",
+   "valor_estimado": 11149901.37,
+   "fonte_valor": "PNCP",
    "valor_obs": null,
    "classe": "SIM",
-   "justificativa": "Pavimentação em CBUQ de avenida",
-   "link_pncp": "https://pncp.gov.br/app/editais/75654566000136/2026/155",
-   "link_origem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ffXPv5/3CTO3w6N/5cc3L7vtkNpNaBmft0AunFOtx0DyisbHOHM76VppbHsjTil8u3NdwORXNjKHDGYruB_2qnlSXVh5K6i41PHiaOJevh8=",
+   "justificativa": "edital lido: 32 menções a asfalto/CBUQ × 2 a bloco/concreto",
+   "link_pncp": "https://pncp.gov.br/app/editais/76205970000195/2026/146",
+   "link_origem": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740228050",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
@@ -1103,35 +1042,96 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "docs_antecipados": "Não",
-   "edital_sigla": "CE 16/2026",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 11/2056",
    "link_sistema": null,
    "link_edital": null,
-   "lat": -25.8806,
-   "lon": -50.8173,
+   "lat": -25.4077,
+   "lon": -52.4109,
    "links": [
     {
      "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/75654566000136/2026/155"
+     "url": "https://pncp.gov.br/app/editais/76205970000195/2026/146"
     },
     {
-     "tipo": "Portal de compras",
-     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ffXPv5/3CTO3w6N/5cc3L7vtkNpNaBmft0AunFOtx0DyisbHOHM76VppbHsjTil8u3NdwORXNjKHDGYruB_2qnlSXVh5K6i41PHiaOJevh8="
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740228050"
     }
    ],
-   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ffXPv5/3CTO3w6N/5cc3L7vtkNpNaBmft0AunFOtx0DyisbHOHM76VppbHsjTil8u3NdwORXNjKHDGYruB_2qnlSXVh5K6i41PHiaOJevh8=",
-   "portal": "BLL",
+   "link_licitacao": "https://pncp.gov.br/app/editais/76205970000195/2026/146",
+   "portal": "PNCP",
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
     "municipios": [
      {
-      "nome": "Mallet",
+      "nome": "Laranjeiras do Sul",
       "uf": "PR",
-      "lat": -25.8806,
-      "lon": -50.8173,
-      "valor": 2255240.31,
+      "lat": -25.4077,
+      "lon": -52.4109,
+      "valor": 11149901.37,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
+   "id": "PNCP-18392548000190-1-000063-2026",
+   "titulo": "Edital 010/2026",
+   "orgao": "MUNICIPIO DE CHALE",
+   "municipio": "Chalé",
+   "uf": "MG",
+   "data": "16/11/2026",
+   "hora": "09:00",
+   "objeto": "Contratação de empresa especializada para execução de obras de pavimentação asfáltica em concreto betuminoso usinado a quente (CBUQ), com fornecimento de material e mão de obra, na Estrada Rural de Acesso do Município de Chalé/MG ao Município de Conceição de Ipanema/MG (Trecho 1), em conformidade com os projetos técnicos, planilha orçamentária, cronograma físico-financeiro e demais componentes e especificações técnicas.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 1772110.85,
+   "fonte_valor": "página pública do portal BNC",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Pavimentação asfáltica em CBUQ de estrada rural",
+   "link_pncp": "https://pncp.gov.br/app/editais/18392548000190/2026/63",
+   "link_origem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]uAeKHvkUnFfenAJOyDC0KF1qW8Ysxx9KX9g0MHQjHqqHXQim1O1hcko04BoOUu7N0MvAqmT6gO_Tc7Enok/b4qvD4I7Ab3IQEd1T4mCTnVc=",
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 10/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -20.0453,
+   "lon": -41.6897,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18392548000190/2026/63"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]uAeKHvkUnFfenAJOyDC0KF1qW8Ysxx9KX9g0MHQjHqqHXQim1O1hcko04BoOUu7N0MvAqmT6gO_Tc7Enok/b4qvD4I7Ab3IQEd1T4mCTnVc="
+    }
+   ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]uAeKHvkUnFfenAJOyDC0KF1qW8Ysxx9KX9g0MHQjHqqHXQim1O1hcko04BoOUu7N0MvAqmT6gO_Tc7Enok/b4qvD4I7Ab3IQEd1T4mCTnVc=",
+   "portal": "BNC",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Chalé",
+      "uf": "MG",
+      "lat": -20.0453,
+      "lon": -41.6897,
+      "valor": 1772110.85,
       "origem": "sede"
      }
     ],
@@ -1258,23 +1258,23 @@
    }
   },
   {
-   "id": "PNCP-18392548000190-1-000063-2026",
-   "titulo": "Edital 010/2026",
-   "orgao": "MUNICIPIO DE CHALE",
-   "municipio": "Chalé",
-   "uf": "MG",
+   "id": "PNCP-75654566000136-1-000155-2026",
+   "titulo": "Edital 016/2026",
+   "orgao": "MUNICIPIO DE MALLET",
+   "municipio": "Mallet",
+   "uf": "PR",
    "data": "16/11/2026",
    "hora": "09:00",
-   "objeto": "Contratação de empresa especializada para execução de obras de pavimentação asfáltica em concreto betuminoso usinado a quente (CBUQ), com fornecimento de material e mão de obra, na Estrada Rural de Acesso do Município de Chalé/MG ao Município de Conceição de Ipanema/MG (Trecho 1), em conformidade com os projetos técnicos, planilha orçamentária, cronograma físico-financeiro e demais componentes e especificações técnicas.",
+   "objeto": "Contratação de empresa especializada para realizar obra de pavimentação de via urbana em concreto betuminoso usinado a quente (CBUQ), área de 6.873,92 m², em trecho da Avenida Barão do Rio Branco - Sul (entre a Rodovia BR-153 e o final do perímetro urbano).",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
-   "valor_estimado": 1772110.85,
-   "fonte_valor": "página pública do portal BNC",
+   "valor_estimado": 2255240.31,
+   "fonte_valor": "página pública do portal BLL",
    "valor_obs": null,
    "classe": "SIM",
-   "justificativa": "Pavimentação asfáltica em CBUQ de estrada rural",
-   "link_pncp": "https://pncp.gov.br/app/editais/18392548000190/2026/63",
-   "link_origem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]uAeKHvkUnFfenAJOyDC0KF1qW8Ysxx9KX9g0MHQjHqqHXQim1O1hcko04BoOUu7N0MvAqmT6gO_Tc7Enok/b4qvD4I7Ab3IQEd1T4mCTnVc=",
+   "justificativa": "Pavimentação em CBUQ de avenida",
+   "link_pncp": "https://pncp.gov.br/app/editais/75654566000136/2026/155",
+   "link_origem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ffXPv5/3CTO3w6N/5cc3L7vtkNpNaBmft0AunFOtx0DyisbHOHM76VppbHsjTil8u3NdwORXNjKHDGYruB_2qnlSXVh5K6i41PHiaOJevh8=",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
@@ -1282,35 +1282,35 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 10/2026",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 16/2026",
    "link_sistema": null,
    "link_edital": null,
-   "lat": -20.0453,
-   "lon": -41.6897,
+   "lat": -25.8806,
+   "lon": -50.8173,
    "links": [
     {
      "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/18392548000190/2026/63"
+     "url": "https://pncp.gov.br/app/editais/75654566000136/2026/155"
     },
     {
      "tipo": "Portal de compras",
-     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]uAeKHvkUnFfenAJOyDC0KF1qW8Ysxx9KX9g0MHQjHqqHXQim1O1hcko04BoOUu7N0MvAqmT6gO_Tc7Enok/b4qvD4I7Ab3IQEd1T4mCTnVc="
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ffXPv5/3CTO3w6N/5cc3L7vtkNpNaBmft0AunFOtx0DyisbHOHM76VppbHsjTil8u3NdwORXNjKHDGYruB_2qnlSXVh5K6i41PHiaOJevh8="
     }
    ],
-   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]uAeKHvkUnFfenAJOyDC0KF1qW8Ysxx9KX9g0MHQjHqqHXQim1O1hcko04BoOUu7N0MvAqmT6gO_Tc7Enok/b4qvD4I7Ab3IQEd1T4mCTnVc=",
-   "portal": "BNC",
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ffXPv5/3CTO3w6N/5cc3L7vtkNpNaBmft0AunFOtx0DyisbHOHM76VppbHsjTil8u3NdwORXNjKHDGYruB_2qnlSXVh5K6i41PHiaOJevh8=",
+   "portal": "BLL",
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
     "municipios": [
      {
-      "nome": "Chalé",
-      "uf": "MG",
-      "lat": -20.0453,
-      "lon": -41.6897,
-      "valor": 1772110.85,
+      "nome": "Mallet",
+      "uf": "PR",
+      "lat": -25.8806,
+      "lon": -50.8173,
+      "valor": 2255240.31,
       "origem": "sede"
      }
     ],
@@ -1612,63 +1612,6 @@
    }
   },
   {
-   "id": "PNCP-76968627000100-1-000327-2026",
-   "titulo": "Edital CCE 22/2026",
-   "orgao": "MUNICIPIO DE SANTO ANTONIO DA PLATINA",
-   "municipio": "Santo Antônio da Platina",
-   "uf": "PR",
-   "data": "17/11/2026",
-   "hora": "08:00",
-   "objeto": "Contratação de empresa especializada para execução de pavimentação asfáltica em CBUQ e urbanização de vias urbanas, contendo os seguintes serviços: serviços preliminares; terraplanagem; drenagem; base e sub-base; revestimento; meio-fio e sinalização de trânsito e ensaios tecnológicos, com prazo de execução de 330 (trezento e trinta) dias, em conformidade com o projeto, especificações técnicas, memoriais, cronogramas e demais documentos. Convênio SECID 1064/26.",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 6106291.17,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "Pavimentação asfáltica em CBUQ de vias urbanas",
-   "link_pncp": "https://pncp.gov.br/app/editais/76968627000100/2026/327",
-   "link_origem": null,
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 22/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -23.2959,
-   "lon": -50.0815,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/76968627000100/2026/327"
-    }
-   ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/76968627000100/2026/327",
-   "portal": "PNCP",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Santo Antônio da Platina",
-      "uf": "PR",
-      "lat": -23.2959,
-      "lon": -50.0815,
-      "valor": 6106291.17,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
    "id": "DOU-c28b55458afc9e055cf4",
    "titulo": "PREGÃO PRESENCIAL Nº 22/2026",
    "orgao": "Prefeitura Municipal de Itajobi",
@@ -1858,27 +1801,24 @@
    }
   },
   {
-   "id": "PNCP-18338848000190-1-000068-2026",
-   "titulo": "Edital 003/2026/2026",
-   "orgao": "MUNICIPIO DE SAO JOAO DO ORIENTE",
-   "municipio": "São João do Oriente",
-   "uf": "MG",
+   "id": "PNCP-76968627000100-1-000327-2026",
+   "titulo": "Edital CCE 22/2026",
+   "orgao": "MUNICIPIO DE SANTO ANTONIO DA PLATINA",
+   "municipio": "Santo Antônio da Platina",
+   "uf": "PR",
    "data": "17/11/2026",
-   "hora": "08:29",
-   "objeto": "CONTRATAÇÃO POR REGIME DE EMPREITADA PREÇO GLOBAL PARA EXECUÇÃO DE OBRA DE PAVIMENTAÇÃO ASFÁLTICA DE TRECHO DA RUA ZILDA MENDES DE ALMEIDA, RUA SEBASTIÃO MATIAS, RUA MURIAÉ E RUA INHAPIM, BAIRRO CENTRO, SITUADAS EM ÁREA URBANA DO MUNICÍPIO DE SÃO JOÃO DO ORIENTE/MG, CONFORME EMENDA ESPECIAL ESTADUAL - PLANO DE TRABALHO Nº 003014/2026.",
+   "hora": "08:00",
+   "objeto": "Contratação de empresa especializada para execução de pavimentação asfáltica em CBUQ e urbanização de vias urbanas, contendo os seguintes serviços: serviços preliminares; terraplanagem; drenagem; base e sub-base; revestimento; meio-fio e sinalização de trânsito e ensaios tecnológicos, com prazo de execução de 330 (trezento e trinta) dias, em conformidade com o projeto, especificações técnicas, memoriais, cronogramas e demais documentos. Convênio SECID 1064/26.",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
-   "valor_estimado": 516448.52,
+   "valor_estimado": 6106291.17,
    "fonte_valor": "PNCP",
    "valor_obs": null,
    "classe": "SIM",
-   "justificativa": "Pavimentação asfáltica de trecho de ruas",
-   "link_pncp": "https://pncp.gov.br/app/editais/18338848000190/2026/68",
+   "justificativa": "Pavimentação asfáltica em CBUQ de vias urbanas",
+   "link_pncp": "https://pncp.gov.br/app/editais/76968627000100/2026/327",
    "link_origem": null,
-   "links_extra": [
-    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737127119",
-    "https://pncp.gov.br/app/editais/18338848000190/2026/71"
-   ],
+   "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "situacao_alerta": null,
@@ -1886,26 +1826,18 @@
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
    "docs_antecipados": null,
-   "edital_sigla": "CE 3/2026",
+   "edital_sigla": "CE 22/2026",
    "link_sistema": null,
    "link_edital": null,
-   "lat": -19.3384,
-   "lon": -42.1575,
+   "lat": -23.2959,
+   "lon": -50.0815,
    "links": [
     {
      "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/18338848000190/2026/68"
-    },
-    {
-     "tipo": "Diário Oficial",
-     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737127119"
-    },
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/18338848000190/2026/71"
+     "url": "https://pncp.gov.br/app/editais/76968627000100/2026/327"
     }
    ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/18338848000190/2026/68",
+   "link_licitacao": "https://pncp.gov.br/app/editais/76968627000100/2026/327",
    "portal": "PNCP",
    "republicada": null,
    "abrangencia": {
@@ -1913,11 +1845,11 @@
     "esfera": "municipal",
     "municipios": [
      {
-      "nome": "São João do Oriente",
-      "uf": "MG",
-      "lat": -19.3384,
-      "lon": -42.1575,
-      "valor": 516448.52,
+      "nome": "Santo Antônio da Platina",
+      "uf": "PR",
+      "lat": -23.2959,
+      "lon": -50.0815,
+      "valor": 6106291.17,
       "origem": "sede"
      }
     ],
@@ -2036,6 +1968,74 @@
       "lat": -25.7371,
       "lon": -52.1188,
       "valor": 5106532.33,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
+   "id": "PNCP-18338848000190-1-000068-2026",
+   "titulo": "Edital 003/2026/2026",
+   "orgao": "MUNICIPIO DE SAO JOAO DO ORIENTE",
+   "municipio": "São João do Oriente",
+   "uf": "MG",
+   "data": "17/11/2026",
+   "hora": "08:29",
+   "objeto": "CONTRATAÇÃO POR REGIME DE EMPREITADA PREÇO GLOBAL PARA EXECUÇÃO DE OBRA DE PAVIMENTAÇÃO ASFÁLTICA DE TRECHO DA RUA ZILDA MENDES DE ALMEIDA, RUA SEBASTIÃO MATIAS, RUA MURIAÉ E RUA INHAPIM, BAIRRO CENTRO, SITUADAS EM ÁREA URBANA DO MUNICÍPIO DE SÃO JOÃO DO ORIENTE/MG, CONFORME EMENDA ESPECIAL ESTADUAL - PLANO DE TRABALHO Nº 003014/2026.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 516448.52,
+   "fonte_valor": "PNCP",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Pavimentação asfáltica de trecho de ruas",
+   "link_pncp": "https://pncp.gov.br/app/editais/18338848000190/2026/68",
+   "link_origem": null,
+   "links_extra": [
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737127119",
+    "https://pncp.gov.br/app/editais/18338848000190/2026/71"
+   ],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 3/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -19.3384,
+   "lon": -42.1575,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18338848000190/2026/68"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737127119"
+    },
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18338848000190/2026/71"
+    }
+   ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/18338848000190/2026/68",
+   "portal": "PNCP",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "São João do Oriente",
+      "uf": "MG",
+      "lat": -19.3384,
+      "lon": -42.1575,
+      "valor": 516448.52,
       "origem": "sede"
      }
     ],
@@ -4441,6 +4441,67 @@
    }
   },
   {
+   "id": "PNCP-18349894000195-1-000075-2026",
+   "titulo": "Edital 011/2026",
+   "orgao": "MUNICIPIO DE ALMENARA",
+   "municipio": "Almenara",
+   "uf": "MG",
+   "data": "23/11/2026",
+   "hora": "08:30",
+   "objeto": "Contratação de empresa especializada para execução de pavimentação asfáltica, serviços de movimentação de terra, execução de base, drenagem e sinalização na estrada Vicinal São José do Prata (sacode), totalizando 3.966,00m².",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 816100.17,
+   "fonte_valor": "página pública do portal BNC",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Execução de pavimentação asfáltica com base e drenagem",
+   "link_pncp": "https://pncp.gov.br/app/editais/18349894000195/2026/75",
+   "link_origem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]wILqBx/nCD7AZCAqZ7zVkpd2ahLNJJ2rclbDM5oINNZ6Qa8Ozh5KsA1aJsY1BIpLIY1sJAeYvwnb15A45QjLtk5FsBzA_HIRV4YPFLPefTI=",
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 11/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -16.1785,
+   "lon": -40.6942,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/18349894000195/2026/75"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]wILqBx/nCD7AZCAqZ7zVkpd2ahLNJJ2rclbDM5oINNZ6Qa8Ozh5KsA1aJsY1BIpLIY1sJAeYvwnb15A45QjLtk5FsBzA_HIRV4YPFLPefTI="
+    }
+   ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]wILqBx/nCD7AZCAqZ7zVkpd2ahLNJJ2rclbDM5oINNZ6Qa8Ozh5KsA1aJsY1BIpLIY1sJAeYvwnb15A45QjLtk5FsBzA_HIRV4YPFLPefTI=",
+   "portal": "BNC",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Almenara",
+      "uf": "MG",
+      "lat": -16.1785,
+      "lon": -40.6942,
+      "valor": 816100.17,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
    "id": "PNCP-44919066000155-1-000099-2026",
    "titulo": "Edital 4/2026",
    "orgao": "MUNICIPIO DE SANTA MERCEDES",
@@ -4572,23 +4633,23 @@
    }
   },
   {
-   "id": "PNCP-18349894000195-1-000075-2026",
-   "titulo": "Edital 011/2026",
-   "orgao": "MUNICIPIO DE ALMENARA",
-   "municipio": "Almenara",
+   "id": "PNCP-18715508000131-1-000177-2026",
+   "titulo": "Edital 020/2026",
+   "orgao": "MUNICIPIO DE CONTAGEM",
+   "municipio": "Contagem",
    "uf": "MG",
    "data": "23/11/2026",
-   "hora": "08:30",
-   "objeto": "Contratação de empresa especializada para execução de pavimentação asfáltica, serviços de movimentação de terra, execução de base, drenagem e sinalização na estrada Vicinal São José do Prata (sacode), totalizando 3.966,00m².",
+   "hora": "08:59",
+   "objeto": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL EXECUÇÃO DE OBRAS DE RECUPERAÇÃO DE PAVIMENTAÇÃO COM MELHORIAS DO ESCOAMENTO PLUVIAL E COMPLEMENTO DE TRECHOS NÃO PAVIMENTADOS, CONTAGEM/MG.",
    "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 816100.17,
-   "fonte_valor": "página pública do portal BNC",
+   "srp": true,
+   "valor_estimado": 179952458.94,
+   "fonte_valor": "PNCP",
    "valor_obs": null,
    "classe": "SIM",
-   "justificativa": "Execução de pavimentação asfáltica com base e drenagem",
-   "link_pncp": "https://pncp.gov.br/app/editais/18349894000195/2026/75",
-   "link_origem": "https://bnccompras.com/Process/ProcessView?param1=[gkz]wILqBx/nCD7AZCAqZ7zVkpd2ahLNJJ2rclbDM5oINNZ6Qa8Ozh5KsA1aJsY1BIpLIY1sJAeYvwnb15A45QjLtk5FsBzA_HIRV4YPFLPefTI=",
+   "justificativa": "edital lido: 12 menções a asfalto/CBUQ × 0 a bloco/concreto",
+   "link_pncp": "https://pncp.gov.br/app/editais/18715508000131/2026/177",
+   "link_origem": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Contagem-3731/CPMD-020-2026-2026-517421",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
@@ -4596,35 +4657,35 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "docs_antecipados": "Não",
-   "edital_sigla": "CE 11/2026",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 20/2026",
    "link_sistema": null,
    "link_edital": null,
-   "lat": -16.1785,
-   "lon": -40.6942,
+   "lat": -19.9321,
+   "lon": -44.0539,
    "links": [
     {
      "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/18349894000195/2026/75"
+     "url": "https://pncp.gov.br/app/editais/18715508000131/2026/177"
     },
     {
      "tipo": "Portal de compras",
-     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]wILqBx/nCD7AZCAqZ7zVkpd2ahLNJJ2rclbDM5oINNZ6Qa8Ozh5KsA1aJsY1BIpLIY1sJAeYvwnb15A45QjLtk5FsBzA_HIRV4YPFLPefTI="
+     "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Contagem-3731/CPMD-020-2026-2026-517421"
     }
    ],
-   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]wILqBx/nCD7AZCAqZ7zVkpd2ahLNJJ2rclbDM5oINNZ6Qa8Ozh5KsA1aJsY1BIpLIY1sJAeYvwnb15A45QjLtk5FsBzA_HIRV4YPFLPefTI=",
-   "portal": "BNC",
+   "link_licitacao": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Contagem-3731/CPMD-020-2026-2026-517421",
+   "portal": "Compraspublicas",
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
     "municipios": [
      {
-      "nome": "Almenara",
+      "nome": "Contagem",
       "uf": "MG",
-      "lat": -16.1785,
-      "lon": -40.6942,
-      "valor": 816100.17,
+      "lat": -19.9321,
+      "lon": -44.0539,
+      "valor": 179952458.94,
       "origem": "sede"
      }
     ],
@@ -4690,67 +4751,6 @@
    }
   },
   {
-   "id": "PNCP-18715508000131-1-000177-2026",
-   "titulo": "Edital 020/2026",
-   "orgao": "MUNICIPIO DE CONTAGEM",
-   "municipio": "Contagem",
-   "uf": "MG",
-   "data": "23/11/2026",
-   "hora": "08:59",
-   "objeto": "REGISTRO DE PREÇOS PARA FUTURA E EVENTUAL EXECUÇÃO DE OBRAS DE RECUPERAÇÃO DE PAVIMENTAÇÃO COM MELHORIAS DO ESCOAMENTO PLUVIAL E COMPLEMENTO DE TRECHOS NÃO PAVIMENTADOS, CONTAGEM/MG.",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": true,
-   "valor_estimado": 179952458.94,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "edital lido: 12 menções a asfalto/CBUQ × 0 a bloco/concreto",
-   "link_pncp": "https://pncp.gov.br/app/editais/18715508000131/2026/177",
-   "link_origem": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Contagem-3731/CPMD-020-2026-2026-517421",
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 20/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -19.9321,
-   "lon": -44.0539,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/18715508000131/2026/177"
-    },
-    {
-     "tipo": "Portal de compras",
-     "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Contagem-3731/CPMD-020-2026-2026-517421"
-    }
-   ],
-   "link_licitacao": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Contagem-3731/CPMD-020-2026-2026-517421",
-   "portal": "Compraspublicas",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Contagem",
-      "uf": "MG",
-      "lat": -19.9321,
-      "lon": -44.0539,
-      "valor": 179952458.94,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
    "id": "PNCP-45728326000178-1-000112-2026",
    "titulo": "Edital 11/2026",
    "orgao": "MUNICIPIO DE GUAPIACU",
@@ -4800,67 +4800,6 @@
       "lat": -20.7959,
       "lon": -49.2172,
       "valor": 1349551.75,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
-   "id": "PNCP-46634465000103-1-000073-2026",
-   "titulo": "Edital 24/2026",
-   "orgao": "MUNICIPIO DE TAPIRAI",
-   "municipio": "Tapiraí",
-   "uf": "SP",
-   "data": "23/11/2026",
-   "hora": "09:00",
-   "objeto": "Contratação de empresa especializada para a execução das obras de recapeamento e recuperação asfáltica em diversas ruas do município de Tapiraí",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 817365.51,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "Recapeamento e recuperação asfáltica de ruas",
-   "link_pncp": "https://pncp.gov.br/app/editais/46634465000103/2026/73",
-   "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98717103000242026",
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 24/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -23.9612,
-   "lon": -47.5062,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/46634465000103/2026/73"
-    },
-    {
-     "tipo": "Portal de compras",
-     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98717103000242026"
-    }
-   ],
-   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98717103000242026",
-   "portal": "Comprasnet",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Tapiraí",
-      "uf": "SP",
-      "lat": -23.9612,
-      "lon": -47.5062,
-      "valor": 817365.51,
       "origem": "sede"
      }
     ],
@@ -4991,6 +4930,67 @@
       "lat": -21.354,
       "lon": -51.8562,
       "valor": 840240.56,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
+   "id": "PNCP-46634465000103-1-000073-2026",
+   "titulo": "Edital 24/2026",
+   "orgao": "MUNICIPIO DE TAPIRAI",
+   "municipio": "Tapiraí",
+   "uf": "SP",
+   "data": "23/11/2026",
+   "hora": "09:00",
+   "objeto": "Contratação de empresa especializada para a execução das obras de recapeamento e recuperação asfáltica em diversas ruas do município de Tapiraí",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 817365.51,
+   "fonte_valor": "PNCP",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Recapeamento e recuperação asfáltica de ruas",
+   "link_pncp": "https://pncp.gov.br/app/editais/46634465000103/2026/73",
+   "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98717103000242026",
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 24/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -23.9612,
+   "lon": -47.5062,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634465000103/2026/73"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98717103000242026"
+    }
+   ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98717103000242026",
+   "portal": "Comprasnet",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Tapiraí",
+      "uf": "SP",
+      "lat": -23.9612,
+      "lon": -47.5062,
+      "valor": 817365.51,
       "origem": "sede"
      }
     ],
@@ -5306,6 +5306,63 @@
    }
   },
   {
+   "id": "PNCP-83024257000100-1-000502-2026",
+   "titulo": "Edital PCE 158/2026",
+   "orgao": "MUNICIPIO DE CONCORDIA",
+   "municipio": "Concórdia",
+   "uf": "SC",
+   "data": "24/11/2026",
+   "hora": "08:15",
+   "objeto": "Contratação de empresa do ramo de pavimentação asfáltica para execução de Recuperação Asfáltica da Rua Marcelino Ramos, mediante regime de empreitada por preços unitários, no Município de Concórdia/SC.",
+   "modalidade": "Pregão Eletrônico",
+   "srp": false,
+   "valor_estimado": 1485579.55,
+   "fonte_valor": "PNCP",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Recuperação asfáltica de rua por empreitada",
+   "link_pncp": "https://pncp.gov.br/app/editais/83024257000100/2026/502",
+   "link_origem": null,
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 158/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -27.2335,
+   "lon": -52.026,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/83024257000100/2026/502"
+    }
+   ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/83024257000100/2026/502",
+   "portal": "PNCP",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Concórdia",
+      "uf": "SC",
+      "lat": -27.2335,
+      "lon": -52.026,
+      "valor": 1485579.55,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
    "id": "PNCP-76175918000133-1-000046-2026",
    "titulo": "Edital 0000011/2026",
    "orgao": "MUNICIPIO DE IVAI",
@@ -5359,63 +5416,6 @@
       "lat": -25.0067,
       "lon": -50.857,
       "valor": 5982229.51,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
-   "id": "PNCP-83024257000100-1-000502-2026",
-   "titulo": "Edital PCE 158/2026",
-   "orgao": "MUNICIPIO DE CONCORDIA",
-   "municipio": "Concórdia",
-   "uf": "SC",
-   "data": "24/11/2026",
-   "hora": "08:15",
-   "objeto": "Contratação de empresa do ramo de pavimentação asfáltica para execução de Recuperação Asfáltica da Rua Marcelino Ramos, mediante regime de empreitada por preços unitários, no Município de Concórdia/SC.",
-   "modalidade": "Pregão Eletrônico",
-   "srp": false,
-   "valor_estimado": 1485579.55,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "Recuperação asfáltica de rua por empreitada",
-   "link_pncp": "https://pncp.gov.br/app/editais/83024257000100/2026/502",
-   "link_origem": null,
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "PE 158/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -27.2335,
-   "lon": -52.026,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/83024257000100/2026/502"
-    }
-   ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/83024257000100/2026/502",
-   "portal": "PNCP",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Concórdia",
-      "uf": "SC",
-      "lat": -27.2335,
-      "lon": -52.026,
-      "valor": 1485579.55,
       "origem": "sede"
      }
     ],
@@ -5735,63 +5735,6 @@
    }
   },
   {
-   "id": "PNCP-76282680000145-1-000272-2026",
-   "titulo": "Edital 15/2026",
-   "orgao": "MUNICIPIO DE MARIALVA",
-   "municipio": "Marialva",
-   "uf": "PR",
-   "data": "25/11/2026",
-   "hora": "08:00",
-   "objeto": "Contratação de empresa especializada para Pavimentação em CBUQ junto a Estrada do Engenho, deste município de Marialva – PR.",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 5575250.59,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "Pavimentação em CBUQ de estrada",
-   "link_pncp": "https://pncp.gov.br/app/editais/76282680000145/2026/272",
-   "link_origem": null,
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 15/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -23.4843,
-   "lon": -51.7928,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/76282680000145/2026/272"
-    }
-   ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/76282680000145/2026/272",
-   "portal": "PNCP",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Marialva",
-      "uf": "PR",
-      "lat": -23.4843,
-      "lon": -51.7928,
-      "valor": 5575250.59,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
    "id": "PNCP-46634523000190-1-000257-2026",
    "titulo": "Edital 29/2026",
    "orgao": "MUNICIPIO DE SAO MANUEL",
@@ -5845,6 +5788,63 @@
       "lat": -22.7321,
       "lon": -48.5723,
       "valor": 4319561.29,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
+   "id": "PNCP-76282680000145-1-000272-2026",
+   "titulo": "Edital 15/2026",
+   "orgao": "MUNICIPIO DE MARIALVA",
+   "municipio": "Marialva",
+   "uf": "PR",
+   "data": "25/11/2026",
+   "hora": "08:00",
+   "objeto": "Contratação de empresa especializada para Pavimentação em CBUQ junto a Estrada do Engenho, deste município de Marialva – PR.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 5575250.59,
+   "fonte_valor": "PNCP",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Pavimentação em CBUQ de estrada",
+   "link_pncp": "https://pncp.gov.br/app/editais/76282680000145/2026/272",
+   "link_origem": null,
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 15/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -23.4843,
+   "lon": -51.7928,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76282680000145/2026/272"
+    }
+   ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76282680000145/2026/272",
+   "portal": "PNCP",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Marialva",
+      "uf": "PR",
+      "lat": -23.4843,
+      "lon": -51.7928,
+      "valor": 5575250.59,
       "origem": "sede"
      }
     ],
@@ -6429,67 +6429,6 @@
    }
   },
   {
-   "id": "PNCP-44438968000170-1-000070-2026",
-   "titulo": "Edital 04/2026",
-   "orgao": "MUNICIPIO DE MIRANDOPOLIS",
-   "municipio": "Mirandópolis",
-   "uf": "SP",
-   "data": "26/11/2026",
-   "hora": "08:30",
-   "objeto": "“Contratação de empresa especializada para execução de recapeamento asfáltico em diversas vias do Município de Mirandópolis/SP, que será custeada com recursos provenientes da Emenda Parlamentar n.º 202640350003, vinculada ao Plano de Ação n.º 09032026-096129”",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 506241.32,
-   "fonte_valor": "página pública do portal BLL",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "Recapeamento asfáltico em diversas vias",
-   "link_pncp": "https://pncp.gov.br/app/editais/44438968000170/2026/70",
-   "link_origem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]5UupM63rHIQUYtd75QFEafWspXWFtG8/ak3EywV1Z1/ZdJM8e/lmNefSCBGORKisDRK9Op/xGp6d8rmF4evuxDVWPtHcyDjf/z0jS09Evbk=",
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": "Sim",
-   "edital_sigla": "CE 4/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -21.1313,
-   "lon": -51.1035,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/44438968000170/2026/70"
-    },
-    {
-     "tipo": "Portal de compras",
-     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]5UupM63rHIQUYtd75QFEafWspXWFtG8/ak3EywV1Z1/ZdJM8e/lmNefSCBGORKisDRK9Op/xGp6d8rmF4evuxDVWPtHcyDjf/z0jS09Evbk="
-    }
-   ],
-   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]5UupM63rHIQUYtd75QFEafWspXWFtG8/ak3EywV1Z1/ZdJM8e/lmNefSCBGORKisDRK9Op/xGp6d8rmF4evuxDVWPtHcyDjf/z0jS09Evbk=",
-   "portal": "BLL",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Mirandópolis",
-      "uf": "SP",
-      "lat": -21.1313,
-      "lon": -51.1035,
-      "valor": 506241.32,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
    "id": "PNCP-18338285000130-1-000098-2026",
    "titulo": "Edital 003/2026",
    "orgao": "MUNICIPIO DE SANTANA DO GARAMBEU",
@@ -6612,6 +6551,67 @@
    }
   },
   {
+   "id": "PNCP-44438968000170-1-000070-2026",
+   "titulo": "Edital 04/2026",
+   "orgao": "MUNICIPIO DE MIRANDOPOLIS",
+   "municipio": "Mirandópolis",
+   "uf": "SP",
+   "data": "26/11/2026",
+   "hora": "08:30",
+   "objeto": "“Contratação de empresa especializada para execução de recapeamento asfáltico em diversas vias do Município de Mirandópolis/SP, que será custeada com recursos provenientes da Emenda Parlamentar n.º 202640350003, vinculada ao Plano de Ação n.º 09032026-096129”",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 506241.32,
+   "fonte_valor": "página pública do portal BLL",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Recapeamento asfáltico em diversas vias",
+   "link_pncp": "https://pncp.gov.br/app/editais/44438968000170/2026/70",
+   "link_origem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]5UupM63rHIQUYtd75QFEafWspXWFtG8/ak3EywV1Z1/ZdJM8e/lmNefSCBGORKisDRK9Op/xGp6d8rmF4evuxDVWPtHcyDjf/z0jS09Evbk=",
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Sim",
+   "edital_sigla": "CE 4/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -21.1313,
+   "lon": -51.1035,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44438968000170/2026/70"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]5UupM63rHIQUYtd75QFEafWspXWFtG8/ak3EywV1Z1/ZdJM8e/lmNefSCBGORKisDRK9Op/xGp6d8rmF4evuxDVWPtHcyDjf/z0jS09Evbk="
+    }
+   ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]5UupM63rHIQUYtd75QFEafWspXWFtG8/ak3EywV1Z1/ZdJM8e/lmNefSCBGORKisDRK9Op/xGp6d8rmF4evuxDVWPtHcyDjf/z0jS09Evbk=",
+   "portal": "BLL",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Mirandópolis",
+      "uf": "SP",
+      "lat": -21.1313,
+      "lon": -51.1035,
+      "valor": 506241.32,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
    "id": "PNCP-78121985000109-1-000117-2026",
    "titulo": "Edital 16/2026",
    "orgao": "MUNICIPIO DE BOA VISTA DA APARECIDA",
@@ -6669,23 +6669,23 @@
    }
   },
   {
-   "id": "PNCP-46634572000123-1-000131-2026",
-   "titulo": "Edital 04/2026",
-   "orgao": "MUNICIPIO DE CESARIO LANGE",
-   "municipio": "Cesário Lange",
-   "uf": "SP",
+   "id": "PNCP-28909604000174-1-000120-2026",
+   "titulo": "Edital 536/2026",
+   "orgao": "MUNICIPIO DE SAO PEDRO DA ALDEIA",
+   "municipio": "São Pedro da Aldeia",
+   "uf": "RJ",
    "data": "26/11/2026",
    "hora": "09:00",
-   "objeto": "Contratação de empresa especializada para a execução das obras de recapeamento das Ruas Pará e Amazonas e de recuperação asfáltica da Rua Joaquim Ribeiro da Silva, neste Município de Cesário Lange, no âmbito do Convênio nº 101006/2026, conforme condições, quantidades e exigências estabelecidas neste Edital e em seus anexos, especialmente no Projeto Básico (Anexo I) e na Planilha Orçamentária (Anexo VI).",
+   "objeto": "Pavimentação, passeis acessíveis em ruas no perímetro urbano, bem como drenagem pluvial e urbanização viária sito no bairro Recanto do Sol.",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
-   "valor_estimado": 292353.65,
-   "fonte_valor": "página pública do portal BLL",
+   "valor_estimado": 2633487.85,
+   "fonte_valor": "PNCP",
    "valor_obs": null,
    "classe": "SIM",
-   "justificativa": "Recapeamento e recuperação asfáltica de ruas",
-   "link_pncp": "https://pncp.gov.br/app/editais/46634572000123/2026/131",
-   "link_origem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VmZOBzN7t6hzaTRZyc2ASzEkzWC84VOPVNDBczgyPlJQ01yWOQGRh3aogbihX5pm8O35gVMan7k9PYTNELuMQgHLqjqc/U_ONaVDOpRCHOE=",
+   "justificativa": "itens da compra no PNCP: itens=1 asfalto=2 bloco/concreto=0",
+   "link_pncp": "https://pncp.gov.br/app/editais/28909604000174/2026/120",
+   "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98590303005362026",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
@@ -6693,35 +6693,35 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "docs_antecipados": "Não",
-   "edital_sigla": "CE 4/2026",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 536/2026",
    "link_sistema": null,
    "link_edital": null,
-   "lat": -23.226,
-   "lon": -47.9545,
+   "lat": -22.8429,
+   "lon": -42.1026,
    "links": [
     {
      "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/46634572000123/2026/131"
+     "url": "https://pncp.gov.br/app/editais/28909604000174/2026/120"
     },
     {
      "tipo": "Portal de compras",
-     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VmZOBzN7t6hzaTRZyc2ASzEkzWC84VOPVNDBczgyPlJQ01yWOQGRh3aogbihX5pm8O35gVMan7k9PYTNELuMQgHLqjqc/U_ONaVDOpRCHOE="
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98590303005362026"
     }
    ],
-   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VmZOBzN7t6hzaTRZyc2ASzEkzWC84VOPVNDBczgyPlJQ01yWOQGRh3aogbihX5pm8O35gVMan7k9PYTNELuMQgHLqjqc/U_ONaVDOpRCHOE=",
-   "portal": "BLL",
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98590303005362026",
+   "portal": "Comprasnet",
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
     "municipios": [
      {
-      "nome": "Cesário Lange",
-      "uf": "SP",
-      "lat": -23.226,
-      "lon": -47.9545,
-      "valor": 292353.65,
+      "nome": "São Pedro da Aldeia",
+      "uf": "RJ",
+      "lat": -22.8429,
+      "lon": -42.1026,
+      "valor": 2633487.85,
       "origem": "sede"
      }
     ],
@@ -6794,23 +6794,23 @@
    }
   },
   {
-   "id": "PNCP-28909604000174-1-000120-2026",
-   "titulo": "Edital 536/2026",
-   "orgao": "MUNICIPIO DE SAO PEDRO DA ALDEIA",
-   "municipio": "São Pedro da Aldeia",
-   "uf": "RJ",
+   "id": "PNCP-46634572000123-1-000131-2026",
+   "titulo": "Edital 04/2026",
+   "orgao": "MUNICIPIO DE CESARIO LANGE",
+   "municipio": "Cesário Lange",
+   "uf": "SP",
    "data": "26/11/2026",
    "hora": "09:00",
-   "objeto": "Pavimentação, passeis acessíveis em ruas no perímetro urbano, bem como drenagem pluvial e urbanização viária sito no bairro Recanto do Sol.",
+   "objeto": "Contratação de empresa especializada para a execução das obras de recapeamento das Ruas Pará e Amazonas e de recuperação asfáltica da Rua Joaquim Ribeiro da Silva, neste Município de Cesário Lange, no âmbito do Convênio nº 101006/2026, conforme condições, quantidades e exigências estabelecidas neste Edital e em seus anexos, especialmente no Projeto Básico (Anexo I) e na Planilha Orçamentária (Anexo VI).",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
-   "valor_estimado": 2633487.85,
-   "fonte_valor": "PNCP",
+   "valor_estimado": 292353.65,
+   "fonte_valor": "página pública do portal BLL",
    "valor_obs": null,
    "classe": "SIM",
-   "justificativa": "itens da compra no PNCP: itens=1 asfalto=2 bloco/concreto=0",
-   "link_pncp": "https://pncp.gov.br/app/editais/28909604000174/2026/120",
-   "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98590303005362026",
+   "justificativa": "Recapeamento e recuperação asfáltica de ruas",
+   "link_pncp": "https://pncp.gov.br/app/editais/46634572000123/2026/131",
+   "link_origem": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VmZOBzN7t6hzaTRZyc2ASzEkzWC84VOPVNDBczgyPlJQ01yWOQGRh3aogbihX5pm8O35gVMan7k9PYTNELuMQgHLqjqc/U_ONaVDOpRCHOE=",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
@@ -6818,35 +6818,35 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 536/2026",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 4/2026",
    "link_sistema": null,
    "link_edital": null,
-   "lat": -22.8429,
-   "lon": -42.1026,
+   "lat": -23.226,
+   "lon": -47.9545,
    "links": [
     {
      "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/28909604000174/2026/120"
+     "url": "https://pncp.gov.br/app/editais/46634572000123/2026/131"
     },
     {
      "tipo": "Portal de compras",
-     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98590303005362026"
+     "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VmZOBzN7t6hzaTRZyc2ASzEkzWC84VOPVNDBczgyPlJQ01yWOQGRh3aogbihX5pm8O35gVMan7k9PYTNELuMQgHLqjqc/U_ONaVDOpRCHOE="
     }
    ],
-   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98590303005362026",
-   "portal": "Comprasnet",
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VmZOBzN7t6hzaTRZyc2ASzEkzWC84VOPVNDBczgyPlJQ01yWOQGRh3aogbihX5pm8O35gVMan7k9PYTNELuMQgHLqjqc/U_ONaVDOpRCHOE=",
+   "portal": "BLL",
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
     "municipios": [
      {
-      "nome": "São Pedro da Aldeia",
-      "uf": "RJ",
-      "lat": -22.8429,
-      "lon": -42.1026,
-      "valor": 2633487.85,
+      "nome": "Cesário Lange",
+      "uf": "SP",
+      "lat": -23.226,
+      "lon": -47.9545,
+      "valor": 292353.65,
       "origem": "sede"
      }
     ],
@@ -6855,14 +6855,14 @@
    }
   },
   {
-   "id": "DMSC-8899547",
-   "titulo": "AVISO DE LICITAÇÃO-MODALIDADE CONCORRÊNCIA Nº 11/2026 PMPG",
-   "orgao": "Prefeitura municipal de Pedras Grandes",
+   "id": "DOU-f8a2363e2c39c6e0e426",
+   "titulo": "Concorrência nº 11/2026",
+   "orgao": "Prefeitura Municipal de Pedras Grandes",
    "municipio": "Pedras Grandes",
    "uf": "SC",
    "data": "26/11/2026",
    "hora": "09:30",
-   "objeto": "Objeto: \"Contratação de empresa de engenharia especializada em pavimentação asfáltica e serviços complementares nos 3 (três) trechos das Ruas determinadas em projeto executivo, cito: Rua Clemente Sachetti Lote 1-D- lado direito da via (62,60m); Lote 2-E lado esquerdo da via (62,60); Portaria SEF 139/2025 e Estrada Geral Rio Coral - Lote 2, estaca 20 a 35,00 (300m) Recurso Estadual SCC 20094/2025, e Recurso Estadual SEF 2942/2026, incluindo fornecimento de materiais e regularização de subleito, corte, limpeza e remoção de material, drenagem pluvial, além da pavimentação asfáltica usinada a quente (CBUQ) com mão de obra e complementos constantes no Estudo Técnico Preliminar, memorial descritivos e projetos.",
+   "objeto": "Contratação de empresa de engenharia especializada em pavimentação asfáltica e serviços complementares nos 3 (três) trechos das Ruas determinadas em projeto executivo, cito: Rua Clemente Sachetti Lote 1-D- lado direito da via (62,60m); Lote 2-E lado esquerdo da via (62,60); Portaria SEF 139/2025 e Estrada Geral Rio Coral - Lote 2, estaca 20 a 35,00 (300m) Recurso Estadual SCC 20094/2025, e Recurso Estadual SEF 2942/2026, incluindo fornecimento de materiais e regularização de subleito, corte, limpeza e remoção de material, drenagem pluvial, além da pavimentação asfáltica usinada a quente (CBUQ) com mão de obra e complementos constantes no Estudo Técnico Preliminar, memorial descritivos e projetos.",
    "modalidade": "Concorrência Presencial",
    "srp": false,
    "valor_estimado": 663911.29,
@@ -6871,16 +6871,16 @@
    "classe": "SIM",
    "justificativa": "Pavimentação asfáltica CBUQ de ruas e estrada",
    "link_pncp": "https://pncp.gov.br/app/editais/82928680000172/2026/69",
-   "link_origem": "https://www.diariomunicipal.sc.gov.br/atos/8899547",
+   "link_origem": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743413150",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Presencial",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "docs_antecipados": null,
-   "edital_sigla": "CE 11/9547",
+   "edital_sigla": "CE 11",
    "link_sistema": "",
    "link_edital": null,
    "lat": -28.4339,
@@ -6892,11 +6892,11 @@
     },
     {
      "tipo": "Diário Oficial",
-     "url": "https://www.diariomunicipal.sc.gov.br/atos/8899547"
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743413150"
     },
     {
      "tipo": "Diário Oficial",
-     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743413150"
+     "url": "https://www.diariomunicipal.sc.gov.br/atos/8899547"
     }
    ],
    "link_licitacao": "https://pncp.gov.br/app/editais/82928680000172/2026/69",
@@ -7232,23 +7232,23 @@
    }
   },
   {
-   "id": "PNCP-82928680000172-1-000068-2026",
-   "titulo": "Edital CE 10/2026",
-   "orgao": "MUNICIPIO DE PEDRAS GRANDES",
-   "municipio": "Pedras Grandes",
-   "uf": "SC",
+   "id": "EFF-8232507",
+   "titulo": "009/2026",
+   "orgao": "MUNICIPIO DE TAMBAU [TAMBAÚ-SP]",
+   "municipio": "Tambaú",
+   "uf": "SP",
    "data": "27/11/2026",
-   "hora": "09:00",
-   "objeto": "Contratação de empresa de engenharia especializada em pavimentação asfáltica e serviços complementares no trecho da Estrada Geral Rio Coral - lote 3, (estaca 35 a 54) com 380 metros determinadas em projeto executivo, com o fornecimento de material e regularização de subleito, corte, limpeza e remoção de material, drenagem pluvial e complementos constantes no memorial descritivo além da pavimentação asfáltica usinada a quente (CBUQ) com mão-de-obra, conforme memorial e projetos e Emenda Federal 202643390009.",
+   "hora": "08:00",
+   "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA PARA PAVIMENTAÇÃO DE PARTE DA RUA FRAUSINO AUGUSTO SANTANA E RECAPEAMENTO ASFÁLTICO DE PARTE DAS RUAS RUI BARBOSA/CASTOR SOBREIRA E LUIS BERTONCINI DO BAIRRO JARDIM BOA ESPERANÇA",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
-   "valor_estimado": 500958.96,
-   "fonte_valor": "PNCP",
+   "valor_estimado": 312943.36,
+   "fonte_valor": "página pública do portal BLL",
    "valor_obs": null,
    "classe": "SIM",
-   "justificativa": "Pavimentação asfáltica CBUQ com drenagem e regularização de subleito",
-   "link_pncp": "https://pncp.gov.br/app/editais/82928680000172/2026/68",
-   "link_origem": null,
+   "justificativa": "pavimentacao e recapeamento asfaltico de ruas",
+   "link_pncp": "https://pncp.gov.br/app/editais/46373445000118/2026/317",
+   "link_origem": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dn0qdDt34Tt3B_NqHPcUQ4i1AaVtuSB3l%2FEWXbl_MhyzXyDhDVwsNLE6BkZE7DyIujGjSYceQqgKEyjGKuqMdvKjGHL7QPFUJZMWveyQnrcg%3D",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
@@ -7256,31 +7256,96 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 10/2026",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 9/2026",
    "link_sistema": null,
    "link_edital": null,
-   "lat": -28.4339,
-   "lon": -49.1949,
+   "lat": -21.7029,
+   "lon": -47.2703,
    "links": [
     {
      "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/82928680000172/2026/68"
+     "url": "https://pncp.gov.br/app/editais/46373445000118/2026/317"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dn0qdDt34Tt3B_NqHPcUQ4i1AaVtuSB3l%2FEWXbl_MhyzXyDhDVwsNLE6BkZE7DyIujGjSYceQqgKEyjGKuqMdvKjGHL7QPFUJZMWveyQnrcg%3D"
     }
    ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/82928680000172/2026/68",
-   "portal": "PNCP",
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5Dn0qdDt34Tt3B_NqHPcUQ4i1AaVtuSB3l%2FEWXbl_MhyzXyDhDVwsNLE6BkZE7DyIujGjSYceQqgKEyjGKuqMdvKjGHL7QPFUJZMWveyQnrcg%3D",
+   "portal": "BLL",
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
     "municipios": [
      {
-      "nome": "Pedras Grandes",
-      "uf": "SC",
-      "lat": -28.4339,
-      "lon": -49.1949,
-      "valor": 500958.96,
+      "nome": "Tambaú",
+      "uf": "SP",
+      "lat": -21.7029,
+      "lon": -47.2703,
+      "valor": 312943.36,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
+   "id": "EFF-8231812",
+   "titulo": "382026",
+   "orgao": "PREFEITURA MUNICIPAL DE LENÇÓIS PAULISTA - SP",
+   "municipio": "Lençóis Paulista",
+   "uf": "SP",
+   "data": "27/11/2026",
+   "hora": "08:30",
+   "objeto": "Contratação de empresa especializada para execução de obra de pavimentação asfáltica e terraplenagem para o prolongamento da Av. José Brandi, no Distrito Empresarial Luiz Trecentti, no município de Lençóis Paulista/SP, incluindo fornecimento de materiais, mão de obra, equipamentos e todos os insumos necessários à completa e perfeita execução dos serviços, conforme projeto, planilha orçamentária, cronograma físico-financeiro e descritivos constantes no Termo de Referência.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 1091274.27,
+   "fonte_valor": "itens do aviso Effecti",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "pavimentacao asfaltica e terraplenagem em execucao",
+   "link_pncp": "https://pncp.gov.br/app/editais/46200846000176/2026/11115",
+   "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98663703000382026",
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "CE 38/1812",
+   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98663703000382026",
+   "link_edital": null,
+   "lat": -22.6027,
+   "lon": -48.8037,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46200846000176/2026/11115"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98663703000382026"
+    }
+   ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98663703000382026",
+   "portal": "Comprasnet",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Lençóis Paulista",
+      "uf": "SP",
+      "lat": -22.6027,
+      "lon": -48.8037,
+      "valor": 1091274.27,
       "origem": "sede"
      }
     ],
@@ -7342,6 +7407,130 @@
       "lat": -20.0367,
       "lon": -44.1446,
       "valor": 10154349.78,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
+   "id": "EFF-8232383",
+   "titulo": "012/2026",
+   "orgao": "MUNICIPIO DE JUSSARA [JUSSARA-BA]",
+   "municipio": "Jussara",
+   "uf": "BA",
+   "data": "27/11/2026",
+   "hora": "09:00",
+   "objeto": "Contratação de empresa especializada para a execução da obra de pavimentação em Tratamento Superficial Duplo (TSD) do trecho da estrada vicinal que liga as localidades de Recife e Algodões, na zona rural do Município de Jussara/BA.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": null,
+   "fonte_valor": null,
+   "valor_obs": "valor não informado na fonte",
+   "classe": "SIM",
+   "justificativa": "execucao de tratamento superficial duplo em estrada vicinal",
+   "link_pncp": "https://pncp.gov.br/app/editais/13717277000181/2026/23",
+   "link_origem": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5DuAPnInDM7ozQZfVJrrV_fyXNnqHYpCzvwXmXe%2FLtAnjnC4NONj5KgWWw3tMYUA3xMFqAumB60HmSkn09vEt3L0lsDGGsSf25j4g2LKUwJEo%3D",
+   "links_extra": [
+    "https://bnccompras.com/Process/ProcessView?param1=[gkz]y9TsDfDo0OZfOBvYScLx23NqosxM9QFt_P3gAL/6jWFYok/KSPB1GSVhkIzlLFaNc5XQdpdceMPEmpwSgu3VrJU2tcu0TSzUjoHfQiwurCc="
+   ],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Fechado e Aberto",
+   "docs_antecipados": "Sim",
+   "edital_sigla": "CE 12/2026",
+   "link_sistema": "https://bnccompras.com/Process/ProcessView?param1=[gkz]y9TsDfDo0OZfOBvYScLx23NqosxM9QFt_P3gAL/6jWFYok/KSPB1GSVhkIzlLFaNc5XQdpdceMPEmpwSgu3VrJU2tcu0TSzUjoHfQiwurCc=",
+   "link_edital": null,
+   "lat": -11.0431,
+   "lon": -41.9702,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/13717277000181/2026/23"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]y9TsDfDo0OZfOBvYScLx23NqosxM9QFt_P3gAL/6jWFYok/KSPB1GSVhkIzlLFaNc5XQdpdceMPEmpwSgu3VrJU2tcu0TSzUjoHfQiwurCc="
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5DuAPnInDM7ozQZfVJrrV_fyXNnqHYpCzvwXmXe%2FLtAnjnC4NONj5KgWWw3tMYUA3xMFqAumB60HmSkn09vEt3L0lsDGGsSf25j4g2LKUwJEo%3D"
+    }
+   ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]y9TsDfDo0OZfOBvYScLx23NqosxM9QFt_P3gAL/6jWFYok/KSPB1GSVhkIzlLFaNc5XQdpdceMPEmpwSgu3VrJU2tcu0TSzUjoHfQiwurCc=",
+   "portal": "BNC",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Jussara",
+      "uf": "BA",
+      "lat": -11.0431,
+      "lon": -41.9702,
+      "valor": null,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
+   "id": "PNCP-82928680000172-1-000068-2026",
+   "titulo": "Edital CE 10/2026",
+   "orgao": "MUNICIPIO DE PEDRAS GRANDES",
+   "municipio": "Pedras Grandes",
+   "uf": "SC",
+   "data": "27/11/2026",
+   "hora": "09:00",
+   "objeto": "Contratação de empresa de engenharia especializada em pavimentação asfáltica e serviços complementares no trecho da Estrada Geral Rio Coral - lote 3, (estaca 35 a 54) com 380 metros determinadas em projeto executivo, com o fornecimento de material e regularização de subleito, corte, limpeza e remoção de material, drenagem pluvial e complementos constantes no memorial descritivo além da pavimentação asfáltica usinada a quente (CBUQ) com mão-de-obra, conforme memorial e projetos e Emenda Federal 202643390009.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 500958.96,
+   "fonte_valor": "PNCP",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Pavimentação asfáltica CBUQ com drenagem e regularização de subleito",
+   "link_pncp": "https://pncp.gov.br/app/editais/82928680000172/2026/68",
+   "link_origem": null,
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 10/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -28.4339,
+   "lon": -49.1949,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82928680000172/2026/68"
+    }
+   ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82928680000172/2026/68",
+   "portal": "PNCP",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Pedras Grandes",
+      "uf": "SC",
+      "lat": -28.4339,
+      "lon": -49.1949,
+      "valor": 500958.96,
       "origem": "sede"
      }
     ],
@@ -7952,6 +8141,67 @@
    }
   },
   {
+   "id": "EFF-8233398",
+   "titulo": "CE 22-2026/2026",
+   "orgao": "MUNICIPIO DE ARARAQUARA",
+   "municipio": "Araraquara",
+   "uf": "SP",
+   "data": "30/11/2026",
+   "hora": "10:00",
+   "objeto": "EXECUÇÃO DE RECAPEAMENTO ASFÁLTICO EM DIVERSAS VIAS NO MUNICÍPIO DE ARARAQUARA - SP. CONTRATO DE REPASSE Nº 953862/2023 - FASE 3 (LOTE 1) E CONTRATO DE REPASSE Nº 954620/2023 - FASE 4 (LOTE 2).",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 1746784.05,
+   "fonte_valor": "itens do aviso Effecti",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "execucao de recapeamento asfaltico em diversas vias",
+   "link_pncp": "https://pncp.gov.br/app/editais/45276128000110/2026/3918",
+   "link_origem": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103952",
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "CE 22/3398",
+   "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103952",
+   "link_edital": null,
+   "lat": -21.7845,
+   "lon": -48.178,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/45276128000110/2026/3918"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103952"
+    }
+   ],
+   "link_licitacao": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1103952",
+   "portal": "Licitações-e",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Araraquara",
+      "uf": "SP",
+      "lat": -21.7845,
+      "lon": -48.178,
+      "valor": 1746784.05,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
    "id": "PNCP-46200853000178-1-000082-2026",
    "titulo": "Edital 12/2026",
    "orgao": "MUNICIPIO DE MACATUBA",
@@ -8008,6 +8258,67 @@
       "lat": -22.5002,
       "lon": -48.7102,
       "valor": 223394.61,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
+   "id": "PNCP-76245059000101-1-000191-2026",
+   "titulo": "Edital 86/2026",
+   "orgao": "MUNICIPIO DE PRIMEIRO DE MAIO",
+   "municipio": "Primeiro de Maio",
+   "uf": "PR",
+   "data": "01/12/2026",
+   "hora": "09:00",
+   "objeto": "Contratação de empresa especializada para a execução de PAVIMENTAÇÃO ASFÁLTICA EM CBUQ DE VIAS URBANAS do Município de Primeiro de Maio/PR, abrangendo 12.082,34 m², conforme projetos, memorial descritivo, planilha orçamentária, cronograma físico-financeiro, plano de amostragem e demais documentos técnicos integrantes do processo, vinculada ao Convênio nº 947/2026/SECID/PARANACIDADE, Prioridade nº 52, Projeto nº 41, SIT nº 87147, Protocolo nº 24.251.016-0, Programa Asfalto Novo, Vida Nova.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 4817488.21,
+   "fonte_valor": "PNCP",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Pavimentação asfáltica em CBUQ de vias urbanas",
+   "link_pncp": "https://pncp.gov.br/app/editais/76245059000101/2026/191",
+   "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778903000862026",
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 86/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -22.8517,
+   "lon": -51.0293,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76245059000101/2026/191"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778903000862026"
+    }
+   ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778903000862026",
+   "portal": "Comprasnet",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Primeiro de Maio",
+      "uf": "PR",
+      "lat": -22.8517,
+      "lon": -51.0293,
+      "valor": 4817488.21,
       "origem": "sede"
      }
     ],
@@ -8075,67 +8386,6 @@
       "lat": -26.2502,
       "lon": -53.6324,
       "valor": 5820689.75,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
-   "id": "PNCP-76245059000101-1-000191-2026",
-   "titulo": "Edital 86/2026",
-   "orgao": "MUNICIPIO DE PRIMEIRO DE MAIO",
-   "municipio": "Primeiro de Maio",
-   "uf": "PR",
-   "data": "01/12/2026",
-   "hora": "09:00",
-   "objeto": "Contratação de empresa especializada para a execução de PAVIMENTAÇÃO ASFÁLTICA EM CBUQ DE VIAS URBANAS do Município de Primeiro de Maio/PR, abrangendo 12.082,34 m², conforme projetos, memorial descritivo, planilha orçamentária, cronograma físico-financeiro, plano de amostragem e demais documentos técnicos integrantes do processo, vinculada ao Convênio nº 947/2026/SECID/PARANACIDADE, Prioridade nº 52, Projeto nº 41, SIT nº 87147, Protocolo nº 24.251.016-0, Programa Asfalto Novo, Vida Nova.",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 4817488.21,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "Pavimentação asfáltica em CBUQ de vias urbanas",
-   "link_pncp": "https://pncp.gov.br/app/editais/76245059000101/2026/191",
-   "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778903000862026",
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 86/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -22.8517,
-   "lon": -51.0293,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/76245059000101/2026/191"
-    },
-    {
-     "tipo": "Portal de compras",
-     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778903000862026"
-    }
-   ],
-   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778903000862026",
-   "portal": "Comprasnet",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Primeiro de Maio",
-      "uf": "PR",
-      "lat": -22.8517,
-      "lon": -51.0293,
-      "valor": 4817488.21,
       "origem": "sede"
      }
     ],
@@ -8347,6 +8597,63 @@
    }
   },
   {
+   "id": "PNCP-81648859000103-1-000968-2026",
+   "titulo": "Edital CE 15/2026",
+   "orgao": "MUNICIPIO DE BITURUNA",
+   "municipio": "Bituruna",
+   "uf": "PR",
+   "data": "03/12/2026",
+   "hora": "08:00",
+   "objeto": "Pavimentação sobre pedras irregulares de vias urbanas em concreto betuminoso usinado a quente (CBUQ), área de 20.867,72 m², incluindo serviços preliminares, revestimento, meio-fio e sarjeta, serviços de urbanização, sinalização de trânsito, ensaios tecnológicos e placa de obra, em atendimento ao Convênio n.º 1011/2026 SECID.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 3483312.05,
+   "fonte_valor": "PNCP",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Pavimentação em CBUQ de vias urbanas",
+   "link_pncp": "https://pncp.gov.br/app/editais/81648859000103/2026/968",
+   "link_origem": null,
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 15/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -26.1607,
+   "lon": -51.5518,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/81648859000103/2026/968"
+    }
+   ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/81648859000103/2026/968",
+   "portal": "PNCP",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Bituruna",
+      "uf": "PR",
+      "lat": -26.1607,
+      "lon": -51.5518,
+      "valor": 3483312.05,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
    "id": "PNCP-76282680000145-1-000287-2026",
    "titulo": "Edital 16/2026",
    "orgao": "MUNICIPIO DE MARIALVA",
@@ -8403,63 +8710,6 @@
       "lat": -23.4843,
       "lon": -51.7928,
       "valor": 3091953.04,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
-   "id": "PNCP-81648859000103-1-000968-2026",
-   "titulo": "Edital CE 15/2026",
-   "orgao": "MUNICIPIO DE BITURUNA",
-   "municipio": "Bituruna",
-   "uf": "PR",
-   "data": "03/12/2026",
-   "hora": "08:00",
-   "objeto": "Pavimentação sobre pedras irregulares de vias urbanas em concreto betuminoso usinado a quente (CBUQ), área de 20.867,72 m², incluindo serviços preliminares, revestimento, meio-fio e sarjeta, serviços de urbanização, sinalização de trânsito, ensaios tecnológicos e placa de obra, em atendimento ao Convênio n.º 1011/2026 SECID.",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 3483312.05,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "Pavimentação em CBUQ de vias urbanas",
-   "link_pncp": "https://pncp.gov.br/app/editais/81648859000103/2026/968",
-   "link_origem": null,
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 15/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -26.1607,
-   "lon": -51.5518,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/81648859000103/2026/968"
-    }
-   ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/81648859000103/2026/968",
-   "portal": "PNCP",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Bituruna",
-      "uf": "PR",
-      "lat": -26.1607,
-      "lon": -51.5518,
-      "valor": 3483312.05,
       "origem": "sede"
      }
     ],
@@ -9260,32 +9510,32 @@
    }
   },
   {
-   "id": "PNCP-44477909000100-1-000969-2026",
-   "titulo": "Edital 41/2026",
+   "id": "PNCP-44477909000100-1-000974-2026",
+   "titulo": "Edital 15/2026",
    "orgao": "MUNICIPIO DE MARILIA",
    "municipio": "Marília",
    "uf": "SP",
    "data": "10/12/2026",
    "hora": "09:00",
-   "objeto": "CP 15/2026 - O objeto da presente licitação é a Contratação de empresa visando o fornecimento de material e mão de obra para pavimentação da Rua Ângelo Raspante, destinados à Secretaria Municipal de Infraestrutura, conforme, projeto, planilha, condições, quantidades e exigências estabelecidas neste Edital e seus anexos.",
+   "objeto": "O objeto da presente licitação é a Contratação de empresa visando o fornecimento de material e mão de obra para pavimentação da Rua Ângelo Raspante, destinados à Secretaria Municipal de Infraestrutura, conforme, projeto, planilha, condições, quantidades e exigências estabelecidas no Edital e seus anexos.",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
    "valor_estimado": 1244894.74,
    "fonte_valor": "PNCP",
    "valor_obs": null,
    "classe": "SIM",
-   "justificativa": "itens da compra no PNCP: itens=1 asfalto=2 bloco/concreto=0",
-   "link_pncp": "https://pncp.gov.br/app/editais/44477909000100/2026/969",
-   "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98668103000412026",
+   "justificativa": "itens da compra no PNCP: itens=1 asfalto=1 bloco/concreto=0",
+   "link_pncp": "https://pncp.gov.br/app/editais/44477909000100/2026/974",
+   "link_origem": null,
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "docs_antecipados": null,
-   "edital_sigla": "CE 41/2026",
+   "edital_sigla": "CE 15/2026",
    "link_sistema": null,
    "link_edital": null,
    "lat": -22.2171,
@@ -9293,19 +9543,19 @@
    "links": [
     {
      "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/44477909000100/2026/974"
+    },
+    {
+     "tipo": "PNCP",
      "url": "https://pncp.gov.br/app/editais/44477909000100/2026/969"
     },
     {
      "tipo": "Portal de compras",
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98668103000412026"
-    },
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/44477909000100/2026/974"
     }
    ],
-   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98668103000412026",
-   "portal": "Comprasnet",
+   "link_licitacao": "https://pncp.gov.br/app/editais/44477909000100/2026/974",
+   "portal": "PNCP",
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
@@ -9504,6 +9754,63 @@
    }
   },
   {
+   "id": "EFF-8232317",
+   "titulo": "07/2026",
+   "orgao": "PREFEITURA DA ESTÂNCIA TURÍSTICA DE ITU",
+   "municipio": "Itu",
+   "uf": "SP",
+   "data": "17/12/2026",
+   "hora": "09:00",
+   "objeto": "CONTRATAÇÃO DE EMPRESA ESPECIALIZADA EM ENGENHARIA PARA A EXECUÇÃO DE INFRAESTRUTURA URBANA E PAVIMENTAÇÃO DA RUA DR. ABEL LEMES E RUA NELSON RIZZI, LOCALIZADAS NO MUNICÍPIO DE ITU SP",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 2833191.71,
+   "fonte_valor": "PNCP",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "edital lido: 23 menções a asfalto/CBUQ × 3 a bloco/concreto",
+   "link_pncp": "https://pncp.gov.br/app/editais/46634440000100/2026/293",
+   "link_origem": "https://pncp.gov.br/app/editais/46634440000100/2026/293",
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "CE 7/2026",
+   "link_sistema": "",
+   "link_edital": null,
+   "lat": -23.2544,
+   "lon": -47.2927,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/46634440000100/2026/293"
+    }
+   ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/46634440000100/2026/293",
+   "portal": "PNCP",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Itu",
+      "uf": "SP",
+      "lat": -23.2544,
+      "lon": -47.2927,
+      "valor": 2833191.71,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
    "id": "PNCP-75476556000158-1-000184-2026",
    "titulo": "Edital 17/2026",
    "orgao": "MUNICIPIO DE PARAISO DO NORTE",
@@ -9573,6 +9880,63 @@
    }
   },
   {
+   "id": "PNCP-82892274000105-1-000098-2026",
+   "titulo": "Edital CCE 8/2026",
+   "orgao": "MUNICIPIO DE SAO JOSE",
+   "municipio": "São José",
+   "uf": "SC",
+   "data": "18/12/2026",
+   "hora": "13:30",
+   "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA ESPECIALIZADA PARA EXECUÇÃO, COM FORNECIMENTO DE MATERIAIS, DE SERVIÇOS DE TERRAPLANAGEM, DRENAGEM E PAVIMENTAÇÃO ASFÁLTICA DA IMPLANTAÇÃO DA DUPLICAÇÃO DO TRECHO DA AVENIDA ANTÔNIO JOVITA DUARTE, ENTRE AS RÓTULAS EXISTENTES, INCLUINDO A 2ª PONTE COM RIO FORQUILHAS, NO MUNCÍPIO DE SÃO JOSÉ/SC.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": null,
+   "fonte_valor": null,
+   "valor_obs": "orçamento sigiloso",
+   "classe": "SIM",
+   "justificativa": "edital conferido: Objeto cita pavimentacao asfaltica da duplicacao; sem bloco ou concreto; PNCP sem arquivos (404); ponte pode pesar no valor",
+   "link_pncp": "https://pncp.gov.br/app/editais/82892274000105/2026/120",
+   "link_origem": null,
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": null,
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -27.6136,
+   "lon": -48.6366,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/82892274000105/2026/120"
+    }
+   ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82892274000105/2026/120",
+   "portal": "PNCP",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "São José",
+      "uf": "SC",
+      "lat": -27.6136,
+      "lon": -48.6366,
+      "valor": null,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   }
+  },
+  {
    "id": "PNCP-82892274000105-1-000101-2026",
    "titulo": "Edital CCE 11/2026",
    "orgao": "MUNICIPIO DE SAO JOSE",
@@ -9617,63 +9981,6 @@
     }
    ],
    "link_licitacao": "https://pncp.gov.br/app/editais/82892274000105/2026/110",
-   "portal": "PNCP",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "São José",
-      "uf": "SC",
-      "lat": -27.6136,
-      "lon": -48.6366,
-      "valor": null,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   }
-  },
-  {
-   "id": "PNCP-82892274000105-1-000098-2026",
-   "titulo": "Edital CCE 8/2026",
-   "orgao": "MUNICIPIO DE SAO JOSE",
-   "municipio": "São José",
-   "uf": "SC",
-   "data": "18/12/2026",
-   "hora": "13:30",
-   "objeto": "CONTRATAÇÃO DE EMPRESA DE ENGENHARIA ESPECIALIZADA PARA EXECUÇÃO, COM FORNECIMENTO DE MATERIAIS, DE SERVIÇOS DE TERRAPLANAGEM, DRENAGEM E PAVIMENTAÇÃO ASFÁLTICA DA IMPLANTAÇÃO DA DUPLICAÇÃO DO TRECHO DA AVENIDA ANTÔNIO JOVITA DUARTE, ENTRE AS RÓTULAS EXISTENTES, INCLUINDO A 2ª PONTE COM RIO FORQUILHAS, NO MUNCÍPIO DE SÃO JOSÉ/SC.",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": null,
-   "fonte_valor": null,
-   "valor_obs": "orçamento sigiloso",
-   "classe": "SIM",
-   "justificativa": "edital conferido: Objeto cita pavimentacao asfaltica da duplicacao; sem bloco ou concreto; PNCP sem arquivos (404); ponte pode pesar no valor",
-   "link_pncp": "https://pncp.gov.br/app/editais/82892274000105/2026/120",
-   "link_origem": null,
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 8/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -27.6136,
-   "lon": -48.6366,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/82892274000105/2026/120"
-    }
-   ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/82892274000105/2026/120",
    "portal": "PNCP",
    "republicada": null,
    "abrangencia": {
