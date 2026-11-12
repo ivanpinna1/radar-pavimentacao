@@ -1,5 +1,5 @@
 {
- "atualizado_em": "12/11/2026 17:19",
+ "atualizado_em": "12/11/2026 17:54",
  "total_base": 550,
  "itens": [
   {
@@ -57,7 +57,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18094847000148-1-000128-2026",
@@ -118,7 +120,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76105535000199-1-000367-2026",
@@ -183,7 +187,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-83169623000110-1-000570-2026",
@@ -244,7 +250,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01609843000152-1-000621-2026",
@@ -301,7 +309,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-17695008000112-1-000146-2026",
@@ -370,7 +380,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76205640000108-1-000383-2026",
@@ -431,7 +443,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46634242000138-1-000189-2026",
@@ -495,7 +509,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76995430000152-1-000196-2026",
@@ -572,7 +588,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-43052497000102-1-000508-2026",
@@ -633,7 +651,9 @@
     ],
     "lotes": [],
     "n_lotes": 1
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18602037000155-1-000375-2026",
@@ -702,7 +722,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82821174000180-1-000489-2026",
@@ -759,7 +781,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "MRDF-MG-10-112026",
@@ -816,7 +840,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PIDD-SP-17-152026-61902025",
@@ -883,7 +909,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "DOU-7a79797d73055847901c",
@@ -954,7 +982,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01594009000130-1-000083-2026",
@@ -1015,7 +1045,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "DOU-aa0089e474693d892056",
@@ -1076,7 +1108,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18392548000190-1-000063-2026",
@@ -1137,7 +1171,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-83102467000170-1-000080-2026",
@@ -1194,7 +1230,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "ADDN-SP-17-32026-1032026",
@@ -1255,7 +1293,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-75654566000136-1-000155-2026",
@@ -1316,7 +1356,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76282649000104-1-000146-2026",
@@ -1373,7 +1415,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76205715000142-1-000185-2026",
@@ -1430,7 +1474,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PRLO-PR-2-MV8xNjI1",
@@ -1487,7 +1533,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-75461442000134-1-000060-2026",
@@ -1548,7 +1596,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-81044984000104-1-000120-2026",
@@ -1609,7 +1659,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "DOU-c28b55458afc9e055cf4",
@@ -1676,7 +1728,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-48031918000124-1-003134-2026",
@@ -1737,7 +1791,9 @@
     ],
     "lotes": [],
     "n_lotes": 1
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18313825000121-1-000135-2026",
@@ -1798,7 +1854,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76968627000100-1-000327-2026",
@@ -1855,7 +1913,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01603719000180-1-000133-2026",
@@ -1916,7 +1976,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01603719000180-1-000132-2026",
@@ -1973,7 +2035,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18338848000190-1-000068-2026",
@@ -2041,7 +2105,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-44951515000142-1-000167-2026",
@@ -2102,7 +2168,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-83102582000144-1-000199-2026",
@@ -2159,7 +2227,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-70946009000175-1-000426-2026",
@@ -2228,7 +2298,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01612478000135-1-000059-2026",
@@ -2301,7 +2373,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18306670000104-1-000027-2026",
@@ -2366,7 +2440,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45332095000189-1-000168-2026",
@@ -2427,7 +2503,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-66232547000120-1-000093-2026",
@@ -2492,7 +2570,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-95951323000177-1-000106-2026",
@@ -2553,7 +2633,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46578530000112-1-000075-2026",
@@ -2614,7 +2696,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNPL-SP-17-202026-276012026",
@@ -2681,7 +2765,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-95641916000137-1-000062-2026",
@@ -2742,7 +2828,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01611007000102-1-000026-2026",
@@ -2803,7 +2891,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45550167000164-1-000814-2026",
@@ -2872,7 +2962,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82892365000132-1-000129-2026",
@@ -2933,7 +3025,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-44881449000181-1-000153-2026",
@@ -2997,7 +3091,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-44531788000138-1-000219-2026",
@@ -3061,7 +3157,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-20356762000132-1-000060-2026",
@@ -3130,7 +3228,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-75972760000160-1-000268-2026",
@@ -3194,7 +3294,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-95684536000180-1-000053-2026",
@@ -3255,7 +3357,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46319000000150-1-000424-2026",
@@ -3316,7 +3420,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-44780609000104-1-000396-2026",
@@ -3377,7 +3483,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76285345000109-1-000276-2026",
@@ -3446,7 +3554,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "BLL-C-4211108-6f0c-0152026",
@@ -3507,7 +3617,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "DOU-00d68dc4ebb5ef776725",
@@ -3574,7 +3686,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "DMSC-8890754",
@@ -3637,7 +3751,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-95640553000115-1-000057-2026",
@@ -3694,7 +3810,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-95990206000112-1-000111-2026",
@@ -3758,7 +3876,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-77817054000179-1-000119-2026",
@@ -3819,7 +3939,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18315226000147-1-000044-2026",
@@ -3884,7 +4006,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45371820000128-1-000317-2026",
@@ -3945,7 +4069,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76208479000118-1-000187-2026",
@@ -4006,7 +4132,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18178400000157-1-000220-2026",
@@ -4071,7 +4199,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76002666000140-1-000285-2026",
@@ -4128,7 +4258,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "BLL-C-4102208-35e1-072026",
@@ -4189,7 +4321,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-17935206000106-1-000109-2026",
@@ -4250,7 +4384,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18244368000160-1-000105-2026",
@@ -4317,7 +4453,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-44556207000112-1-000055-2026",
@@ -4374,7 +4512,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-19718394000146-1-000066-2026",
@@ -4438,7 +4578,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18349894000195-1-000075-2026",
@@ -4499,7 +4641,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-44919066000155-1-000099-2026",
@@ -4560,7 +4704,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46582185000190-1-000066-2026",
@@ -4630,7 +4776,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18715508000131-1-000177-2026",
@@ -4691,7 +4839,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-83039842000184-1-000342-2026",
@@ -4748,7 +4898,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45728326000178-1-000112-2026",
@@ -4805,7 +4957,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76208867000107-1-000632-2026",
@@ -4868,7 +5022,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "DOU-b331537b4e32ab6b8f9d",
@@ -4935,7 +5091,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46634465000103-1-000073-2026",
@@ -4996,7 +5154,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-83102293000145-1-000428-2026",
@@ -5065,7 +5225,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18712174000142-1-000162-2026",
@@ -5126,7 +5288,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76205715000142-1-000189-2026",
@@ -5183,7 +5347,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "TRP-3530409-17-00004226",
@@ -5246,7 +5412,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45780079000159-1-000317-2026",
@@ -5303,7 +5471,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-83024257000100-1-000502-2026",
@@ -5360,7 +5530,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76175918000133-1-000046-2026",
@@ -5421,7 +5593,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76205814000124-1-000299-2026",
@@ -5482,7 +5656,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45728326000178-1-000114-2026",
@@ -5539,7 +5715,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "BST-SP-6-102026",
@@ -5606,7 +5784,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82892308000153-1-000232-2026",
@@ -5663,7 +5843,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82892308000153-1-000233-2026",
@@ -5732,7 +5914,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46634523000190-1-000257-2026",
@@ -5793,7 +5977,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76282680000145-1-000272-2026",
@@ -5850,7 +6036,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-49345911000140-1-000038-2026",
@@ -5926,7 +6114,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46634473000141-1-000225-2026",
@@ -5987,7 +6177,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45787678000102-1-000381-2026",
@@ -6048,7 +6240,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18602029000109-1-000071-2026",
@@ -6109,7 +6303,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "DOU-3f36c814265af175357d",
@@ -6172,7 +6368,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-49582441000138-1-000035-2026",
@@ -6233,7 +6431,9 @@
     ],
     "lotes": [],
     "n_lotes": 1
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18301044000117-1-000012-2026",
@@ -6306,7 +6506,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "TRP-3545605-5-00012126",
@@ -6369,7 +6571,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-49979255000137-1-000117-2026",
@@ -6426,7 +6630,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18338285000130-1-000098-2026",
@@ -6491,7 +6697,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-85361863000147-1-000157-2026",
@@ -6548,7 +6756,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-44438968000170-1-000070-2026",
@@ -6609,7 +6819,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-78121985000109-1-000117-2026",
@@ -6666,7 +6878,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-28909604000174-1-000120-2026",
@@ -6727,7 +6941,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45780079000159-1-000313-2026",
@@ -6791,7 +7007,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46634572000123-1-000131-2026",
@@ -6852,7 +7070,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "DOU-f8a2363e2c39c6e0e426",
@@ -6917,7 +7137,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82916800000111-1-000348-2026",
@@ -6981,7 +7203,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PGB-SP-17-42026-3272026",
@@ -7042,7 +7266,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45226214000119-1-000491-2026",
@@ -7111,7 +7337,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-81648859000103-1-000966-2026",
@@ -7168,7 +7396,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46754388000117-1-000022-2026",
@@ -7229,7 +7459,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "EFF-8232507",
@@ -7290,7 +7522,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "EFF-8231812",
@@ -7351,7 +7585,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01612509000158-1-000214-2026",
@@ -7412,7 +7648,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "EFF-8232383",
@@ -7479,7 +7717,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82928680000172-1-000068-2026",
@@ -7536,7 +7776,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "BLL-C-3532058-a2b8-00006026",
@@ -7597,7 +7839,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46634150000158-1-000101-2026",
@@ -7658,7 +7902,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46634150000158-1-000100-2026",
@@ -7719,7 +7965,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-83102392000127-1-000211-2026",
@@ -7776,7 +8024,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-21325226000132-1-000025-2026",
@@ -7837,7 +8087,9 @@
     ],
     "lotes": [],
     "n_lotes": 1
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-83024257000100-1-000510-2026",
@@ -7894,7 +8146,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-45227337000174-1-000084-2026",
@@ -7963,7 +8217,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01613167000190-1-000175-2026",
@@ -8024,7 +8280,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18241349000180-1-000178-2026",
@@ -8081,7 +8339,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76995448000154-1-000192-2026",
@@ -8138,7 +8398,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "EFF-8233398",
@@ -8199,7 +8461,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-46200853000178-1-000082-2026",
@@ -8263,7 +8527,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76245059000101-1-000191-2026",
@@ -8324,7 +8590,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-75666131000101-1-000076-2026",
@@ -8391,7 +8659,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76972074000151-1-000260-2026",
@@ -8448,7 +8718,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18715383000140-1-000860-2026",
@@ -8525,7 +8797,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76669324000189-1-000079-2026",
@@ -8594,7 +8868,9 @@
     ],
     "lotes": [],
     "n_lotes": 1
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-81648859000103-1-000968-2026",
@@ -8651,7 +8927,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76282680000145-1-000287-2026",
@@ -8715,7 +8993,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18186056000148-1-000075-2026",
@@ -8780,7 +9060,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "MAN-IROO-CE006-2026",
@@ -8837,7 +9119,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18591149000158-1-000094-2026",
@@ -8901,7 +9185,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82939232000174-1-000393-2026",
@@ -8958,7 +9244,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-95815379000102-1-000051-2026",
@@ -9015,7 +9303,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82939422000191-1-000148-2026",
@@ -9084,7 +9374,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-78121985000109-1-000124-2026",
@@ -9145,7 +9437,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-63025530000104-1-004267-2026",
@@ -9206,7 +9500,9 @@
     ],
     "lotes": [],
     "n_lotes": 1
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01612888000186-1-000074-2026",
@@ -9263,7 +9559,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-32147670000121-1-000196-2026",
@@ -9324,7 +9622,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18186056000148-1-000076-2026",
@@ -9389,7 +9689,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-32147670000121-1-000195-2026",
@@ -9450,7 +9752,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-76235753000148-1-000137-2026",
@@ -9507,7 +9811,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-44477909000100-1-000974-2026",
@@ -9572,7 +9878,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18318618000160-1-000372-2026",
@@ -9633,7 +9941,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-80869621000145-1-000063-2026",
@@ -9694,7 +10004,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-01566620000155-1-000052-2026",
@@ -9751,7 +10063,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "EFF-8232317",
@@ -9808,7 +10122,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-75476556000158-1-000184-2026",
@@ -9877,7 +10193,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82892274000105-1-000098-2026",
@@ -9934,7 +10252,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-82892274000105-1-000101-2026",
@@ -9998,7 +10318,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-27150549000119-1-000234-2026",
@@ -10062,7 +10384,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "SJDB-MG-81404",
@@ -10123,7 +10447,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "CBRPL-SP-11-12026",
@@ -10180,7 +10506,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "PNCP-18278069000147-1-000125-2026",
@@ -10241,7 +10569,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   },
   {
    "id": "IROO-PR-13-0232026",
@@ -10298,7 +10628,9 @@
     ],
     "lotes": [],
     "n_lotes": 0
-   }
+   },
+   "resultado": null,
+   "fase": "aberta"
   }
  ]
 }
