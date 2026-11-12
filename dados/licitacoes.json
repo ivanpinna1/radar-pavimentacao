@@ -1,5 +1,5 @@
 {
- "atualizado_em": "12/11/2026 13:53",
+ "atualizado_em": "12/11/2026 14:49",
  "total_base": 500,
  "itens": [
   {
@@ -22,6 +22,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 117/2026",
    "link_edital": null,
    "lat": -28.2681,
    "lon": -49.1701,
@@ -31,6 +35,9 @@
      "url": "https://pncp.gov.br/app/editais/82926551000145/2026/175"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82926551000145/2026/175",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -68,6 +75,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 90/2026",
    "link_edital": null,
    "lat": -21.0642,
    "lon": -43.7598,
@@ -81,6 +92,9 @@
      "url": "www.gov.br/compras"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/18094847000148/2026/128",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -118,6 +132,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 6/2026",
    "link_edital": null,
    "lat": -25.5859,
    "lon": -49.4047,
@@ -135,6 +153,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92553203000432026"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76105535000199/2026/367",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -172,6 +193,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 71/2026",
    "link_edital": null,
    "lat": -26.3045,
    "lon": -48.8487,
@@ -185,6 +210,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45323003000712026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45323003000712026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -222,6 +250,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 19/2026",
    "link_edital": null,
    "lat": -25.6735,
    "lon": -48.5111,
@@ -231,6 +263,9 @@
      "url": "https://pncp.gov.br/app/editais/01609843000152/2026/620"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/01609843000152/2026/620",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -272,6 +307,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 5/2026",
    "link_edital": null,
    "lat": -18.2048,
    "lon": -45.2473,
@@ -289,6 +328,9 @@
      "url": "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-736651433"
     }
    ],
+   "link_licitacao": "https://app2.licitardigital.com.br/pesquisa/115703",
+   "portal": "Licitar Digital",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -326,6 +368,10 @@
    "links_extra": [],
    "situacao": "Suspensa",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 583/2026",
    "link_edital": null,
    "lat": -25.7407,
    "lon": -53.057,
@@ -339,6 +385,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98754103005832026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98754103005832026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -379,6 +428,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 28/2026",
    "link_edital": null,
    "lat": -24.5108,
    "lon": -48.8443,
@@ -392,6 +445,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmO_3qVwSEoFfxzy6_cgybI1267LYw9GqI3y2crsDs8YttM5bNnaaYImUat7lTtSAAax4JygYaFKhLOj9AFVSr7efCGQJQbzXetdmvDY4vz0%3D"
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DmO_3qVwSEoFfxzy6_cgybI1267LYw9GqI3y2crsDs8YttM5bNnaaYImUat7lTtSAAax4JygYaFKhLOj9AFVSr7efCGQJQbzXetdmvDY4vz0%3D",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -433,6 +489,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 90019/2026",
    "link_edital": null,
    "lat": -25.9619,
    "lon": -52.8152,
@@ -458,6 +518,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45437003000432026"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76995430000152/2026/196",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -495,6 +558,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Fechado",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 655/2026",
    "link_edital": null,
    "lat": -23.5329,
    "lon": -46.6395,
@@ -508,6 +575,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=26220103006552026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=26220103006552026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "estadual",
@@ -545,6 +615,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 5/2026",
    "link_edital": null,
    "lat": -19.3087,
    "lon": -46.0465,
@@ -566,6 +640,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741142968"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/18602037000155/2026/375",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -603,6 +680,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 18/2026",
    "link_edital": null,
    "lat": -26.7242,
    "lon": -53.5163,
@@ -612,6 +693,9 @@
      "url": "https://pncp.gov.br/app/editais/82821174000180/2026/511"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82821174000180/2026/511",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -651,6 +735,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 16/2025",
    "link_edital": null,
    "lat": -23.7139,
    "lon": -47.4256,
@@ -668,6 +756,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]CQxiW3Y/qgt063xqomvmTCGdzqzInMyXfRgXoM6F1ipUJmL7UBHwPtGLcVYNXWfZUAbqDq82H0LKToesT4rkoEQogJ9BDWw2xt14W0Wiw0s="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]CQxiW3Y/qgt063xqomvmTCGdzqzInMyXfRgXoM6F1ipUJmL7UBHwPtGLcVYNXWfZUAbqDq82H0LKToesT4rkoEQogJ9BDWw2xt14W0Wiw0s=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -705,6 +796,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "11/2026",
    "link_edital": null,
    "lat": -22.3044,
    "lon": -45.3773,
@@ -714,6 +809,9 @@
      "url": "https://www.mariadafe.mg.gov.br/licitacao/detalhe/2664/pspan-stylecolorblackcontratacao-de-empresa-especializada-para-servicos-de-pavimentacao-asfaltica-no-trecho-de-estrada-vicinal-no-distrito-cafundo-no-municipio-de-maria-da-fe-atraves-de-licitacao-compartilhada-adesao-a-arp-n0052024-do-processo-n0132024-conc"
     }
    ],
+   "link_licitacao": "https://www.mariadafe.mg.gov.br/licitacao/detalhe/2664/pspan-stylecolorblackcontratacao-de-empresa-especializada-para-servicos-de-pavimentacao-asfaltica-no-trecho-de-estrada-vicinal-no-distrito-cafundo-no-municipio-de-maria-da-fe-atraves-de-licitacao-compartilhada-adesao-a-arp-n0052024-do-processo-n0132024-conc",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -753,6 +851,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 18/2026",
    "link_edital": null,
    "lat": -19.3434,
    "lon": -47.2963,
@@ -774,6 +876,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740220303"
     }
    ],
+   "link_licitacao": "https://licitanet.com.br/sessao/199826",
+   "portal": "Licitanet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -811,6 +916,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 11/2056",
    "link_edital": null,
    "lat": -25.4077,
    "lon": -52.4109,
@@ -824,6 +933,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740228050"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76205970000195/2026/146",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -861,6 +973,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -26.6927,
    "lon": -53.0967,
@@ -874,6 +990,9 @@
      "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]6pc84NZ1Qlp6WVqG_9C3SujnaHmq204XT_aqhyvMx7FjV4jH8BphmFhXhPIOXjEYacohdm5HUBwWWaqP8mKi/YPdSXIXztssU_yYFYDg_B4="
     }
    ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]6pc84NZ1Qlp6WVqG_9C3SujnaHmq204XT_aqhyvMx7FjV4jH8BphmFhXhPIOXjEYacohdm5HUBwWWaqP8mKi/YPdSXIXztssU_yYFYDg_B4=",
+   "portal": "BNC",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -911,6 +1030,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 16/2026",
    "link_edital": null,
    "lat": -25.8806,
    "lon": -50.8173,
@@ -924,6 +1047,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ffXPv5/3CTO3w6N/5cc3L7vtkNpNaBmft0AunFOtx0DyisbHOHM76VppbHsjTil8u3NdwORXNjKHDGYruB_2qnlSXVh5K6i41PHiaOJevh8="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]ffXPv5/3CTO3w6N/5cc3L7vtkNpNaBmft0AunFOtx0DyisbHOHM76VppbHsjTil8u3NdwORXNjKHDGYruB_2qnlSXVh5K6i41PHiaOJevh8=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -961,6 +1087,10 @@
    "links_extra": [],
    "situacao": "Suspensa",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 18/2026",
    "link_edital": null,
    "lat": -26.4246,
    "lon": -49.246,
@@ -970,6 +1100,9 @@
      "url": "https://pncp.gov.br/app/editais/83102467000170/2026/80"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/83102467000170/2026/80",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1007,6 +1140,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 3/2026",
    "link_edital": null,
    "lat": -20.8948,
    "lon": -51.3786,
@@ -1020,6 +1157,9 @@
      "url": "https://www.andradina.sp.gov.br/portal/editais/0/1/1783/"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/44428506000171/2026/414",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1057,6 +1197,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 10/2026",
    "link_edital": null,
    "lat": -20.0453,
    "lon": -41.6897,
@@ -1070,6 +1214,9 @@
      "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]uAeKHvkUnFfenAJOyDC0KF1qW8Ysxx9KX9g0MHQjHqqHXQim1O1hcko04BoOUu7N0MvAqmT6gO_Tc7Enok/b4qvD4I7Ab3IQEd1T4mCTnVc="
     }
    ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]uAeKHvkUnFfenAJOyDC0KF1qW8Ysxx9KX9g0MHQjHqqHXQim1O1hcko04BoOUu7N0MvAqmT6gO_Tc7Enok/b4qvD4I7Ab3IQEd1T4mCTnVc=",
+   "portal": "BNC",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1107,6 +1254,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -23.4336,
    "lon": -52.2929,
@@ -1116,6 +1267,9 @@
      "url": "https://pncp.gov.br/app/editais/76282649000104/2026/146"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76282649000104/2026/146",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1153,6 +1307,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Presencial",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 7/2026",
    "link_edital": null,
    "lat": -25.8217,
    "lon": -53.4801,
@@ -1162,6 +1320,9 @@
      "url": "https://pncp.gov.br/app/editais/76205715000142/2026/185"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76205715000142/2026/185",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1199,6 +1360,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "CE 13/2026",
    "link_edital": null,
    "lat": -25.8278,
    "lon": -53.7433,
@@ -1208,6 +1373,9 @@
      "url": "https://transparencia.e-publica.net/epublica-portal/#/perola_oeste/portal/compras/licitacaoView?params=%7B%22id%22:MV8xNjI1,%22mode%22:%22INFO%22%7D"
     }
    ],
+   "link_licitacao": "https://transparencia.e-publica.net/epublica-portal/#/perola_oeste/portal/compras/licitacaoView?params=%7B%22id%22:MV8xNjI1,%22mode%22:%22INFO%22%7D",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1245,6 +1413,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -23.0101,
    "lon": -52.9162,
@@ -1258,6 +1430,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]/AW5pSYQl1sY/FhfMajIhcTV3fz6Kli_XM2b7Gj1c3pTa6z3e4vBXL_BXMrMi4oIm7tdBsHCMvZG/58kATVcx/NYAagiAYIz_J_713Ba/Nk="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]/AW5pSYQl1sY/FhfMajIhcTV3fz6Kli_XM2b7Gj1c3pTa6z3e4vBXL_BXMrMi4oIm7tdBsHCMvZG/58kATVcx/NYAagiAYIz_J_713Ba/Nk=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1295,6 +1470,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 11/2026",
    "link_edital": null,
    "lat": -22.7639,
    "lon": -52.9868,
@@ -1308,6 +1487,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]/mVrP1octvvgmuh1ExwpSE8u9zBmOKCT7kb2YeDSjooIP88WyWiAJB0U9W8exVeJCk2VUogI2vhAyrT2grKLHbzTK2Bca7MbZWJDokAMU_0="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]/mVrP1octvvgmuh1ExwpSE8u9zBmOKCT7kb2YeDSjooIP88WyWiAJB0U9W8exVeJCk2VUogI2vhAyrT2grKLHbzTK2Bca7MbZWJDokAMU_0=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1345,6 +1527,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 22/2026",
    "link_edital": null,
    "lat": -23.2959,
    "lon": -50.0815,
@@ -1354,6 +1540,9 @@
      "url": "https://pncp.gov.br/app/editais/76968627000100/2026/327"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76968627000100/2026/327",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1393,6 +1582,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 73",
    "link_edital": null,
    "lat": -21.3123,
    "lon": -49.0629,
@@ -1410,6 +1603,9 @@
      "url": "https://www.itajobi.sp.gov.br/licitacoes"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/45126851000113/2026/106",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1447,6 +1643,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 251/2026",
    "link_edital": null,
    "lat": -20.4326,
    "lon": -51.3426,
@@ -1460,6 +1660,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=10231805002512026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=10231805002512026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "estadual",
     "esfera": "estadual",
@@ -1497,6 +1700,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 11/2026",
    "link_edital": null,
    "lat": -19.9476,
    "lon": -44.7063,
@@ -1510,6 +1717,9 @@
      "url": "https://app2.licitardigital.com.br/pesquisa/118020"
     }
    ],
+   "link_licitacao": "https://app2.licitardigital.com.br/pesquisa/118020",
+   "portal": "Licitar Digital",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1550,6 +1760,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 3/2026",
    "link_edital": null,
    "lat": -19.3384,
    "lon": -42.1575,
@@ -1567,6 +1781,9 @@
      "url": "https://pncp.gov.br/app/editais/18338848000190/2026/71"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/18338848000190/2026/68",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1604,6 +1821,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 3/2026",
    "link_edital": null,
    "lat": -25.7371,
    "lon": -52.1188,
@@ -1617,6 +1838,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]GDpYplUzqd0w3FoJfh_7MBGSxDfl7X66OH6jvmpedTLQQ1FoG0MT65tRthvF8_utaVjudli/YwVWd8R1a7FWnK1ifv1n7cITRWC4meePMZ0="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]GDpYplUzqd0w3FoJfh_7MBGSxDfl7X66OH6jvmpedTLQQ1FoG0MT65tRthvF8_utaVjudli/YwVWd8R1a7FWnK1ifv1n7cITRWC4meePMZ0=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1654,6 +1878,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 4/2026",
    "link_edital": null,
    "lat": -25.7371,
    "lon": -52.1188,
@@ -1663,6 +1891,9 @@
      "url": "https://pncp.gov.br/app/editais/01603719000180/2026/134"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/01603719000180/2026/134",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1700,6 +1931,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 15/2026",
    "link_edital": null,
    "lat": -22.5299,
    "lon": -52.1682,
@@ -1713,6 +1948,9 @@
      "url": " "
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/44951515000142/2026/167",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1750,6 +1988,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 2/2026",
    "link_edital": null,
    "lat": -27.4087,
    "lon": -49.822,
@@ -1759,6 +2001,9 @@
      "url": "https://pncp.gov.br/app/editais/83102582000144/2026/203"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/83102582000144/2026/203",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1800,6 +2045,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 18/2026",
    "link_edital": null,
    "lat": -23.5226,
    "lon": -47.1357,
@@ -1817,6 +2066,9 @@
      "url": "https://www.saoroque.sp.gov.br/portal/editais/0/1/3048/"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/70946009000175/2026/426",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1854,6 +2106,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 1/2026",
    "link_edital": null,
    "lat": -16.0773,
    "lon": -44.0787,
@@ -1879,6 +2135,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740719144"
     }
    ],
+   "link_licitacao": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Patis-2932/CPMP-001-2026-2026-521576",
+   "portal": "Compraspublicas",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1916,6 +2175,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 124/2026",
    "link_edital": null,
    "lat": -22.4332,
    "lon": -46.9532,
@@ -1929,6 +2192,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98671703001242026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98671703001242026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -1966,6 +2232,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 4/2026",
    "link_edital": null,
    "lat": -20.249,
    "lon": -46.3639,
@@ -1979,6 +2249,9 @@
      "url": "https://app2.ammlicita.org.br/pesquisa/115399"
     }
    ],
+   "link_licitacao": "https://app2.ammlicita.org.br/pesquisa/115399",
+   "portal": "AMM Licita",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2016,6 +2289,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -20.2058,
    "lon": -41.7977,
@@ -2029,6 +2306,9 @@
      "url": "https://app2.ammlicita.org.br/pesquisa/118088"
     }
    ],
+   "link_licitacao": "https://app2.ammlicita.org.br/pesquisa/118088",
+   "portal": "AMM Licita",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2066,6 +2346,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 67/2026",
    "link_edital": null,
    "lat": -26.7813,
    "lon": -50.009,
@@ -2079,6 +2363,9 @@
      "url": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49308"
     }
    ],
+   "link_licitacao": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49308",
+   "portal": "ComprasBR",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2116,6 +2403,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Sim",
+   "edital_sigla": "CE 9/2026",
    "link_edital": null,
    "lat": -24.2764,
    "lon": -47.2354,
@@ -2129,6 +2420,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]JDNIugbJcmb82yjgfKGh7guNnBlVOPmRRWmB8Er/mOk6tAMzeoyNEqJBgqSttM0Zm61ZRrVd9ZYAJNWD3CpdyEM9nPez8/nLUs3Y6RL8TWg="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]JDNIugbJcmb82yjgfKGh7guNnBlVOPmRRWmB8Er/mOk6tAMzeoyNEqJBgqSttM0Zm61ZRrVd9ZYAJNWD3CpdyEM9nPez8/nLUs3Y6RL8TWg=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2168,6 +2462,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 20/2026",
    "link_edital": null,
    "lat": -21.4148,
    "lon": -50.0769,
@@ -2185,6 +2483,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]v/Cm6vMvvPH_MRcFJ43odUBDF7QP_Msh_gxMDhGkMdS8LoSqinoc8LkPtaKbC2_WT8dUQ7mlIMXfPhBJjH96zGIxqwAjVb1jvIaWGEXaST0="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]v/Cm6vMvvPH_MRcFJ43odUBDF7QP_Msh_gxMDhGkMdS8LoSqinoc8LkPtaKbC2_WT8dUQ7mlIMXfPhBJjH96zGIxqwAjVb1jvIaWGEXaST0=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2222,6 +2523,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 7/2026",
    "link_edital": null,
    "lat": -23.108,
    "lon": -53.1103,
@@ -2235,6 +2540,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]zXaUSOl6OoTBtzOu8SaAQEZqEL6Gpr0SYuKj5OkfCBk5gDxbzArzHU1vLpDlJ3U_/eo_CksHP/j9sdM32/ScQkojncfOE7rrbrxAYQ/ZuoY="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]zXaUSOl6OoTBtzOu8SaAQEZqEL6Gpr0SYuKj5OkfCBk5gDxbzArzHU1vLpDlJ3U_/eo_CksHP/j9sdM32/ScQkojncfOE7rrbrxAYQ/ZuoY=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2272,6 +2580,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 26/2026",
    "link_edital": null,
    "lat": -21.2951,
    "lon": -47.4304,
@@ -2285,6 +2597,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]23O6vd6xmNyvXtUueAvXi7yHUNU8h_KQBwpZ8Bpn8EgHSS4aT3uuXUt8OyZYXsQQwBIUBtNXYhlQlx8M5ytc3F5pksCoD1bOC8S5CfqmF7k="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]23O6vd6xmNyvXtUueAvXi7yHUNU8h_KQBwpZ8Bpn8EgHSS4aT3uuXUt8OyZYXsQQwBIUBtNXYhlQlx8M5ytc3F5pksCoD1bOC8S5CfqmF7k=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2326,6 +2641,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 18/2026",
    "link_edital": null,
    "lat": -24.699,
    "lon": -47.5537,
@@ -2343,6 +2662,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741803252"
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]j5kWHCRY37JWcCvkG5bCqnco5N_OtcbNb9jA7lV3UHfQjDCXOnPblkYJvaa_pssdnJkQwDzfHe6CKUbqIYm0tMa8qzsesty/1USYQeNB55A=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2380,6 +2702,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 17/2026",
    "link_edital": null,
    "lat": -27.9607,
    "lon": -48.6864,
@@ -2393,6 +2719,9 @@
      "url": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Paulo-Lopes-811/CPMP-CE17-2026-2026-522028"
     }
    ],
+   "link_licitacao": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Paulo-Lopes-811/CPMP-CE17-2026-2026-522028",
+   "portal": "Compraspublicas",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2433,6 +2762,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 95/2026",
    "link_edital": null,
    "lat": -21.6718,
    "lon": -49.7526,
@@ -2446,6 +2779,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzcgGpYAXAQbdN9rBFlLvo2PcD1CurXOwP7BUljf2RpeoHPLL1VgJ01MlfxMOyNmAz532mAq_gmbVRplU8hyY50h0eWq4fqENniLsvftpsDM%3D"
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DzcgGpYAXAQbdN9rBFlLvo2PcD1CurXOwP7BUljf2RpeoHPLL1VgJ01MlfxMOyNmAz532mAq_gmbVRplU8hyY50h0eWq4fqENniLsvftpsDM%3D",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2487,6 +2823,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 62/2026",
    "link_edital": null,
    "lat": -20.665,
    "lon": -44.3334,
@@ -2504,6 +2844,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741833059"
     }
    ],
+   "link_licitacao": "https://desterrodeentrerios.licitapp.com.br//processos",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2544,6 +2887,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 11/2026",
    "link_edital": null,
    "lat": -21.5103,
    "lon": -51.4342,
@@ -2557,6 +2904,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-739642465"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/44881449000181/2026/153",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2597,6 +2947,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Presencial",
+   "modo_disputa": "Fechado",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 34/2026",
    "link_edital": null,
    "lat": -25.6691,
    "lon": -53.8055,
@@ -2610,6 +2964,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741508063"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/75972760000160/2026/268",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2647,6 +3004,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 16/2026",
    "link_edital": null,
    "lat": -24.8862,
    "lon": -52.47,
@@ -2660,6 +3021,9 @@
      "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]FIcIrRZSVK/vFQ5YCPzPIhmhITblL9kgxqqXLrXVu2Fp2tAt_NfwyWCr4VAmRiBQPVlJzlchsyStFLKzIKLHAX64SkgMRHMsWrwL/91xvpo="
     }
    ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]FIcIrRZSVK/vFQ5YCPzPIhmhITblL9kgxqqXLrXVu2Fp2tAt_NfwyWCr4VAmRiBQPVlJzlchsyStFLKzIKLHAX64SkgMRHMsWrwL/91xvpo=",
+   "portal": "BNC",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2697,6 +3061,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 1079/2026",
    "link_edital": null,
    "lat": -23.4538,
    "lon": -46.5333,
@@ -2710,6 +3078,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98647703010792026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98647703010792026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2751,6 +3122,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 31/2026",
    "link_edital": null,
    "lat": -23.5446,
    "lon": -51.671,
@@ -2768,6 +3143,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737592784"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98767703000312026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2805,6 +3183,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 16/2026",
    "link_edital": null,
    "lat": -20.5531,
    "lon": -48.5698,
@@ -2818,6 +3200,9 @@
      "url": "https://licitamaisbrasil.com.br/detalhes-do-edital/2lQM21jXzAQNH1ED"
     }
    ],
+   "link_licitacao": "https://licitamaisbrasil.com.br/detalhes-do-edital/2lQM21jXzAQNH1ED",
+   "portal": "Licita Mais",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2855,6 +3240,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto e Fechado",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 15/2026",
    "link_edital": null,
    "lat": -26.461,
    "lon": -50.2327,
@@ -2864,6 +3253,13 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjyzwWx310I2YwXgtGqRfLYuppN9_0vegPawyQSPe7dGNijGjnOmxW%2FVsiT8vTYxaE5RxjgFFEgKgo5QtbstUVj%2FaCgs2IO3vrWkthS8o_FQ%3D"
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjyzwWx310I2YwXgtGqRfLYuppN9_0vegPawyQSPe7dGNijGjnOmxW%2FVsiT8vTYxaE5RxjgFFEgKgo5QtbstUVj%2FaCgs2IO3vrWkthS8o_FQ%3D",
+   "portal": "BLL",
+   "republicada": {
+    "de": "2026-11-18T08:59:00",
+    "para": "18/11/2026 09:15",
+    "detectada_em": "2026-11-12 14:30"
+   },
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2903,6 +3299,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 9/6725",
    "link_edital": null,
    "lat": -16.5332,
    "lon": -40.1817,
@@ -2920,6 +3320,9 @@
      "url": "https://app2.licitardigital.com.br/pesquisa/117978"
     }
    ],
+   "link_licitacao": "https://app2.licitardigital.com.br/pesquisa/117978",
+   "portal": "Licitar Digital",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -2957,6 +3360,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Presencial",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 7/2026",
    "link_edital": null,
    "lat": -23.4072,
    "lon": -53.3687,
@@ -2966,6 +3373,9 @@
      "url": "https://pncp.gov.br/app/editais/95640553000115/2026/57"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/95640553000115/2026/57",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3003,6 +3413,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "CE 113/2026",
    "link_edital": null,
    "lat": -26.8215,
    "lon": -53.2767,
@@ -3012,6 +3426,9 @@
      "url": "https://www.diariomunicipal.sc.gov.br/?r=site/autopublicacaoAssinado&id=8890754"
     }
    ],
+   "link_licitacao": "https://www.diariomunicipal.sc.gov.br/?r=site/autopublicacaoAssinado&id=8890754",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3049,6 +3466,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 22/2026",
    "link_edital": null,
    "lat": -25.9168,
    "lon": -53.4686,
@@ -3062,6 +3483,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98741703000222026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98741703000222026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3099,6 +3523,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 5/2026",
    "link_edital": null,
    "lat": -19.6741,
    "lon": -44.8964,
@@ -3112,6 +3540,9 @@
      "url": "https://app2.ammlicita.org.br/pesquisa/118346"
     }
    ],
+   "link_licitacao": "https://app2.ammlicita.org.br/pesquisa/118346",
+   "portal": "AMM Licita",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3152,6 +3583,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 93/2026",
    "link_edital": null,
    "lat": -27.1341,
    "lon": -52.7887,
@@ -3165,6 +3600,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741822191"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/95990206000112/2026/115",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3202,6 +3640,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Sim",
+   "edital_sigla": "CE 22/2026",
    "link_edital": null,
    "lat": -21.1316,
    "lon": -47.9875,
@@ -3215,6 +3657,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]pvcl654NH5bNABT8bmxab22UtRUAUTH43W3QenKWCZexcPbRisDYTAERnSeF2W0dNkAVp6Lablf_GuNXu8weXsNvvh321jP8QSE5yHcMlAc="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]pvcl654NH5bNABT8bmxab22UtRUAUTH43W3QenKWCZexcPbRisDYTAERnSeF2W0dNkAVp6Lablf_GuNXu8weXsNvvh321jP8QSE5yHcMlAc=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3252,6 +3697,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -21.7079,
    "lon": -46.2381,
@@ -3265,6 +3714,9 @@
      "url": "https://app2.ammlicita.org.br/pesquisa/118105"
     }
    ],
+   "link_licitacao": "https://app2.ammlicita.org.br/pesquisa/118105",
+   "portal": "AMM Licita",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3302,6 +3754,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 7/2026",
    "link_edital": null,
    "lat": -24.4168,
    "lon": -53.5213,
@@ -3315,6 +3771,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98795303000072026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98795303000072026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3352,6 +3811,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 12/2026",
    "link_edital": null,
    "lat": -26.0965,
    "lon": -49.4336,
@@ -3361,6 +3824,9 @@
      "url": "https://pncp.gov.br/app/editais/76002666000140/2026/285"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76002666000140/2026/285",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3396,8 +3862,12 @@
    "link_pncp": "https://pncp.gov.br/app/editais/75731018000162/2026/53",
    "link_origem": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5D11RcJTyTsei0CqAx7VPJkI2euGSWUAqtFOVY31KXk7YgiqKTsrtfwAtRvfZrPazbLGt4HyXAM7bjbnsvdGKR9nEbAiI12cexlP1%2FbjDPkgI%3D",
    "links_extra": [],
-   "situacao": null,
+   "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 7/2026",
    "link_edital": null,
    "lat": -23.1517,
    "lon": -52.0551,
@@ -3411,6 +3881,9 @@
      "url": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5D11RcJTyTsei0CqAx7VPJkI2euGSWUAqtFOVY31KXk7YgiqKTsrtfwAtRvfZrPazbLGt4HyXAM7bjbnsvdGKR9nEbAiI12cexlP1%2FbjDPkgI%3D"
     }
    ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5D11RcJTyTsei0CqAx7VPJkI2euGSWUAqtFOVY31KXk7YgiqKTsrtfwAtRvfZrPazbLGt4HyXAM7bjbnsvdGKR9nEbAiI12cexlP1%2FbjDPkgI%3D",
+   "portal": "BNC",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3450,6 +3923,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 6/2026",
    "link_edital": null,
    "lat": -21.0329,
    "lon": -44.7537,
@@ -3467,6 +3944,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-737905254"
     }
    ],
+   "link_licitacao": "https://app2.licitardigital.com.br/pesquisa/115417",
+   "portal": "Licitar Digital",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3504,6 +3984,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 5/2026",
    "link_edital": null,
    "lat": -21.928,
    "lon": -45.9297,
@@ -3517,6 +4001,9 @@
      "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Sao-Joao-da-Mata-3492/CPMP-5-2026-2026-522805"
     }
    ],
+   "link_licitacao": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Sao-Joao-da-Mata-3492/CPMP-5-2026-2026-522805",
+   "portal": "Compraspublicas",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3554,6 +4041,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 4/2026",
    "link_edital": null,
    "lat": -21.7866,
    "lon": -49.2848,
@@ -3563,6 +4054,9 @@
      "url": "https://pncp.gov.br/app/editais/44556207000112/2026/55"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/44556207000112/2026/55",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3603,6 +4097,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 114/2026",
    "link_edital": null,
    "lat": -20.7868,
    "lon": -43.6949,
@@ -3616,6 +4114,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742069041"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/19718394000146/2026/66",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3653,6 +4154,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Fechado",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 4/2026",
    "link_edital": null,
    "lat": -21.3495,
    "lon": -51.7564,
@@ -3666,6 +4171,9 @@
      "url": "http://186.208.139.32:5656/comprasedital/"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/44919066000155/2026/99",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3703,6 +4211,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 11/2026",
    "link_edital": null,
    "lat": -16.1785,
    "lon": -40.6942,
@@ -3716,6 +4228,9 @@
      "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]wILqBx/nCD7AZCAqZ7zVkpd2ahLNJJ2rclbDM5oINNZ6Qa8Ozh5KsA1aJsY1BIpLIY1sJAeYvwnb15A45QjLtk5FsBzA_HIRV4YPFLPefTI="
     }
    ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]wILqBx/nCD7AZCAqZ7zVkpd2ahLNJJ2rclbDM5oINNZ6Qa8Ozh5KsA1aJsY1BIpLIY1sJAeYvwnb15A45QjLtk5FsBzA_HIRV4YPFLPefTI=",
+   "portal": "BNC",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3758,6 +4273,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 4/2026",
    "link_edital": null,
    "lat": -24.6963,
    "lon": -48.0064,
@@ -3775,6 +4294,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741515439"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/46582185000190/2026/66",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3812,6 +4334,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 40/2026",
    "link_edital": null,
    "lat": -27.0086,
    "lon": -51.1543,
@@ -3821,6 +4347,9 @@
      "url": "https://pncp.gov.br/app/editais/83039842000184/2026/342"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/83039842000184/2026/342",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3858,6 +4387,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 20/2026",
    "link_edital": null,
    "lat": -19.9321,
    "lon": -44.0539,
@@ -3871,6 +4404,9 @@
      "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Contagem-3731/CPMD-020-2026-2026-517421"
     }
    ],
+   "link_licitacao": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Contagem-3731/CPMD-020-2026-2026-517421",
+   "portal": "Compraspublicas",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3908,6 +4444,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 11/2026",
    "link_edital": null,
    "lat": -20.7959,
    "lon": -49.2172,
@@ -3917,6 +4457,9 @@
      "url": "https://pncp.gov.br/app/editais/45728326000178/2026/112"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/45728326000178/2026/112",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -3956,6 +4499,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 49/2026",
    "link_edital": null,
    "lat": -24.9573,
    "lon": -53.459,
@@ -3969,6 +4516,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742354008"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76208867000107/2026/632",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4008,6 +4558,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 10",
    "link_edital": null,
    "lat": -21.354,
    "lon": -51.8562,
@@ -4025,6 +4579,9 @@
      "url": "https://www.panorama.sp.gov.br/?pag=T0RZPU9EYz1PR009T1RrPU9EWT1PVEE9T1dFPQ==&view=LIST-LICIT&modalidade=&ano=2026&situacao=&notIn=&covid=&id=1243"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/44918712000160/2026/44",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4062,6 +4619,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 24/2026",
    "link_edital": null,
    "lat": -23.9612,
    "lon": -47.5062,
@@ -4075,6 +4636,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98717103000242026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98717103000242026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4116,6 +4680,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 27/2026",
    "link_edital": null,
    "lat": -27.0241,
    "lon": -48.6503,
@@ -4133,6 +4701,9 @@
      "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]0QiH8DgyeAw/r77HAgeBNxaexLisWcXTQAFQ7kWntMUHj/D9uBxFlr8Ni1wKyOD0bzAYToHN2xJTK_VpDZh8l9AOf3xt0VmUvLgwMbOuTl8="
     }
    ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=%5Bgkz%5DJVQeW8cb7nmcendiEo3s9gtBzFwFBWUJ_jE2N0wrDg3uJAfY3qfKlCTMbU8TA%2FG8ndUH8qisecOYlhT8x0v9zcxCHS3Sw0KtcFFHgX4IVys%3D",
+   "portal": "BNC",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4170,6 +4741,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 3/2026",
    "link_edital": null,
    "lat": -21.836,
    "lon": -45.4004,
@@ -4183,6 +4758,9 @@
      "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-da-Campanha-3182/CPMP-3-2026-2026-515050"
     }
    ],
+   "link_licitacao": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-da-Campanha-3182/CPMP-3-2026-2026-515050",
+   "portal": "Compraspublicas",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4220,6 +4798,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Presencial",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 9/2026",
    "link_edital": null,
    "lat": -25.8217,
    "lon": -53.4801,
@@ -4229,6 +4811,9 @@
      "url": "https://pncp.gov.br/app/editais/76205715000142/2026/189"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76205715000142/2026/189",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4266,6 +4851,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "CE",
    "link_edital": null,
    "lat": -20.6179,
    "lon": -49.4617,
@@ -4275,6 +4864,9 @@
      "url": "http://186.227.16.54:5656/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes"
     }
    ],
+   "link_licitacao": "http://186.227.16.54:5656/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4312,6 +4904,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 67/2026",
    "link_edital": null,
    "lat": -23.1039,
    "lon": -46.728,
@@ -4321,6 +4917,9 @@
      "url": "https://pncp.gov.br/app/editais/45780079000159/2026/317"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/45780079000159/2026/317",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4358,6 +4957,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 158/2026",
    "link_edital": null,
    "lat": -27.2335,
    "lon": -52.026,
@@ -4367,6 +4970,9 @@
      "url": "https://pncp.gov.br/app/editais/83024257000100/2026/502"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/83024257000100/2026/502",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4404,6 +5010,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 11/2026",
    "link_edital": null,
    "lat": -25.0067,
    "lon": -50.857,
@@ -4417,6 +5027,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]zKMLs1DqQSr_HlM6NGzSQOcj6jx6pld3WmV9xvwmtlDLrZesBHGEuB3twI7gCL6czrzc6m01xmZyINuTi4awt66C/iXf8qzqQC05s9q6pW4="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]zKMLs1DqQSr_HlM6NGzSQOcj6jx6pld3WmV9xvwmtlDLrZesBHGEuB3twI7gCL6czrzc6m01xmZyINuTi4awt66C/iXf8qzqQC05s9q6pW4=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4454,6 +5067,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 37/2026",
    "link_edital": null,
    "lat": -24.557,
    "lon": -54.0571,
@@ -4467,6 +5084,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98768303000372026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98768303000372026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4504,6 +5124,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -20.7959,
    "lon": -49.2172,
@@ -4513,6 +5137,9 @@
      "url": "https://pncp.gov.br/app/editais/45728326000178/2026/114"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/45728326000178/2026/114",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4552,6 +5179,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 10/2026",
    "link_edital": null,
    "lat": -21.921,
    "lon": -50.7357,
@@ -4569,6 +5200,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]hI_AAZPbSVDpmiHJ4o_hX0ZRZBxnG7Vyo3xA/d8xBvjF_769Uy0/7B2/SncsJn60rvjTqe5a9ubk2YmxMAGjAbBvAN_tuMrevnr6sWjuaSA="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]hI_AAZPbSVDpmiHJ4o_hX0ZRZBxnG7Vyo3xA/d8xBvjF_769Uy0/7B2/SncsJn60rvjTqe5a9ubk2YmxMAGjAbBvAN_tuMrevnr6sWjuaSA=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4606,6 +5240,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 152/2026",
    "link_edital": null,
    "lat": -27.496,
    "lon": -48.6598,
@@ -4615,6 +5253,9 @@
      "url": "https://pncp.gov.br/app/editais/82892308000153/2026/232"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82892308000153/2026/232",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4656,6 +5297,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 152/2026",
    "link_edital": null,
    "lat": -27.496,
    "lon": -48.6598,
@@ -4673,6 +5318,9 @@
      "url": "https://www.diariomunicipal.sc.gov.br/atos/8886501"
     }
    ],
+   "link_licitacao": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49483",
+   "portal": "ComprasBR",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4710,6 +5358,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 29/2026",
    "link_edital": null,
    "lat": -22.7321,
    "lon": -48.5723,
@@ -4723,6 +5375,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98710303000292026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98710303000292026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4760,6 +5415,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 15/2026",
    "link_edital": null,
    "lat": -23.4843,
    "lon": -51.7928,
@@ -4769,6 +5428,9 @@
      "url": "https://pncp.gov.br/app/editais/76282680000145/2026/272"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76282680000145/2026/272",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4813,6 +5475,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 30/2026",
    "link_edital": null,
    "lat": -22.6602,
    "lon": -51.0779,
@@ -4834,6 +5500,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743532124"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/49345911000140/2026/38",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4871,6 +5540,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -23.8077,
    "lon": -47.7222,
@@ -4884,6 +5557,9 @@
      "url": "https://www.pilardosul.sp.gov.br/licitacao/detalhe/1449/pdestinada-a-contratacao-de-empresa-para-execucao-de-obra-de-infraestrutura-urbana-com-recapeamento-asfaltico-em-ruas-do-bairro-jardim-bonanza-centro-e-campo-grande-neste-municipio-de-pilar-do-sul-spp/"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/46634473000141/2026/225",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4921,6 +5597,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 7/2026",
    "link_edital": null,
    "lat": -18.991,
    "lon": -46.3167,
@@ -4934,6 +5614,9 @@
      "url": "https://licitanet.com.br/sessao/205035"
     }
    ],
+   "link_licitacao": "https://licitanet.com.br/sessao/205035",
+   "portal": "Licitanet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -4971,6 +5654,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 80/2026",
    "link_edital": null,
    "lat": -22.9698,
    "lon": -46.9974,
@@ -4984,6 +5671,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98722503000802026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98722503000802026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5021,6 +5711,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": null,
    "link_edital": null,
    "lat": -22.932,
    "lon": -52.6906,
@@ -5030,6 +5724,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742098410"
     }
    ],
+   "link_licitacao": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-742098410",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5067,6 +5764,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 25/2026",
    "link_edital": null,
    "lat": -22.9129,
    "lon": -43.2003,
@@ -5080,6 +5781,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=39900803000252026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=39900803000252026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "federal",
@@ -5121,6 +5825,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 3/2026",
    "link_edital": null,
    "lat": -19.8387,
    "lon": -45.4127,
@@ -5138,6 +5846,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743403219"
     }
    ],
+   "link_licitacao": "https://app2.ammlicita.org.br/pesquisa/118772",
+   "portal": "AMM Licita",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5175,6 +5886,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "PE",
    "link_edital": null,
    "lat": -21.2427,
    "lon": -48.8063,
@@ -5184,6 +5899,9 @@
      "url": "https://spsantaadelia.dcfiorilli.com.br:879/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes"
     }
    ],
+   "link_licitacao": "https://spsantaadelia.dcfiorilli.com.br:879/transparencia/Default.aspx?AcessoIndividual=lnkLicitacoes",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5221,6 +5939,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 48/2026",
    "link_edital": null,
    "lat": -21.5942,
    "lon": -48.8149,
@@ -5230,6 +5952,9 @@
      "url": "https://pncp.gov.br/app/editais/49979255000137/2026/117"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/49979255000137/2026/117",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5267,6 +5992,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 3/2026",
    "link_edital": null,
    "lat": -21.5983,
    "lon": -44.105,
@@ -5280,6 +6009,9 @@
      "url": "https://app2.ammlicita.org.br/pesquisa/116910"
     }
    ],
+   "link_licitacao": "https://app2.ammlicita.org.br/pesquisa/116910",
+   "portal": "AMM Licita",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5317,6 +6049,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Sim",
+   "edital_sigla": "CE 4/2026",
    "link_edital": null,
    "lat": -21.1313,
    "lon": -51.1035,
@@ -5330,6 +6066,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]5UupM63rHIQUYtd75QFEafWspXWFtG8/ak3EywV1Z1/ZdJM8e/lmNefSCBGORKisDRK9Op/xGp6d8rmF4evuxDVWPtHcyDjf/z0jS09Evbk="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]5UupM63rHIQUYtd75QFEafWspXWFtG8/ak3EywV1Z1/ZdJM8e/lmNefSCBGORKisDRK9Op/xGp6d8rmF4evuxDVWPtHcyDjf/z0jS09Evbk=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5367,6 +6106,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 25/2026",
    "link_edital": null,
    "lat": -27.0702,
    "lon": -53.1586,
@@ -5376,6 +6119,9 @@
      "url": "https://pncp.gov.br/app/editais/85361863000147/2026/157"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/85361863000147/2026/157",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5413,6 +6159,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 16/2026",
    "link_edital": null,
    "lat": -25.4308,
    "lon": -53.4117,
@@ -5422,6 +6172,9 @@
      "url": "https://pncp.gov.br/app/editais/78121985000109/2026/117"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/78121985000109/2026/117",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5459,6 +6212,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 536/2026",
    "link_edital": null,
    "lat": -22.8429,
    "lon": -42.1026,
@@ -5472,6 +6229,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98590303005362026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98590303005362026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5512,6 +6272,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 19/2026",
    "link_edital": null,
    "lat": -23.1039,
    "lon": -46.728,
@@ -5525,6 +6289,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741791616"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/45780079000159/2026/313",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5562,6 +6329,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 4/2026",
    "link_edital": null,
    "lat": -23.226,
    "lon": -47.9545,
@@ -5575,6 +6346,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VmZOBzN7t6hzaTRZyc2ASzEkzWC84VOPVNDBczgyPlJQ01yWOQGRh3aogbihX5pm8O35gVMan7k9PYTNELuMQgHLqjqc/U_ONaVDOpRCHOE="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]VmZOBzN7t6hzaTRZyc2ASzEkzWC84VOPVNDBczgyPlJQ01yWOQGRh3aogbihX5pm8O35gVMan7k9PYTNELuMQgHLqjqc/U_ONaVDOpRCHOE=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5612,6 +6386,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Presencial",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 11",
    "link_edital": null,
    "lat": -28.4339,
    "lon": -49.1949,
@@ -5629,6 +6407,9 @@
      "url": "https://www.diariomunicipal.sc.gov.br/atos/8899547"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82928680000172/2026/69",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5669,6 +6450,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 124/2026",
    "link_edital": null,
    "lat": -28.7132,
    "lon": -49.3087,
@@ -5682,6 +6467,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741514236"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82916800000111/2026/348",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5719,6 +6507,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 4/2026",
    "link_edital": null,
    "lat": -23.1761,
    "lon": -48.1195,
@@ -5732,6 +6524,9 @@
      "url": "https://www.porangaba.sp.gov.br/portal/editais/0/1/936/"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/46634580000170/2026/95",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5773,6 +6568,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 145/2026",
    "link_edital": null,
    "lat": -22.9246,
    "lon": -45.4613,
@@ -5790,6 +6589,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743761599"
     }
    ],
+   "link_licitacao": "http://www.licitacaopindamonhangaba.com.br",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5827,6 +6629,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 3/2026",
    "link_edital": null,
    "lat": -20.7296,
    "lon": -47.7429,
@@ -5840,6 +6646,9 @@
      "url": "https://app2.licitardigital.com.br/pesquisa/116739"
     }
    ],
+   "link_licitacao": "https://app2.licitardigital.com.br/pesquisa/116739",
+   "portal": "Licitar Digital",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5877,6 +6686,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 10/2026",
    "link_edital": null,
    "lat": -26.1607,
    "lon": -51.5518,
@@ -5886,6 +6699,9 @@
      "url": "https://pncp.gov.br/app/editais/81648859000103/2026/966"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/81648859000103/2026/966",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5923,6 +6739,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 10/2026",
    "link_edital": null,
    "lat": -28.4339,
    "lon": -49.1949,
@@ -5932,6 +6752,9 @@
      "url": "https://pncp.gov.br/app/editais/82928680000172/2026/68"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82928680000172/2026/68",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -5969,6 +6792,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 12/2026",
    "link_edital": null,
    "lat": -20.0367,
    "lon": -44.1446,
@@ -5982,6 +6809,9 @@
      "url": "https://app2.licitardigital.com.br/pesquisa/116875"
     }
    ],
+   "link_licitacao": "https://app2.licitardigital.com.br/pesquisa/116875",
+   "portal": "Licitar Digital",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6019,6 +6849,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 60/6026",
    "link_edital": null,
    "lat": -21.5103,
    "lon": -48.1538,
@@ -6028,6 +6862,13 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D378_Q97oOHKzfYi9xSMhh6STIcKpyl%2FtzXuk%2Ffz18dxr_2nIMKoJAoyPuIV0ZxtjUTxIykgofT%2FwWq3FOkGl5SJtP8Llqoj5zHig1sLzkiM%3D"
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D378_Q97oOHKzfYi9xSMhh6STIcKpyl%2FtzXuk%2Ffz18dxr_2nIMKoJAoyPuIV0ZxtjUTxIykgofT%2FwWq3FOkGl5SJtP8Llqoj5zHig1sLzkiM%3D",
+   "portal": "BLL",
+   "republicada": {
+    "de": "2026-11-27T13:00:00",
+    "para": "27/11/2026 13:30",
+    "detectada_em": "2026-11-12 14:30"
+   },
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6065,6 +6906,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Sim",
+   "edital_sigla": "CE 10/2026",
    "link_edital": null,
    "lat": -23.0841,
    "lon": -48.3679,
@@ -6078,6 +6923,9 @@
      "url": "https://bllcompras.com/Process/ProcessView?param1=[gkz]Tg_KLqf83ILP82b_RajXS5qoeLyITJsYr/hARNs4JYFx6wbDGCRUpukQkBcoLIKoV/5H9MO10VIaxwzpfLyiTuUGafOzeFYhybfNqrHdx4I="
     }
    ],
+   "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=[gkz]Tg_KLqf83ILP82b_RajXS5qoeLyITJsYr/hARNs4JYFx6wbDGCRUpukQkBcoLIKoV/5H9MO10VIaxwzpfLyiTuUGafOzeFYhybfNqrHdx4I=",
+   "portal": "BLL",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6115,6 +6963,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 9/2026",
    "link_edital": null,
    "lat": -23.0841,
    "lon": -48.3679,
@@ -6128,6 +6980,9 @@
      "url": " "
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/46634150000158/2026/100",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6165,6 +7020,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 1/2026",
    "link_edital": null,
    "lat": -19.8126,
    "lon": -43.1735,
@@ -6178,6 +7037,9 @@
      "url": "https://app2.licitardigital.com.br/pesquisa/115481"
     }
    ],
+   "link_licitacao": "https://app2.licitardigital.com.br/pesquisa/115481",
+   "portal": "Licitar Digital",
+   "republicada": null,
    "abrangencia": {
     "tipo": "consorcio",
     "esfera": "consorcio",
@@ -6215,6 +7077,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 21/2026",
    "link_edital": null,
    "lat": -26.3709,
    "lon": -50.3266,
@@ -6224,6 +7090,9 @@
      "url": "https://pncp.gov.br/app/editais/83102392000127/2026/211"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/83102392000127/2026/211",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6261,6 +7130,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 162/2026",
    "link_edital": null,
    "lat": -27.2335,
    "lon": -52.026,
@@ -6270,6 +7143,9 @@
      "url": "https://pncp.gov.br/app/editais/83024257000100/2026/510"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/83024257000100/2026/510",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6307,6 +7183,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": "Não",
+   "edital_sigla": "CE 5/2026",
    "link_edital": null,
    "lat": -23.7204,
    "lon": -51.0991,
@@ -6320,6 +7200,9 @@
      "url": "https://bnccompras.com/Process/ProcessView?param1=[gkz]MA/bfRfAqgB9hDssPP9mKiaNVsBAyQMXOfURx5bKSOKOopmBePH3iYdDEgVtPKSbIfduStC6QhLmks478XCRRJ3fTEXwVF6I5zBhrldmHjE="
     }
    ],
+   "link_licitacao": "https://bnccompras.com/Process/ProcessView?param1=[gkz]MA/bfRfAqgB9hDssPP9mKiaNVsBAyQMXOfURx5bKSOKOopmBePH3iYdDEgVtPKSbIfduStC6QhLmks478XCRRJ3fTEXwVF6I5zBhrldmHjE=",
+   "portal": "BNC",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6361,6 +7244,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -21.2749,
    "lon": -47.303,
@@ -6378,6 +7265,9 @@
      "url": "https://www.in.gov.br/web/dou/-/avisos-de-licitacao-741999198"
     }
    ],
+   "link_licitacao": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49517",
+   "portal": "ComprasBR",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6415,6 +7305,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 17/2026",
    "link_edital": null,
    "lat": -20.9167,
    "lon": -46.9837,
@@ -6424,6 +7318,9 @@
      "url": "https://pncp.gov.br/app/editais/18241349000180/2026/178"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/18241349000180/2026/178",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6461,6 +7358,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 26/2026",
    "link_edital": null,
    "lat": -26.2292,
    "lon": -52.6706,
@@ -6470,6 +7371,9 @@
      "url": "https://pncp.gov.br/app/editais/76995448000154/2026/192"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76995448000154/2026/192",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6510,6 +7414,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 12/2026",
    "link_edital": null,
    "lat": -22.5002,
    "lon": -48.7102,
@@ -6523,6 +7431,9 @@
      "url": "https://www.macatuba.sp.gov.br/portal/editais/0/1/3856/"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/46200853000178/2026/82",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6560,6 +7471,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 86/2026",
    "link_edital": null,
    "lat": -22.8517,
    "lon": -51.0293,
@@ -6573,6 +7488,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778903000862026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98778903000862026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6612,6 +7530,10 @@
    ],
    "situacao": "Revogada",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 13/2026",
    "link_edital": null,
    "lat": -26.2502,
    "lon": -53.6324,
@@ -6629,6 +7551,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-739347657"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98744903000132026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6666,6 +7591,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 20/2026",
    "link_edital": null,
    "lat": -22.9232,
    "lon": -53.1362,
@@ -6675,6 +7604,9 @@
      "url": "https://pncp.gov.br/app/editais/76972074000151/2026/260"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76972074000151/2026/260",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6716,6 +7648,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "PE 17/2026",
    "link_edital": null,
    "lat": -19.9102,
    "lon": -43.9266,
@@ -6741,6 +7677,9 @@
      "url": "https://pncp.gov.br/app/editais/18715383000140/2026/845"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/18715383000140/2026/860",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6778,6 +7717,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 90080/2026",
    "link_edital": null,
    "lat": -25.4195,
    "lon": -49.2646,
@@ -6791,6 +7734,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=46339003900802026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/landing?destino=acompanhamento-compra&compra=46339003900802026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "multimunicipal",
     "esfera": "estadual",
@@ -6836,6 +7782,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 15/2026",
    "link_edital": null,
    "lat": -26.1607,
    "lon": -51.5518,
@@ -6845,6 +7795,9 @@
      "url": "https://pncp.gov.br/app/editais/81648859000103/2026/968"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/81648859000103/2026/968",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6885,6 +7838,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 16/2026",
    "link_edital": null,
    "lat": -23.4843,
    "lon": -51.7928,
@@ -6898,6 +7855,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740044313"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76282680000145/2026/287",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6935,6 +7895,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 0/2026",
    "link_edital": null,
    "lat": -21.0137,
    "lon": -46.7359,
@@ -6948,6 +7912,9 @@
      "url": "https://app2.ammlicita.org.br/pesquisa/117664"
     }
    ],
+   "link_licitacao": "https://app2.ammlicita.org.br/pesquisa/117664",
+   "portal": "AMM Licita",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -6988,6 +7955,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 10/2026",
    "link_edital": null,
    "lat": -18.4734,
    "lon": -47.1933,
@@ -7001,6 +7972,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740123926"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/18591149000158/2026/94",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7038,6 +8012,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 26/2026",
    "link_edital": null,
    "lat": -27.4002,
    "lon": -51.2276,
@@ -7047,6 +8025,9 @@
      "url": "https://pncp.gov.br/app/editais/82939232000174/2026/393"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82939232000174/2026/393",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7084,6 +8065,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 4/2026",
    "link_edital": null,
    "lat": -27.1382,
    "lon": -48.5146,
@@ -7093,6 +8078,9 @@
      "url": "https://pncp.gov.br/app/editais/95815379000102/2026/51"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/95815379000102/2026/51",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7134,6 +8122,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 7/2026",
    "link_edital": null,
    "lat": -27.2743,
    "lon": -51.443,
@@ -7151,6 +8143,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741514155"
     }
    ],
+   "link_licitacao": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Erval-Velho-1796/CPMP-CE7-2026-2026-521555",
+   "portal": "Compraspublicas",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7188,6 +8183,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 23/2026",
    "link_edital": null,
    "lat": -25.4308,
    "lon": -53.4117,
@@ -7201,6 +8200,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45657803000232026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45657803000232026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7238,6 +8240,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 246/2026",
    "link_edital": null,
    "lat": -23.5329,
    "lon": -46.6395,
@@ -7251,6 +8257,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=10211003002462026"
     }
    ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=10211003002462026",
+   "portal": "Comprasnet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "estadual",
@@ -7288,6 +8297,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -26.2746,
    "lon": -50.4664,
@@ -7297,6 +8310,9 @@
      "url": "https://pncp.gov.br/app/editais/01612888000186/2026/74"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/01612888000186/2026/74",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7334,6 +8350,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 11/2026",
    "link_edital": null,
    "lat": -22.9292,
    "lon": -42.5099,
@@ -7347,6 +8367,9 @@
      "url": "https://licitanet.com.br/sessao/206427"
     }
    ],
+   "link_licitacao": "https://licitanet.com.br/sessao/206427",
+   "portal": "Licitanet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7384,6 +8407,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 3/2026",
    "link_edital": null,
    "lat": -21.0137,
    "lon": -46.7359,
@@ -7397,6 +8424,9 @@
      "url": "https://app2.ammlicita.org.br/pesquisa/117806"
     }
    ],
+   "link_licitacao": "https://app2.ammlicita.org.br/pesquisa/117806",
+   "portal": "AMM Licita",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7434,6 +8464,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 12/2026",
    "link_edital": null,
    "lat": -22.9292,
    "lon": -42.5099,
@@ -7447,6 +8481,9 @@
      "url": "https://licitanet.com.br/sessao/206412"
     }
    ],
+   "link_licitacao": "https://licitanet.com.br/sessao/206412",
+   "portal": "Licitanet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7484,6 +8521,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 5/2026",
    "link_edital": null,
    "lat": -23.1078,
    "lon": -50.3704,
@@ -7493,6 +8534,9 @@
      "url": "https://pncp.gov.br/app/editais/76235753000148/2026/137"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/76235753000148/2026/137",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7530,6 +8574,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 15/2026",
    "link_edital": null,
    "lat": -22.2171,
    "lon": -49.9501,
@@ -7547,6 +8595,9 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98668103000412026"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/44477909000100/2026/974",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7584,6 +8635,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 5/2026",
    "link_edital": null,
    "lat": -20.0237,
    "lon": -45.5401,
@@ -7597,6 +8652,9 @@
      "url": "https://app2.licitardigital.com.br/pesquisa/118532"
     }
    ],
+   "link_licitacao": "https://app2.licitardigital.com.br/pesquisa/118532",
+   "portal": "Licitar Digital",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7634,6 +8692,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 3/2026",
    "link_edital": null,
    "lat": -25.0294,
    "lon": -52.9939,
@@ -7647,6 +8709,9 @@
      "url": " "
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/80869621000145/2026/63",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7684,6 +8749,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Presencial",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 53/2026",
    "link_edital": null,
    "lat": -26.6876,
    "lon": -53.1545,
@@ -7693,6 +8762,9 @@
      "url": "https://pncp.gov.br/app/editais/01566620000155/2026/52"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/01566620000155/2026/52",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7734,6 +8806,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 17/2026",
    "link_edital": null,
    "lat": -23.2824,
    "lon": -52.6054,
@@ -7751,6 +8827,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743762093"
     }
    ],
+   "link_licitacao": "https://licitanet.com.br/sessao/207533",
+   "portal": "Licitanet",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7791,6 +8870,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 11/2026",
    "link_edital": null,
    "lat": -27.6136,
    "lon": -48.6366,
@@ -7804,6 +8887,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740985700"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82892274000105/2026/110",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7841,6 +8927,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 8/2026",
    "link_edital": null,
    "lat": -27.6136,
    "lon": -48.6366,
@@ -7850,6 +8940,9 @@
      "url": "https://pncp.gov.br/app/editais/82892274000105/2026/120"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/82892274000105/2026/120",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7890,6 +8983,10 @@
    ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Presencial",
+   "modo_disputa": "Fechado",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 26/2026",
    "link_edital": null,
    "lat": -20.2632,
    "lon": -40.4165,
@@ -7903,6 +9000,9 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741040653"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/27150549000119/2026/234",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7940,6 +9040,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 191/2026",
    "link_edital": null,
    "lat": -20.048,
    "lon": -44.2749,
@@ -7953,6 +9057,9 @@
      "url": "https://www.saojoaquimdebicas.mg.gov.br/detalhe-da-licitacao/info/co-10-2024/81404"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/01612516000150/2026/346",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -7990,6 +9097,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "1/2026",
    "link_edital": null,
    "lat": -22.4576,
    "lon": -49.3393,
@@ -7999,6 +9110,9 @@
      "url": "https://www.cabralia.sp.gov.br/licitacao/detalhe/543/pcontratacao-de-empresa-especializada-para-execucao-de-recapeamento-asfaltico-de-trecho-das-vias-publicas-rua-matheus-riga-de-oliveira-e-rua-jose-madrigal-galhardop/"
     }
    ],
+   "link_licitacao": "https://www.cabralia.sp.gov.br/licitacao/detalhe/543/pcontratacao-de-empresa-especializada-para-execucao-de-recapeamento-asfaltico-de-trecho-das-vias-publicas-rua-matheus-riga-de-oliveira-e-rua-jose-madrigal-galhardop/",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -8036,6 +9150,10 @@
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": "Aberto",
+   "docs_antecipados": null,
+   "edital_sigla": "CE 12/2026",
    "link_edital": null,
    "lat": -17.9827,
    "lon": -46.9088,
@@ -8049,6 +9167,9 @@
      "url": "https://pncp.gov.br/app/editais?pagina=1&q=VAZANTE&status=todos"
     }
    ],
+   "link_licitacao": "https://pncp.gov.br/app/editais/18278069000147/2026/125",
+   "portal": "PNCP",
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -8086,6 +9207,10 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "docs_antecipados": null,
+   "edital_sigla": "PE 23/2026",
    "link_edital": null,
    "lat": -24.4262,
    "lon": -53.3528,
@@ -8095,6 +9220,9 @@
      "url": "http://www.iracemadooeste.pr.gov.br//index.php?sessao=b054603368ldb0&id=23453341"
     }
    ],
+   "link_licitacao": "http://www.iracemadooeste.pr.gov.br//index.php?sessao=b054603368ldb0&id=23453341",
+   "portal": null,
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
