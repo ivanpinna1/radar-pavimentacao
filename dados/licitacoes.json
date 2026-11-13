@@ -1,5 +1,5 @@
 {
- "atualizado_em": "12/11/2026 22:43",
+ "atualizado_em": "13/11/2026 14:08",
  "whatsapp": "5527981050392",
  "total_base": 550,
  "itens": [
@@ -63,8 +63,30 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "aberta"
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 10,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 4465845.7,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "13/11/2026 13:57"
+   },
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-18094847000148-1-000128-2026",
@@ -130,8 +152,30 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "aberta"
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 2622105.19,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "13/11/2026 13:57"
+   },
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-76105535000199-1-000367-2026",
@@ -3822,11 +3866,7 @@
    ],
    "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DjyzwWx310I2YwXgtGqRfLYuppN9_0vegPawyQSPe7dGNijGjnOmxW%2FVsiT8vTYxaE5RxjgFFEgKgo5QtbstUVj%2FaCgs2IO3vrWkthS8o_FQ%3D",
    "portal": "BLL",
-   "republicada": {
-    "de": "2026-11-18T08:59:00",
-    "para": "18/11/2026 09:15",
-    "detectada_em": "2026-11-12 14:30"
-   },
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -8308,11 +8348,7 @@
    ],
    "link_licitacao": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5D378_Q97oOHKzfYi9xSMhh6STIcKpyl%2FtzXuk%2Ffz18dxr_2nIMKoJAoyPuIV0ZxtjUTxIykgofT%2FwWq3FOkGl5SJtP8Llqoj5zHig1sLzkiM%3D",
    "portal": "BLL",
-   "republicada": {
-    "de": "2026-11-27T13:00:00",
-    "para": "27/11/2026 13:30",
-    "detectada_em": "2026-11-12 14:30"
-   },
+   "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
     "esfera": "municipal",
@@ -9650,7 +9686,7 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
-   "situacao_alerta": null,
+   "situacao_alerta": "Suspensa",
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
@@ -10178,7 +10214,11 @@
    "justificativa": "edital conferido: Projeto basico CAUQ nas estruturas 1 e 2 (317928 m2 e 509275 m2); intertravado so em pistas elevadas 1205 m2",
    "link_pncp": "https://pncp.gov.br/app/editais/32147670000121/2026/196",
    "link_origem": "https://licitanet.com.br/sessao/206427",
-   "links_extra": [],
+   "links_extra": [
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741009259",
+    "https://licitanet.com.br/sessao/206427",
+    "https://pncp.gov.br/app/editais/32147670000121/2026/196"
+   ],
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "situacao_alerta": null,
@@ -10203,6 +10243,10 @@
     {
      "tipo": "Portal de compras",
      "url": "https://licitanet.com.br/sessao/206427"
+    },
+    {
+     "tipo": "Diário Oficial",
+     "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741009259"
     }
    ],
    "link_licitacao": "https://licitanet.com.br/sessao/206427",
