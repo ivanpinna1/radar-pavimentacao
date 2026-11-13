@@ -148,14 +148,6 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
-     },
-     {
-      "em": "13/11/2026",
-      "status": "em julgamento"
-     },
-     {
-      "em": "13/11/2026",
-      "status": "em julgamento"
      }
     ],
     "n_itens": 10,
@@ -167,7 +159,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 16:10"
+    "atualizado_em": "13/11/2026 15:00"
    },
    "fase": "julgamento"
   },
@@ -253,14 +245,6 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
-     },
-     {
-      "em": "13/11/2026",
-      "status": "em julgamento"
-     },
-     {
-      "em": "13/11/2026",
-      "status": "em julgamento"
      }
     ],
     "n_itens": 1,
@@ -272,7 +256,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 16:10"
+    "atualizado_em": "13/11/2026 15:00"
    },
    "fase": "julgamento"
   },
@@ -713,14 +697,14 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
    "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 43/2026",
-   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45437003000432026",
+   "link_sistema": null,
    "link_edital": null,
    "lat": -25.9619,
    "lon": -52.8152,
@@ -8489,7 +8473,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -9218,7 +9202,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
@@ -9285,7 +9269,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -9352,7 +9336,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
@@ -9621,7 +9605,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": "Empreitada por preço unitário",
    "regime_fonte": "edital (PNCP)",
@@ -9761,7 +9745,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -10108,7 +10092,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -10250,7 +10234,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": "Contratação semi-integrada",
    "regime_fonte": "edital (PNCP)",
@@ -11005,7 +10989,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Presencial",
-   "modo_disputa": "Aberto",
+   "modo_disputa": "Aberto e Fechado",
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -12159,7 +12143,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
+   "modo_disputa": null,
    "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
