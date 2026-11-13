@@ -1,5 +1,5 @@
 {
- "atualizado_em": "13/11/2026 15:00",
+ "atualizado_em": "13/11/2026 15:02",
  "whatsapp": "5527981050392",
  "total_base": 648,
  "itens": [
@@ -66,6 +66,10 @@
    "resultado": {
     "status": "em julgamento",
     "checagens": [
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
+     },
      {
       "em": "13/11/2026",
       "status": "em julgamento"
@@ -159,6 +163,10 @@
    "resultado": {
     "status": "em julgamento",
     "checagens": [
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
+     },
      {
       "em": "13/11/2026",
       "status": "em julgamento"
