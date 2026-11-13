@@ -1,5 +1,5 @@
 {
- "atualizado_em": "13/11/2026 15:07",
+ "atualizado_em": "13/11/2026 16:11",
  "whatsapp": "5527981050392",
  "total_base": 648,
  "itens": [
@@ -148,6 +148,14 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
      }
     ],
     "n_itens": 10,
@@ -159,7 +167,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 15:00"
+    "atualizado_em": "13/11/2026 16:10"
    },
    "fase": "julgamento"
   },
@@ -245,6 +253,14 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
      }
     ],
     "n_itens": 1,
@@ -256,7 +272,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 15:00"
+    "atualizado_em": "13/11/2026 16:10"
    },
    "fase": "julgamento"
   },
@@ -697,14 +713,14 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
    "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 43/2026",
-   "link_sistema": null,
+   "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45437003000432026",
    "link_edital": null,
    "lat": -25.9619,
    "lon": -52.8152,
@@ -8473,7 +8489,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -9202,7 +9218,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
@@ -9269,7 +9285,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -9336,7 +9352,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
@@ -9450,7 +9466,7 @@
    "id": "EFF-8237365",
    "titulo": "CE23/2026",
    "orgao": "PREFEITURA MUNICIPAL DE TUBARÃO",
-   "municipio": NaN,
+   "municipio": "Tubarão",
    "uf": "SC",
    "data": "30/11/2026",
    "hora": "13:30",
@@ -9479,8 +9495,8 @@
    "edital_sigla": "CE 23/2026",
    "link_sistema": null,
    "link_edital": null,
-   "lat": null,
-   "lon": null,
+   "lat": -28.4713,
+   "lon": -49.0144,
    "links": [
     {
      "tipo": "Portal de compras",
@@ -9495,10 +9511,10 @@
     "esfera": "municipal",
     "municipios": [
      {
-      "nome": NaN,
+      "nome": "Tubarão",
       "uf": "SC",
-      "lat": null,
-      "lon": null,
+      "lat": -28.4713,
+      "lon": -49.0144,
       "valor": null,
       "origem": "sede"
      }
@@ -9605,7 +9621,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": "Empreitada por preço unitário",
    "regime_fonte": "edital (PNCP)",
@@ -9660,7 +9676,7 @@
    "id": "EFF-8161102",
    "titulo": "34/2026",
    "orgao": "PREFEITURA MUNICIPAL DE VIDEIRA",
-   "municipio": NaN,
+   "municipio": "Videira",
    "uf": "SC",
    "data": "01/12/2026",
    "hora": "08:59",
@@ -9689,8 +9705,8 @@
    "edital_sigla": "34/2026",
    "link_sistema": null,
    "link_edital": null,
-   "lat": null,
-   "lon": null,
+   "lat": -27.0086,
+   "lon": -51.1543,
    "links": [
     {
      "tipo": "Portal de compras",
@@ -9705,10 +9721,10 @@
     "esfera": "municipal",
     "municipios": [
      {
-      "nome": NaN,
+      "nome": "Videira",
       "uf": "SC",
-      "lat": null,
-      "lon": null,
+      "lat": -27.0086,
+      "lon": -51.1543,
       "valor": null,
       "origem": "sede"
      }
@@ -9745,7 +9761,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -10092,7 +10108,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -10234,7 +10250,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": "Contratação semi-integrada",
    "regime_fonte": "edital (PNCP)",
@@ -10989,7 +11005,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Presencial",
-   "modo_disputa": "Aberto e Fechado",
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": "Empreitada por preço global",
    "regime_fonte": "edital (PNCP)",
@@ -12143,7 +12159,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
