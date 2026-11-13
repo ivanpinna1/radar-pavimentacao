@@ -1,5 +1,5 @@
 {
- "atualizado_em": "13/11/2026 18:18",
+ "atualizado_em": "13/11/2026 18:58",
  "whatsapp": "5527981050392",
  "total_base": 648,
  "itens": [
@@ -156,6 +156,10 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
      }
     ],
     "n_itens": 10,
@@ -167,7 +171,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 16:10"
+    "atualizado_em": "13/11/2026 18:57"
    },
    "fase": "julgamento"
   },
@@ -261,6 +265,10 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
      }
     ],
     "n_itens": 1,
@@ -272,7 +280,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 16:10"
+    "atualizado_em": "13/11/2026 18:57"
    },
    "fase": "julgamento"
   },
