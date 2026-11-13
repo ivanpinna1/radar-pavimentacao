@@ -1,5 +1,5 @@
 {
- "atualizado_em": "13/11/2026 19:25",
+ "atualizado_em": "13/11/2026 23:53",
  "whatsapp": "5527981050392",
  "total_base": 649,
  "itens": [
@@ -160,6 +160,10 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
      }
     ],
     "n_itens": 10,
@@ -171,7 +175,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 18:57"
+    "atualizado_em": "13/11/2026 23:53"
    },
    "fase": "julgamento"
   },
@@ -269,6 +273,10 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
+     },
+     {
+      "em": "13/11/2026",
+      "status": "em julgamento"
      }
     ],
     "n_itens": 1,
@@ -280,7 +288,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 18:57"
+    "atualizado_em": "13/11/2026 23:53"
    },
    "fase": "julgamento"
   },
@@ -11629,10 +11637,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 41/2026",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98668103000412026",
@@ -11897,10 +11905,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 8/2026",
    "link_sistema": "https://licitanet.com.br/sessao/207459",
