@@ -1,5 +1,5 @@
 {
- "atualizado_em": "16/11/2026 22:15",
+ "atualizado_em": "16/11/2026 23:55",
  "whatsapp": "5527981050392",
  "total_base": 735,
  "itens": [
@@ -2431,7 +2431,7 @@
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "situacao_alerta": null,
-   "pncp_erro_temporario": null,
+   "pncp_erro_temporario": "16/11/2026 23:53",
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
    "criterio": "Menor preço",
@@ -9656,10 +9656,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Sim",
    "edital_sigla": "PE 80/2026",
    "link_sistema": null,
@@ -10149,10 +10149,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Maior desconto",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Sim",
    "edital_sigla": "CE 81/2026",
    "link_sistema": null,
@@ -10917,10 +10917,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 2/3189",
    "link_sistema": "https://app2.licitardigital.com.br/pesquisa/119124",
@@ -11117,10 +11117,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 20/3202",
    "link_sistema": "https://app2.licitardigital.com.br/pesquisa/119213",
@@ -11649,10 +11649,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Maior desconto",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "PE 54/2267",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=19500405000542026",
@@ -11673,20 +11673,109 @@
    "portal": "Comprasnet",
    "republicada": null,
    "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
+    "tipo": "multimunicipal",
+    "esfera": "estadual",
     "municipios": [
+     {
+      "nome": "Barreiras",
+      "uf": "BA",
+      "lat": -12.1439,
+      "lon": -44.9968,
+      "valor": 14160510.0,
+      "origem": "lote"
+     },
      {
       "nome": "Bom Jesus da Lapa",
       "uf": "BA",
       "lat": -13.2506,
       "lon": -43.4108,
-      "valor": 97110482.0,
-      "origem": "sede"
+      "valor": 18527432.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Irecê",
+      "uf": "BA",
+      "lat": -11.3033,
+      "lon": -41.8535,
+      "valor": 18342296.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Vitória da Conquista",
+      "uf": "BA",
+      "lat": -14.8615,
+      "lon": -40.8442,
+      "valor": 18279520.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Itabuna",
+      "uf": "BA",
+      "lat": -14.7876,
+      "lon": -39.2781,
+      "valor": 13970586.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Teixeira de Freitas",
+      "uf": "BA",
+      "lat": -17.5399,
+      "lon": -39.74,
+      "valor": 13830138.0,
+      "origem": "lote"
      }
     ],
-    "lotes": [],
-    "n_lotes": 0
+    "lotes": [
+     {
+      "num": 1,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica com CBUQ – Região de Barreiras/BA",
+      "valor": 14160510.0,
+      "municipios": [
+       "Barreiras/BA"
+      ]
+     },
+     {
+      "num": 2,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica com CBUQ – Região de Bom Jesus da Lapa/BA",
+      "valor": 18527432.0,
+      "municipios": [
+       "Bom Jesus da Lapa/BA"
+      ]
+     },
+     {
+      "num": 3,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica com CBUQ – Região de Irecê/BA",
+      "valor": 18342296.0,
+      "municipios": [
+       "Irecê/BA"
+      ]
+     },
+     {
+      "num": 4,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica com CBUQ – Região de Vitória da Conquista/BA",
+      "valor": 18279520.0,
+      "municipios": [
+       "Vitória da Conquista/BA"
+      ]
+     },
+     {
+      "num": 5,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica com CBUQ – Região de Itabuna/BA",
+      "valor": 13970586.0,
+      "municipios": [
+       "Itabuna/BA"
+      ]
+     },
+     {
+      "num": 6,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica com CBUQ – Região de Teixeira de Freitas/BA",
+      "valor": 13830138.0,
+      "municipios": [
+       "Teixeira de Freitas/BA"
+      ]
+     }
+    ],
+    "n_lotes": 6
    },
    "resultado": null,
    "fase": "aberta"
@@ -11716,10 +11805,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Maior desconto",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "PE 52/2970",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=19500405000522026",
@@ -11740,20 +11829,109 @@
    "portal": "Comprasnet",
    "republicada": null,
    "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
+    "tipo": "multimunicipal",
+    "esfera": "estadual",
     "municipios": [
+     {
+      "nome": "Barreiras",
+      "uf": "BA",
+      "lat": -12.1439,
+      "lon": -44.9968,
+      "valor": 11007213.0,
+      "origem": "lote"
+     },
      {
       "nome": "Bom Jesus da Lapa",
       "uf": "BA",
       "lat": -13.2506,
       "lon": -43.4108,
-      "valor": 69723570.0,
-      "origem": "sede"
+      "valor": 12446784.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Irecê",
+      "uf": "BA",
+      "lat": -11.3033,
+      "lon": -41.8535,
+      "valor": 12257448.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Vitória da Conquista",
+      "uf": "BA",
+      "lat": -14.8615,
+      "lon": -40.8442,
+      "valor": 12286848.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Itabuna",
+      "uf": "BA",
+      "lat": -14.7876,
+      "lon": -39.2781,
+      "valor": 10809645.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Teixeira de Freitas",
+      "uf": "BA",
+      "lat": -17.5399,
+      "lon": -39.74,
+      "valor": 10915632.0,
+      "origem": "lote"
      }
     ],
-    "lotes": [],
-    "n_lotes": 0
+    "lotes": [
+     {
+      "num": 1,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica em TSD – Região de Barreiras/BA",
+      "valor": 11007213.0,
+      "municipios": [
+       "Barreiras/BA"
+      ]
+     },
+     {
+      "num": 2,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica em TSD – Região de Bom Jesus da Lapa/BA",
+      "valor": 12446784.0,
+      "municipios": [
+       "Bom Jesus da Lapa/BA"
+      ]
+     },
+     {
+      "num": 3,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica em TSD – Região de Irecê/BA",
+      "valor": 12257448.0,
+      "municipios": [
+       "Irecê/BA"
+      ]
+     },
+     {
+      "num": 4,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica em TSD – Região de Vitória da Conquista/BA",
+      "valor": 12286848.0,
+      "municipios": [
+       "Vitória da Conquista/BA"
+      ]
+     },
+     {
+      "num": 5,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica em TSD – Região de Itabuna/BA",
+      "valor": 10809645.0,
+      "municipios": [
+       "Itabuna/BA"
+      ]
+     },
+     {
+      "num": 6,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Pavimentação asfáltica em TSD – Região de Teixeira de Freitas/BA",
+      "valor": 10915632.0,
+      "municipios": [
+       "Teixeira de Freitas/BA"
+      ]
+     }
+    ],
+    "n_lotes": 6
    },
    "resultado": null,
    "fase": "aberta"
@@ -11929,10 +12107,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Maior desconto",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "PE 53/2360",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=19500405000532026",
@@ -11953,20 +12131,109 @@
    "portal": "Comprasnet",
    "republicada": null,
    "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
+    "tipo": "multimunicipal",
+    "esfera": "estadual",
     "municipios": [
+     {
+      "nome": "Barreiras",
+      "uf": "BA",
+      "lat": -12.1439,
+      "lon": -44.9968,
+      "valor": 11707500.0,
+      "origem": "lote"
+     },
      {
       "nome": "Bom Jesus da Lapa",
       "uf": "BA",
       "lat": -13.2506,
       "lon": -43.4108,
-      "valor": 79819950.0,
-      "origem": "sede"
+      "valor": 15232000.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Irecê",
+      "uf": "BA",
+      "lat": -11.3033,
+      "lon": -41.8535,
+      "valor": 15068200.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Vitória da Conquista",
+      "uf": "BA",
+      "lat": -14.8615,
+      "lon": -40.8442,
+      "valor": 14971600.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Itabuna",
+      "uf": "BA",
+      "lat": -14.7876,
+      "lon": -39.2781,
+      "valor": 11527950.0,
+      "origem": "lote"
+     },
+     {
+      "nome": "Teixeira de Freitas",
+      "uf": "BA",
+      "lat": -17.5399,
+      "lon": -39.74,
+      "valor": 11312700.0,
+      "origem": "lote"
      }
     ],
-    "lotes": [],
-    "n_lotes": 0
+    "lotes": [
+     {
+      "num": 1,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Execução de capa asfáltica com CBUQ – Região de Barreiras/BA",
+      "valor": 11707500.0,
+      "municipios": [
+       "Barreiras/BA"
+      ]
+     },
+     {
+      "num": 2,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Execução de capa asfáltica com CBUQ – Região de Bom Jesus da Lapa/BA",
+      "valor": 15232000.0,
+      "municipios": [
+       "Bom Jesus da Lapa/BA"
+      ]
+     },
+     {
+      "num": 3,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Execução de capa asfáltica com CBUQ – Região de Irecê/BA",
+      "valor": 15068200.0,
+      "municipios": [
+       "Irecê/BA"
+      ]
+     },
+     {
+      "num": 4,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Execução de capa asfáltica com CBUQ – Região de Vitória da Conquista/BA",
+      "valor": 14971600.0,
+      "municipios": [
+       "Vitória da Conquista/BA"
+      ]
+     },
+     {
+      "num": 5,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Execução de capa asfáltica com CBUQ – Região de Itabuna/BA.",
+      "valor": 11527950.0,
+      "municipios": [
+       "Itabuna/BA"
+      ]
+     },
+     {
+      "num": 6,
+      "descricao": "Obras Civis de Pavimentação Asfáltica Execução de capa asfáltica com CBUQ – Região de Teixeira de Freitas/BA",
+      "valor": 11312700.0,
+      "municipios": [
+       "Teixeira de Freitas/BA"
+      ]
+     }
+    ],
+    "n_lotes": 6
    },
    "resultado": null,
    "fase": "aberta"
@@ -12734,7 +13001,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -12805,7 +13072,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -12941,10 +13208,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Fechado",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 555/3608",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=26220103005552026",
@@ -12969,20 +13236,28 @@
    "portal": "Comprasnet",
    "republicada": null,
    "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
+    "tipo": "multimunicipal",
+    "esfera": "estadual",
     "municipios": [
      {
-      "nome": "São Paulo",
+      "nome": "Elias Fausto",
       "uf": "SP",
-      "lat": -23.5329,
-      "lon": -46.6395,
-      "valor": 13193349.8,
-      "origem": "sede"
+      "lat": -23.0428,
+      "lon": -47.3682,
+      "valor": 6596674.9,
+      "origem": "lote"
+     },
+     {
+      "nome": "Indaiatuba",
+      "uf": "SP",
+      "lat": -23.0816,
+      "lon": -47.2101,
+      "valor": 6596674.9,
+      "origem": "lote"
      }
     ],
     "lotes": [],
-    "n_lotes": 0
+    "n_lotes": 1
    },
    "resultado": null,
    "fase": "aberta"
