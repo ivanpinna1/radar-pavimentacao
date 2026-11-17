@@ -1,5 +1,5 @@
 {
- "atualizado_em": "16/11/2026 23:55",
+ "atualizado_em": "17/11/2026 01:35",
  "whatsapp": "5527981050392",
  "total_base": 735,
  "itens": [
@@ -628,7 +628,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "julgamento"
+   "fase": "aberta"
   },
   {
    "id": "PNCP-17695008000112-1-000146-2026",
@@ -1212,7 +1212,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-01594009000130-1-000083-2026",
@@ -1279,7 +1279,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "DOU-aa0089e474693d892056",
@@ -1346,7 +1346,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-83102467000170-1-000080-2026",
@@ -1476,7 +1476,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "ADDN-SP-17-32026-1032026",
@@ -1543,7 +1543,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-75654566000136-1-000155-2026",
@@ -1610,7 +1610,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-76282649000104-1-000146-2026",
@@ -1673,7 +1673,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-76205715000142-1-000185-2026",
@@ -1736,7 +1736,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PRLO-PR-2-MV8xNjI1",
@@ -9981,8 +9981,11 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "aberta"
+   "resultado": {
+    "status": "revogada",
+    "origem": "situação informada pela fonte oficial"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-76245059000101-1-000191-2026",
