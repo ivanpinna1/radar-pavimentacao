@@ -1,5 +1,5 @@
 {
- "atualizado_em": "17/11/2026 21:55",
+ "atualizado_em": "18/11/2026 10:56",
  "whatsapp": "5527981050392",
  "total_base": 798,
  "itens": [
@@ -23,7 +23,7 @@
    "link_origem": "https://www.pirangi.sp.gov.br/licitacoes/2026/servico-de-recapeamento-asfaltico",
    "links_extra": [],
    "situacao": null,
-   "observacao": null,
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo valor); publicação duplicada: EFF-8237027.",
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
@@ -44,7 +44,7 @@
      "url": "https://www.pirangi.sp.gov.br/licitacoes/2026/servico-de-recapeamento-asfaltico"
     },
     {
-     "tipo": "Portal de compras",
+     "tipo": "Portal de compras (publicação duplicada)",
      "url": "https://bllcompras.com/Process/ProcessView?param1=%5Bgkz%5DAMC6LYHxm8lor0GRu1YoTsyBOqMrT178RBdU7r43oCuQN4IFnqtXdg1TW7NP6B0zelRKdsOSBo%2FJw6lmq7MHSzJg3priE6pT1kfyspAExzQ%3D"
     }
    ],
@@ -293,77 +293,6 @@
    "fase": "julgamento"
   },
   {
-   "id": "PNCP-76105535000199-1-000367-2026",
-   "titulo": "Edital CCE 6/2026",
-   "orgao": "MUNICIPIO DE ARAUCARIA",
-   "municipio": "Araucária",
-   "uf": "PR",
-   "data": "13/11/2026",
-   "hora": "08:00",
-   "objeto": "Contratação de empresa especializada para execução de obras de implantação, requalificação e melhoria da infraestrutura viária em diferentes trechos do Município de Araucária/PR, compreendendo serviços de pavimentação, drenagem, terraplenagem, sinalização viária, implantação de calçadas acessíveis, infraestrutura cicloviária e obras complementares, contemplando os seguintes lotes:Lote1 - Avenida das Araucárias, no trecho compreendido entre a Rua José Viscki e o Rio Barigui;Lote 2 - Loteamento Vila Angélica e entorno imediato do Terminal Vila Angélica;Lote 3 - Avenida Archelau de Almeida Torres, no trecho de ligação entre as ruas Maranhão e Francisca Bonvim;Lote 4 - Rua Tadeu Milan, no trecho de ligação com a Rua Rozália Wzorek;Lote 5 - Ruas Paraíba e Sergipe;a serem executados conforme projetos executivos, planilhas orçamentárias e demais documentos técnicos integrantes do processo, sob regime de empreitada por preço unitário, conforme edital e seus anexos.",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 40022591.47,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "itens da compra no PNCP: itens=5 asfalto=5 bloco/concreto=0",
-   "link_pncp": "https://pncp.gov.br/app/editais/76105535000199/2026/367",
-   "link_origem": null,
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "criterio": "Menor preço",
-   "regime": "Empreitada por preço unitário",
-   "regime_fonte": "objeto",
-   "regime_grupo": "Regime padrão (empreitada/tarefa)",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 6/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -25.5859,
-   "lon": -49.4047,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/76105535000199/2026/367"
-    },
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/76105535000199/2026/365"
-    },
-    {
-     "tipo": "Portal de compras",
-     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92553203000432026"
-    }
-   ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/76105535000199/2026/367",
-   "portal": "PNCP",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Araucária",
-      "uf": "PR",
-      "lat": -25.5859,
-      "lon": -49.4047,
-      "valor": 40022591.47,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   },
-   "resultado": null,
-   "fase": "julgamento"
-  },
-  {
    "id": "PNCP-83169623000110-1-000570-2026",
    "titulo": "Edital 71/2026",
    "orgao": "MUNICIPIO DE JOINVILLE",
@@ -421,6 +350,77 @@
       "lat": -26.3045,
       "lon": -48.8487,
       "valor": 2660274.31,
+      "origem": "sede"
+     }
+    ],
+    "lotes": [],
+    "n_lotes": 0
+   },
+   "resultado": null,
+   "fase": "julgamento"
+  },
+  {
+   "id": "PNCP-76105535000199-1-000365-2026",
+   "titulo": "Edital 43/2026",
+   "orgao": "MUNICIPIO DE ARAUCARIA",
+   "municipio": "Araucária",
+   "uf": "PR",
+   "data": "13/11/2026",
+   "hora": "08:59",
+   "objeto": "Pavimentação em CBUQ, incluindo serviços preliminares, terraplenagem, drenagem, base e sub-base, revestimento, meio-fio com sarjeta, serviços de urbanização, sinalização de trânsito e ensaios tecnológicos.",
+   "modalidade": "Concorrência Eletrônica",
+   "srp": false,
+   "valor_estimado": 40022591.47,
+   "fonte_valor": "PNCP",
+   "valor_obs": null,
+   "classe": "SIM",
+   "justificativa": "Pavimentação em CBUQ com base drenagem e sinalização",
+   "link_pncp": "https://pncp.gov.br/app/editais/76105535000199/2026/365",
+   "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92553203000432026",
+   "links_extra": [],
+   "situacao": "Divulgada no PNCP",
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo valor); publicação duplicada: PNCP-76105535000199-1-000367-2026.",
+   "situacao_alerta": null,
+   "pncp_erro_temporario": null,
+   "forma": "Eletrônica",
+   "modo_disputa": null,
+   "criterio": null,
+   "regime": null,
+   "regime_fonte": null,
+   "regime_grupo": null,
+   "docs_antecipados": null,
+   "edital_sigla": "CE 43/2026",
+   "link_sistema": null,
+   "link_edital": null,
+   "lat": -25.5859,
+   "lon": -49.4047,
+   "links": [
+    {
+     "tipo": "PNCP",
+     "url": "https://pncp.gov.br/app/editais/76105535000199/2026/365"
+    },
+    {
+     "tipo": "Portal de compras",
+     "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92553203000432026"
+    },
+    {
+     "tipo": "PNCP (publicação duplicada)",
+     "url": "https://pncp.gov.br/app/editais/76105535000199/2026/367"
+    }
+   ],
+   "link_licitacao": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=92553203000432026",
+   "portal": "Comprasnet",
+   "republicada": null,
+   "abrangencia": {
+    "tipo": "municipal",
+    "esfera": "municipal",
+    "municipios": [
+     {
+      "nome": "Araucária",
+      "uf": "PR",
+      "lat": -25.5859,
+      "lon": -49.4047,
+      "valor": 40022591.47,
       "origem": "sede"
      }
     ],
@@ -729,7 +729,7 @@
     "https://pncp.gov.br/app/editais/76995430000152/2026/196"
    ],
    "situacao": "Divulgada no PNCP",
-   "observacao": null,
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo valor); publicação duplicada: PNCP-76995430000152-1-000190-2026.",
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
@@ -758,11 +758,11 @@
      "url": "https://www.itapejaradoeste.pr.gov.br/licitacoes/aviso-de-concorrencia-eletronica-019-2026-data-de-abertura-13-11-2026/"
     },
     {
-     "tipo": "PNCP",
+     "tipo": "PNCP (publicação duplicada)",
      "url": "https://pncp.gov.br/app/editais/76995430000152/2026/190"
     },
     {
-     "tipo": "Portal de compras",
+     "tipo": "Portal de compras (publicação duplicada)",
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45437003000432026"
     }
    ],
@@ -864,14 +864,14 @@
    "fase": "julgamento"
   },
   {
-   "id": "PNCP-18602037000155-1-000375-2026",
-   "titulo": "Edital 5/2026",
+   "id": "PNCP-18602037000155-1-000376-2026",
+   "titulo": "Edital 005/2026",
    "orgao": "MUNICIPIO DE SAO GOTARDO",
    "municipio": "São Gotardo",
    "uf": "MG",
    "data": "13/11/2026",
-   "hora": "13:20",
-   "objeto": "PAVIMENTACAO ASFALTICA EM C B U Q EM DIVERSAS RUAS NO MUNICIPIO DE SAO GOTARDO POR MEIO DE TRANSFERENCIA ESPECIAL DOS ESTADOS, INSTRUMENTO DE TRANSFERENCIA: CONTRATO DE REPASSE N 921079/2021 , PRPOSTA N 47738/2021 , OPERACAO N 1080209,67/2021",
+   "hora": "13:30",
+   "objeto": "PAVIMENTAÇÃO ASFÁLTICA EM C.B.U.Q EM DIVERSAS RUAS NO MUNICÍPIO DE SÃO GOTARDO, DENOMINAÇÃO ESTABELECIDA NO ÂMBITO DO EMPREENDIMENTO VINCULADO AO CONTRATO DE REPASSE Nº 921079/2021, À PROPOSTA Nº 47738/2021 E À OPERAÇÃO Nº 1080209-67/2021, CONFORME OS DOCUMENTOS RELACIONADOS À CAIXA ECONÔMICA FEDERAL.",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
    "valor_estimado": 1186824.04,
@@ -879,19 +879,23 @@
    "valor_obs": null,
    "classe": "SIM",
    "justificativa": "Pavimentação asfáltica em CBUQ de diversas ruas",
-   "link_pncp": "https://pncp.gov.br/app/editais/18602037000155/2026/375",
-   "link_origem": null,
-   "links_extra": [],
+   "link_pncp": "https://pncp.gov.br/app/editais/18602037000155/2026/376",
+   "link_origem": "https://licitanet.com.br/sessao/206434",
+   "links_extra": [
+    "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741142968",
+    "https://licitanet.com.br/sessao/206434",
+    "https://pncp.gov.br/app/editais/18602037000155/2026/376"
+   ],
    "situacao": "Divulgada no PNCP",
-   "observacao": null,
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo órgão e número); publicação duplicada: PNCP-18602037000155-1-000375-2026.",
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "criterio": "Menor preço",
-   "regime": "Empreitada por preço unitário",
-   "regime_fonte": "edital (PNCP)",
-   "regime_grupo": "Regime padrão (empreitada/tarefa)",
+   "modo_disputa": null,
+   "criterio": null,
+   "regime": null,
+   "regime_fonte": null,
+   "regime_grupo": null,
    "docs_antecipados": null,
    "edital_sigla": "CE 5/2026",
    "link_sistema": null,
@@ -899,10 +903,6 @@
    "lat": -19.3087,
    "lon": -46.0465,
    "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/18602037000155/2026/375"
-    },
     {
      "tipo": "PNCP",
      "url": "https://pncp.gov.br/app/editais/18602037000155/2026/376"
@@ -914,10 +914,14 @@
     {
      "tipo": "Diário Oficial",
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-741142968"
+    },
+    {
+     "tipo": "PNCP (publicação duplicada)",
+     "url": "https://pncp.gov.br/app/editais/18602037000155/2026/375"
     }
    ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/18602037000155/2026/375",
-   "portal": "PNCP",
+   "link_licitacao": "https://licitanet.com.br/sessao/206434",
+   "portal": "Licitanet",
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
@@ -1159,7 +1163,7 @@
     "https://licitanet.com.br/sessao/199826"
    ],
    "situacao": "Divulgada no PNCP",
-   "observacao": null,
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo valor); publicação duplicada: MN-3149804-2-202026.",
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
@@ -1188,7 +1192,7 @@
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740220303"
     },
     {
-     "tipo": "Site do órgão",
+     "tipo": "Site do órgão (publicação duplicada)",
      "url": "https://transparencia.perdizes.mg.gov.br/#/licitacoes"
     }
    ],
@@ -1799,7 +1803,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-75461442000134-1-000060-2026",
@@ -1866,7 +1870,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-48031918000124-1-003134-2026",
@@ -1933,7 +1937,7 @@
     "n_lotes": 1
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "DOU-c28b55458afc9e055cf4",
@@ -2006,7 +2010,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-81044984000104-1-000120-2026",
@@ -2073,7 +2077,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-18313825000121-1-000135-2026",
@@ -2140,7 +2144,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-76968627000100-1-000327-2026",
@@ -2203,7 +2207,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-01603719000180-1-000133-2026",
@@ -2270,7 +2274,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-01603719000180-1-000132-2026",
@@ -2333,7 +2337,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-18338848000190-1-000068-2026",
@@ -2407,7 +2411,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-44951515000142-1-000167-2026",
@@ -2474,7 +2478,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-83102582000144-1-000199-2026",
@@ -2537,7 +2541,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-70946009000175-1-000426-2026",
@@ -2612,7 +2616,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-01612478000135-1-000059-2026",
@@ -2634,7 +2638,7 @@
    "link_origem": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Patis-2932/CPMP-001-2026-2026-521576",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
-   "observacao": null,
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo órgão e número); publicação duplicada: PNCP-01612478000135-1-000060-2026.",
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
@@ -2659,15 +2663,15 @@
      "url": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Patis-2932/CPMP-001-2026-2026-521576"
     },
     {
-     "tipo": "PNCP",
+     "tipo": "PNCP (publicação duplicada)",
      "url": "https://pncp.gov.br/app/editais/01612478000135/2026/60"
     },
     {
-     "tipo": "Portal de compras",
+     "tipo": "Portal de compras (publicação duplicada)",
      "url": "https://www.portaldecompraspublicas.com.br/"
     },
     {
-     "tipo": "Diário Oficial",
+     "tipo": "Diário Oficial (publicação duplicada)",
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-740719144"
     }
    ],
@@ -2691,7 +2695,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-18306670000104-1-000027-2026",
@@ -2762,7 +2766,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-66232547000120-1-000093-2026",
@@ -2833,7 +2837,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-45332095000189-1-000168-2026",
@@ -2900,7 +2904,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-95951323000177-1-000106-2026",
@@ -2967,7 +2971,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-46578530000112-1-000075-2026",
@@ -3034,7 +3038,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNPL-SP-17-202026-276012026",
@@ -3107,7 +3111,7 @@
     "n_lotes": 0
    },
    "resultado": null,
-   "fase": "aberta"
+   "fase": "julgamento"
   },
   {
    "id": "PNCP-95641916000137-1-000062-2026",
@@ -6344,7 +6348,7 @@
     "https://pncp.gov.br/app/editais/82892308000153/2026/233"
    ],
    "situacao": "Divulgada no PNCP",
-   "observacao": null,
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo órgão e número); publicação duplicada: PNCP-82892308000153-1-000232-2026.",
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
@@ -6371,6 +6375,10 @@
     {
      "tipo": "Diário Oficial",
      "url": "https://www.diariomunicipal.sc.gov.br/atos/8886501"
+    },
+    {
+     "tipo": "PNCP (publicação duplicada)",
+     "url": "https://pncp.gov.br/app/editais/82892308000153/2026/232"
     }
    ],
    "link_licitacao": "https://comprasbr.com.br/pregao-eletronico-detalhe/?idlicitacao=49483",
@@ -6386,69 +6394,6 @@
       "lat": -27.496,
       "lon": -48.6598,
       "valor": 239198.02,
-      "origem": "sede"
-     }
-    ],
-    "lotes": [],
-    "n_lotes": 0
-   },
-   "resultado": null,
-   "fase": "aberta"
-  },
-  {
-   "id": "PNCP-82892308000153-1-000232-2026",
-   "titulo": "Edital CCE 152/2026",
-   "orgao": "MUNICIPIO DE BIGUACU",
-   "municipio": "Biguaçu",
-   "uf": "SC",
-   "data": "24/11/2026",
-   "hora": "14:00",
-   "objeto": "Contratação de empresa para execução de pavimentação asfáltica, drenagem pluvial e sinalização da Servidão Miguel Maurino da Silva, no bairro São Miguel.Obras e Serviços de Engenharia",
-   "modalidade": "Concorrência Eletrônica",
-   "srp": false,
-   "valor_estimado": 239197.99,
-   "fonte_valor": "PNCP",
-   "valor_obs": null,
-   "classe": "SIM",
-   "justificativa": "Pavimentação asfáltica com drenagem e sinalização",
-   "link_pncp": "https://pncp.gov.br/app/editais/82892308000153/2026/232",
-   "link_origem": null,
-   "links_extra": [],
-   "situacao": "Divulgada no PNCP",
-   "observacao": null,
-   "situacao_alerta": null,
-   "pncp_erro_temporario": null,
-   "forma": "Eletrônica",
-   "modo_disputa": "Aberto",
-   "criterio": "Menor preço",
-   "regime": "Empreitada por preço global",
-   "regime_fonte": "edital (PNCP)",
-   "regime_grupo": "Regime padrão (empreitada/tarefa)",
-   "docs_antecipados": null,
-   "edital_sigla": "CE 152/2026",
-   "link_sistema": null,
-   "link_edital": null,
-   "lat": -27.496,
-   "lon": -48.6598,
-   "links": [
-    {
-     "tipo": "PNCP",
-     "url": "https://pncp.gov.br/app/editais/82892308000153/2026/232"
-    }
-   ],
-   "link_licitacao": "https://pncp.gov.br/app/editais/82892308000153/2026/232",
-   "portal": "PNCP",
-   "republicada": null,
-   "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
-    "municipios": [
-     {
-      "nome": "Biguaçu",
-      "uf": "SC",
-      "lat": -27.496,
-      "lon": -48.6598,
-      "valor": 239197.99,
       "origem": "sede"
      }
     ],
@@ -7769,7 +7714,7 @@
    "link_origem": "https://www.diariomunicipal.sc.gov.br/atos/8899547",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
-   "observacao": null,
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo valor); publicação duplicada: DOU-f8a2363e2c39c6e0e426.",
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Presencial",
@@ -7794,7 +7739,7 @@
      "url": "https://www.diariomunicipal.sc.gov.br/atos/8899547"
     },
     {
-     "tipo": "Diário Oficial",
+     "tipo": "Diário Oficial (publicação duplicada)",
      "url": "https://www.in.gov.br/web/dou/-/aviso-de-licitacao-743413150"
     }
    ],
@@ -9787,7 +9732,7 @@
     "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Balneario-Gaivota-1284/CPMP-CE19-2026-2026-525072"
    ],
    "situacao": "Divulgada no PNCP",
-   "observacao": null,
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo valor); publicação duplicada: EFF-8238892.",
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
@@ -9816,7 +9761,7 @@
      "url": "https://www.portaldecompraspublicas.com.br/processos/sc/prefeitura-municipal-de-balneário-gaivota-1284/p-ce19-2026-2026-525072"
     },
     {
-     "tipo": "Site do órgão",
+     "tipo": "Site do órgão (publicação duplicada)",
      "url": "https://transparencia.betha.cloud/#/LLL0P0o_xuzlF0HbhRul5w==/consulta/19495/detalhe/831:1606:2026_94_1606"
     }
    ],
@@ -12986,7 +12931,7 @@
    "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98668103000412026",
    "links_extra": [],
    "situacao": "Divulgada no PNCP",
-   "observacao": null,
+   "observacao": "Mesmo certame publicado mais de uma vez (mesmo valor); publicação duplicada: PNCP-44477909000100-1-000974-2026.",
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
@@ -13011,7 +12956,7 @@
      "url": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98668103000412026"
     },
     {
-     "tipo": "PNCP",
+     "tipo": "PNCP (publicação duplicada)",
      "url": "https://pncp.gov.br/app/editais/44477909000100/2026/974"
     }
    ],
