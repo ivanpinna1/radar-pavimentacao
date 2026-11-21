@@ -1,5 +1,5 @@
 {
- "atualizado_em": "20/11/2026 17:20",
+ "atualizado_em": "20/11/2026 20:58",
  "whatsapp": "5527981050392",
  "total_base": 1022,
  "itens": [
@@ -164,6 +164,10 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
+     },
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
      }
     ],
     "n_itens": 10,
@@ -175,7 +179,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 23:53"
+    "atualizado_em": "20/11/2026 20:56"
    },
    "fase": "julgamento"
   },
@@ -277,6 +281,10 @@
      {
       "em": "13/11/2026",
       "status": "em julgamento"
+     },
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
      }
     ],
     "n_itens": 1,
@@ -288,7 +296,7 @@
     "situacoes_itens": [
      "em andamento"
     ],
-    "atualizado_em": "13/11/2026 23:53"
+    "atualizado_em": "20/11/2026 20:56"
    },
    "fase": "julgamento"
   },
@@ -356,7 +364,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 2660274.31,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -427,7 +453,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 5,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 40022591.47,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -490,7 +534,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 2615069.06,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -557,7 +619,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 4798333.19,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "aberta"
   },
   {
@@ -627,8 +707,35 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "julgamento"
+   "resultado": {
+    "status": "homologada",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "homologada"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 1,
+    "valor_homologado": 429298.37,
+    "valor_estimado": 429574.99,
+    "desconto_pct": 0.06,
+    "vencedores": [
+     {
+      "cnpj": "55980858000151",
+      "nome": "PORT CON CONSTRUTORA LTDA",
+      "porte": "Demais",
+      "valor": 429298.37,
+      "itens": 1,
+      "data": "2026-11-17"
+     }
+    ],
+    "situacoes_itens": [
+     "homologado"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-17695008000112-1-000146-2026",
@@ -702,7 +809,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 19,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 2079731.45,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -777,7 +902,25 @@
     "lotes": [],
     "n_lotes": 1
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 9970737.04,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -860,7 +1003,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 2210831.98,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -939,8 +1100,27 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "julgamento"
+   "resultado": {
+    "status": "anulada",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "anulada"
+     }
+    ],
+    "n_itens": 30,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1186824.04,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "anulado/revogado/cancelado",
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-82821174000180-1-000489-2026",
@@ -1002,7 +1182,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 262244.79,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1075,7 +1273,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 449170.51,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1168,7 +1384,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -1215,7 +1431,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 78,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 124834.37,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1282,7 +1516,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 11149901.37,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1349,7 +1601,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1391108.4,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1416,7 +1686,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1772110.85,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1483,7 +1771,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 2255240.31,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1550,8 +1856,35 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "julgamento"
+   "resultado": {
+    "status": "homologada",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "homologada"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 1,
+    "valor_homologado": 339971.57,
+    "valor_estimado": 348053.16,
+    "desconto_pct": 2.32,
+    "vencedores": [
+     {
+      "cnpj": "10558895000138",
+      "nome": "NOROMIX CONCRETO S/A",
+      "porte": "Demais",
+      "valor": 339971.57,
+      "itens": 1,
+      "data": "2026-11-17"
+     }
+    ],
+    "situacoes_itens": [
+     "homologado"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-83102467000170-1-000080-2026",
@@ -1613,7 +1946,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 17171217.1,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "aberta"
   },
   {
@@ -1676,7 +2027,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 3279158.46,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1739,7 +2108,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 6637031.28,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1869,7 +2256,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 11483789.57,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -1936,7 +2341,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 5,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 5638500.35,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2003,7 +2426,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 15,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 407271.58,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2070,7 +2511,25 @@
     "lotes": [],
     "n_lotes": 1
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 105109.0,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2133,7 +2592,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 6106291.17,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2206,7 +2683,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1965915.68,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2273,7 +2768,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1058389.91,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2347,7 +2860,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 516448.52,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2410,7 +2941,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 5106532.33,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2473,7 +3022,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 4,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 11630067.13,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2540,7 +3107,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 197058.2,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2615,7 +3200,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1294336.22,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2694,7 +3297,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 4,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 736374.0,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2765,7 +3386,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 37,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 4206127.09,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2836,7 +3475,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 24,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 501536.01,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2903,7 +3560,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 12,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 471214.38,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -2970,8 +3645,35 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "julgamento"
+   "resultado": {
+    "status": "homologada",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "homologada"
+     }
+    ],
+    "n_itens": 2,
+    "itens_com_resultado": 2,
+    "valor_homologado": 1131751.8,
+    "valor_estimado": 1131751.8,
+    "desconto_pct": 0.0,
+    "vencedores": [
+     {
+      "cnpj": "15247296000117",
+      "nome": "IBERICA CONSTRUCOES CIVIS E VIARIAS LTDA",
+      "porte": "Demais",
+      "valor": 1131751.8,
+      "itens": 2,
+      "data": "2026-11-18"
+     }
+    ],
+    "situacoes_itens": [
+     "homologado"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-46578530000112-1-000075-2026",
@@ -3037,7 +3739,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1744424.91,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3110,7 +3830,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 17471684.27,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3177,7 +3915,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 2,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 10380138.47,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3244,7 +4000,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 707541.47,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3319,8 +4093,26 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "julgamento"
+   "resultado": {
+    "status": "deserta",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "deserta"
+     }
+    ],
+    "n_itens": 7,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 19658493.8,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "deserto"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-82892365000132-1-000129-2026",
@@ -3394,8 +4186,43 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "julgamento"
+   "resultado": {
+    "status": "homologada",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "homologada"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 2,
+    "valor_homologado": 443000.0,
+    "valor_estimado": 494754.74,
+    "desconto_pct": 10.46,
+    "vencedores": [
+     {
+      "cnpj": "00820854000114",
+      "nome": "QUALIDADE MINERACAO LTDA",
+      "porte": "Demais",
+      "valor": 443000.0,
+      "itens": 1,
+      "data": "2026-11-19"
+     },
+     {
+      "cnpj": "45147671000118",
+      "nome": "BRATROM PROJETOS E OBRAS LTDA",
+      "porte": "ME",
+      "valor": 0.0,
+      "itens": 1,
+      "data": "2026-11-19"
+     }
+    ],
+    "situacoes_itens": [
+     "homologado"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-44881449000181-1-000153-2026",
@@ -3464,7 +4291,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 235904.36,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3534,7 +4379,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1695294.07,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3609,7 +4472,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 666419.54,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3679,7 +4560,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 495529.78,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3746,7 +4645,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 4251909.86,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3821,7 +4738,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 805960.06,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -3888,7 +4823,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 107572864.88,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "aberta"
   },
   {
@@ -3955,7 +4908,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 19166462.74,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4091,7 +5062,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 6,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1054149.91,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4154,7 +5143,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 6438551.35,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4294,8 +5301,27 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "julgamento"
+   "resultado": {
+    "status": "anulada",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "anulada"
+     }
+    ],
+    "n_itens": 47,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 509670.58,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "anulado/revogado/cancelado",
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-77817054000179-1-000119-2026",
@@ -4361,7 +5387,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 357531.38,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4431,7 +5475,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 810900.0,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4498,7 +5560,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 2,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 8192372.23,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4565,7 +5645,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 3250595.88,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4636,7 +5734,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 9,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1500000.39,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4699,7 +5815,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 2866020.39,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4766,7 +5900,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 1,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 1366106.31,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4839,7 +5991,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 15,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 611039.92,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4906,7 +6076,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 19,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 399552.67,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -4969,7 +6157,25 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
+   "resultado": {
+    "status": "em julgamento",
+    "checagens": [
+     {
+      "em": "20/11/2026",
+      "status": "em julgamento"
+     }
+    ],
+    "n_itens": 4,
+    "itens_com_resultado": 0,
+    "valor_homologado": null,
+    "valor_estimado": 527693.55,
+    "desconto_pct": null,
+    "vencedores": [],
+    "situacoes_itens": [
+     "em andamento"
+    ],
+    "atualizado_em": "20/11/2026 20:56"
+   },
    "fase": "julgamento"
   },
   {
@@ -5069,7 +6275,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -6424,10 +7630,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 102/2026",
    "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Itacambira-1702/CPMP-00102-2026-2026-523753",
@@ -11621,10 +12827,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Maior desconto",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "PE 22/2026",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98624505000222026",
@@ -11830,7 +13036,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -11851,7 +13057,7 @@
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
-    "esfera": "municipal",
+    "esfera": "estadual",
     "municipios": [
      {
       "nome": "São Miguel Arcanjo",
@@ -11859,11 +13065,11 @@
       "lat": -23.8782,
       "lon": -47.9935,
       "valor": 969930.0,
-      "origem": "sede"
+      "origem": "objeto"
      }
     ],
     "lotes": [],
-    "n_lotes": 0
+    "n_lotes": 1
    },
    "resultado": null,
    "fase": "aberta"
@@ -11962,7 +13168,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -12795,10 +14001,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Sim",
    "edital_sigla": "PE 53/2026",
    "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]jy_JYDzJ6bB0MahlycnXFLbn6XUndZiCvqimc1ktVGpBLe4etSWHtFQM5sejkzeUmNFs8m1jGgTMDgg18kVmlfE3o7X5wGN4hj88glaCziw=",
@@ -12866,10 +14072,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 107/2026",
    "link_sistema": "",
@@ -13321,10 +14527,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 22/2026",
    "link_sistema": "https://bnccompras.com/Process/ProcessView?param1=[gkz]DoJojlxDeKNl_PeNmHw5NtuIJAdDsj2gC/G8dX/ZtyMrLyl1eMkTNO3jpS9Nw/uAr3tFxOz_dHyogDrEgY1uINkNRLAxIQ3qmX9FkIbJM2E=",
@@ -13731,7 +14937,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -13752,7 +14958,7 @@
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
-    "esfera": "municipal",
+    "esfera": "estadual",
     "municipios": [
      {
       "nome": "Jarinu",
@@ -13760,11 +14966,11 @@
       "lat": -23.1039,
       "lon": -46.728,
       "valor": null,
-      "origem": "sede"
+      "origem": "objeto"
      }
     ],
     "lotes": [],
-    "n_lotes": 0
+    "n_lotes": 1
    },
    "resultado": null,
    "fase": "aberta"
@@ -13794,10 +15000,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 10/2026",
    "link_sistema": null,
@@ -13995,10 +15201,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "PE 62/2026",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98637105000622026",
@@ -14019,8 +15225,8 @@
    "portal": "Comprasnet",
    "republicada": null,
    "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
+    "tipo": "estadual",
+    "esfera": "estadual",
     "municipios": [
      {
       "nome": "Cubatão",
@@ -14032,7 +15238,7 @@
      }
     ],
     "lotes": [],
-    "n_lotes": 0
+    "n_lotes": 1
    },
    "resultado": null,
    "fase": "aberta"
@@ -14196,10 +15402,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 23/2026",
    "link_sistema": null,
@@ -14265,10 +15471,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 20/2026",
    "link_sistema": " ",
@@ -15058,10 +16264,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "objeto",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Não",
    "edital_sigla": "CE 13/2026",
    "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]YYJi6/4T8kMH2t7CQD/cBrzNQ9Imw_QHwMrFpz/QFhQJqww_8SGb_h32DZ8WtuhVVdNHPhSIWGKh2leEF9O9TVIfO0EVNc2bwXdFpoGmL70=",
@@ -15198,10 +16404,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 6/2026",
    "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/MG/Prefeitura-Municipal-de-Luislandia-1881/CPMP-0006-2026-2026-526723",
@@ -15271,10 +16477,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 11/2026",
    "link_sistema": "www.portaldecompraspublicas.com.br",
@@ -15699,10 +16905,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "objeto",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 84/2026",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98766703000842026",
@@ -15829,10 +17035,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 14/2026",
    "link_sistema": "",
@@ -15967,10 +17173,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 3/2026",
    "link_sistema": "https://app2.licitardigital.com.br/pesquisa/119716",
@@ -16099,10 +17305,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Não",
    "edital_sigla": "CE 14/2026",
    "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]YsFUms/z5MHO//VS5oPNViXzRMR1JCytPG0sp39XCPD3hW2xP/Q5hNRvFo3OTz8bRjQ2g6y29JEp3iZf3qwuAohhtSBxXkpiR/7dsW0g4XU=",
@@ -16967,10 +18173,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Maior desconto",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 208/2026",
    "link_sistema": "https://licitacoes-e2.bb.com.br/aop-inter-estatico/visualizar-processo-publico/1101556",
@@ -16992,19 +18198,19 @@
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
-    "esfera": "municipal",
+    "esfera": "estadual",
     "municipios": [
      {
-      "nome": "Salvador",
+      "nome": "São Gonçalo dos Campos",
       "uf": "BA",
-      "lat": -12.9718,
-      "lon": -38.5011,
+      "lat": -12.4331,
+      "lon": -38.9663,
       "valor": 4961835.0,
-      "origem": "sede"
+      "origem": "lote"
      }
     ],
     "lotes": [],
-    "n_lotes": 0
+    "n_lotes": 1
    },
    "resultado": null,
    "fase": "aberta"
@@ -17442,7 +18648,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -17667,10 +18873,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Contratação semi-integrada",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Contratação semi-integrada",
    "docs_antecipados": null,
    "edital_sigla": "CE 7/2027",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98804903000072027",
