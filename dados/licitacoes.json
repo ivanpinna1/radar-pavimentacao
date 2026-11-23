@@ -1,5 +1,5 @@
 {
- "atualizado_em": "23/11/2026 15:11",
+ "atualizado_em": "23/11/2026 20:56",
  "whatsapp": "5527981050392",
  "total_base": 1039,
  "itens": [
@@ -7333,7 +7333,7 @@
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "situacao_alerta": null,
-   "pncp_erro_temporario": null,
+   "pncp_erro_temporario": "23/11/2026 20:55",
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
    "criterio": "Menor preço",
@@ -7818,7 +7818,7 @@
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "situacao_alerta": null,
-   "pncp_erro_temporario": null,
+   "pncp_erro_temporario": "23/11/2026 20:55",
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
    "criterio": "Menor preço",
@@ -7878,9 +7878,9 @@
    "link_pncp": "https://pncp.gov.br/app/editais/46634523000190/2026/257",
    "link_origem": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98710303000292026",
    "links_extra": [],
-   "situacao": "Divulgada no PNCP",
+   "situacao": "Anulada",
    "observacao": null,
-   "situacao_alerta": null,
+   "situacao_alerta": "Anulada",
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
@@ -7923,8 +7923,11 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "aberta"
+   "resultado": {
+    "status": "anulada",
+    "origem": "situação informada pela fonte oficial"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-46634473000141-1-000225-2026",
@@ -8520,10 +8523,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 113/2026",
    "link_sistema": "https://www.portaldecompraspublicas.com.br/processos/SC/Prefeitura-Municipal-de-Zortea-2520/CPMP-113-2026-2026-524432",
@@ -19121,7 +19124,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Maior desconto",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
