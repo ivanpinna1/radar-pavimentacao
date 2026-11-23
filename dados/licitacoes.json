@@ -1,5 +1,5 @@
 {
- "atualizado_em": "23/11/2026 13:24",
+ "atualizado_em": "23/11/2026 15:07",
  "whatsapp": "5527981050392",
  "total_base": 1039,
  "itens": [
@@ -8519,7 +8519,7 @@
    "situacao_alerta": null,
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": null,
    "regime": null,
    "regime_fonte": null,
@@ -19120,7 +19120,7 @@
    "situacao_alerta": "Revogada",
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
-   "modo_disputa": null,
+   "modo_disputa": "Aberto",
    "criterio": null,
    "regime": null,
    "regime_fonte": null,
