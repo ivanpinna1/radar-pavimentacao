@@ -1,5 +1,5 @@
 {
- "atualizado_em": "25/11/2026 10:37",
+ "atualizado_em": "25/11/2026 14:17",
  "whatsapp": "5527981050392",
  "total_base": 1154,
  "itens": [
@@ -7337,7 +7337,7 @@
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "situacao_alerta": null,
-   "pncp_erro_temporario": "23/11/2026 20:55",
+   "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
    "criterio": "Menor preço",
@@ -7892,7 +7892,7 @@
    "situacao": "Divulgada no PNCP",
    "observacao": null,
    "situacao_alerta": null,
-   "pncp_erro_temporario": "23/11/2026 20:55",
+   "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
    "criterio": "Menor preço",
@@ -8720,7 +8720,7 @@
    "links_extra": [],
    "situacao": null,
    "observacao": null,
-   "situacao_alerta": null,
+   "situacao_alerta": "Revogada",
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto e Fechado",
@@ -8759,8 +8759,11 @@
     "lotes": [],
     "n_lotes": 0
    },
-   "resultado": null,
-   "fase": "aberta"
+   "resultado": {
+    "status": "revogada",
+    "origem": "situação informada pela fonte oficial"
+   },
+   "fase": "concluida"
   },
   {
    "id": "PNCP-18338285000130-1-000098-2026",
@@ -14195,7 +14198,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -15127,10 +15130,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 20/2026",
    "link_sistema": null,
@@ -15471,7 +15474,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -15806,10 +15809,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "PE 49/2026",
    "link_sistema": "",
@@ -16877,10 +16880,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Não",
    "edital_sigla": "CE 12/2026",
    "link_sistema": null,
@@ -17153,10 +17156,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 19/2026",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=98985903000192026",
@@ -17583,10 +17586,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Sim",
    "edital_sigla": "CE 5/2026",
    "link_sistema": " ",
@@ -17654,10 +17657,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Não",
    "edital_sigla": "CE 24/2026",
    "link_sistema": null,
@@ -17723,10 +17726,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Sim",
    "edital_sigla": "CE 29/2026",
    "link_sistema": "https://bnccompras.com/Process/ProcessView?param1=[gkz]w5qoJCKv6YAAVdBlgKj4YQdYWEspe_uL77smhdTPJ1MX5RYkb1jWumxvHnBbE1yUzpa8ysfT98FJnzRf_KOkuuwVeJeTe7V6xFNaPB3fZB4=",
@@ -17997,10 +18000,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Não",
    "edital_sigla": "PE 12/2026",
    "link_sistema": "https://bllcompras.com/Process/ProcessView?param1=[gkz]nTku6fuoUIS/qGedJN2vLV_VB1joR4QoqDxNoPWQg4SUAAqRldcn/E9CskTpMAWR9cnh3d3OSpOXtH3gm/5hlcgcsRAYQYwyHlLEgLE5rSc=",
@@ -18135,10 +18138,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 23/2026",
    "link_sistema": null,
@@ -18160,7 +18163,7 @@
    "republicada": null,
    "abrangencia": {
     "tipo": "municipal",
-    "esfera": "municipal",
+    "esfera": "estadual",
     "municipios": [
      {
       "nome": "Brusque",
@@ -18168,11 +18171,11 @@
       "lat": -27.0977,
       "lon": -48.9107,
       "valor": 10724254.69,
-      "origem": "sede"
+      "origem": "lote"
      }
     ],
     "lotes": [],
-    "n_lotes": 0
+    "n_lotes": 1
    },
    "resultado": null,
    "fase": "aberta"
@@ -18202,10 +18205,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": null,
    "edital_sigla": "CE 112/2026",
    "link_sistema": "https://cnetmobile.estaleiro.serpro.gov.br/comprasnet-web/public/compras/acompanhamento-compra?compra=45323003001122026",
@@ -18269,7 +18272,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -18293,8 +18296,8 @@
    "portal": "Comprasnet",
    "republicada": null,
    "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
+    "tipo": "estadual",
+    "esfera": "estadual",
     "municipios": [
      {
       "nome": "Esperança Nova",
@@ -18305,8 +18308,33 @@
       "origem": "sede"
      }
     ],
-    "lotes": [],
-    "n_lotes": 0
+    "lotes": [
+     {
+      "num": 1,
+      "descricao": "Disponibilização de profissionais para execução de serviços de segurança desarmada, dos sexos feminino e masculino, em jornadas de 12 horas, compreendendo o turno diurno das 06h00 às 18h00 ou o turno noturno das 18h00 às",
+      "valor": 44003.0,
+      "municipios": []
+     },
+     {
+      "num": 2,
+      "descricao": "Fornecimento de profissionais para prestação de serviços de segurança desarmada durante o evento de Réveillon, em jornada de 12 horas, das 18h00 às 06h00. A equipe será composta por profissionais capacitados, uniformizad",
+      "valor": 12828.6,
+      "municipios": []
+     },
+     {
+      "num": 3,
+      "descricao": "Execução de serviços de segurança desarmada em eventos esportivos, com profissionais dos sexos feminino e masculino, em jornada de 8 horas, das 18h00 às 02h00. A equipe deverá atuar uniformizada, identificada e de forma ",
+      "valor": 38973.0,
+      "municipios": []
+     },
+     {
+      "num": 4,
+      "descricao": "Prestação de serviços de segurança desarmada para eventos esportivos, com profissionais capacitados dos sexos feminino e masculino, no horário das 13h00 às 19h00. Os profissionais atuarão devidamente uniformizados e iden",
+      "valor": 7289.6,
+      "municipios": []
+     }
+    ],
+    "n_lotes": 4
    },
    "resultado": null,
    "fase": "aberta"
@@ -18322,9 +18350,9 @@
    "objeto": "Contratação de empresa especializada em engenharia para execução das Obras de pavimentação asfáltica e drenagem superficial da Rua das Pitangueiras e Passagem Bolívia, bairro: Parque Laranjeiras, na cidade de Pirapora do Bom Jesus - SP.",
    "modalidade": "Concorrência Eletrônica",
    "srp": false,
-   "valor_estimado": null,
-   "fonte_valor": null,
-   "valor_obs": "valor não informado na fonte",
+   "valor_estimado": 696236.94,
+   "fonte_valor": "edital no PNCP (A_07__DFD)",
+   "valor_obs": null,
    "classe": "SIM",
    "justificativa": "Execução de pavimentação asfáltica e drenagem superficial",
    "link_pncp": "https://pncp.gov.br/app/editais/46523007000199/2026/21",
@@ -18336,7 +18364,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -18360,20 +18388,28 @@
    "portal": "PNCP",
    "republicada": null,
    "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
+    "tipo": "multimunicipal",
+    "esfera": "estadual",
     "municipios": [
      {
       "nome": "Pirapora do Bom Jesus",
       "uf": "SP",
       "lat": -23.3965,
       "lon": -46.9991,
-      "valor": null,
-      "origem": "sede"
+      "valor": 348118.47,
+      "origem": "lote"
+     },
+     {
+      "nome": "Pitangueiras",
+      "uf": "SP",
+      "lat": -21.0132,
+      "lon": -48.221,
+      "valor": 348118.47,
+      "origem": "lote"
      }
     ],
     "lotes": [],
-    "n_lotes": 0
+    "n_lotes": 1
    },
    "resultado": {
     "status": "anulada",
@@ -18997,7 +19033,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -19412,10 +19448,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço global",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Não",
    "edital_sigla": "CE 13/2026",
    "link_sistema": "",
@@ -20098,7 +20134,7 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
+   "criterio": "Menor preço",
    "regime": null,
    "regime_fonte": null,
    "regime_grupo": null,
@@ -20118,8 +20154,8 @@
    "portal": "PNCP",
    "republicada": null,
    "abrangencia": {
-    "tipo": "municipal",
-    "esfera": "municipal",
+    "tipo": "estadual",
+    "esfera": "estadual",
     "municipios": [
      {
       "nome": "Tremembé",
@@ -20131,7 +20167,7 @@
      }
     ],
     "lotes": [],
-    "n_lotes": 0
+    "n_lotes": 1
    },
    "resultado": null,
    "fase": "aberta"
@@ -20309,10 +20345,10 @@
    "pncp_erro_temporario": null,
    "forma": "Eletrônica",
    "modo_disputa": "Aberto",
-   "criterio": null,
-   "regime": null,
-   "regime_fonte": null,
-   "regime_grupo": null,
+   "criterio": "Menor preço",
+   "regime": "Empreitada por preço unitário",
+   "regime_fonte": "edital (PNCP)",
+   "regime_grupo": "Regime padrão (empreitada/tarefa)",
    "docs_antecipados": "Sim",
    "edital_sigla": "CE 6/2026",
    "link_sistema": "",
